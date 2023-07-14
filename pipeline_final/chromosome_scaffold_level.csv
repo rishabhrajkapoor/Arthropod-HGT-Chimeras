@@ -1,0 +1,238 @@
+,taxid,organism,BUSCO_complete,ScaffoldN50,class,order
+GCF_000697945.3,133901,Frankliniella occidentalis (western flower thrips),0.992685,956533,Insecta,Thysanoptera
+GCF_947172395.1,110368,Bicyclus anynana (squinting bush brown),0.990352,17439807,Insecta,Lepidoptera
+GCF_025231255.1,125945,Drosophila biarmipes (flies),0.998478,26917925,Insecta,Diptera
+GCF_025200985.1,103775,Drosophila gunungcola (flies),0.994521,3022255,Insecta,Diptera
+GCF_024516045.1,309941,Bombus affinis (bees),0.990486,12331690,Insecta,Hymenoptera
+GCF_025091365.1,58002,Daktulosphaira vitifoliae (grape phylloxera),0.990837,45892627,Insecta,Hemiptera
+GCF_023101765.2,7108,Spodoptera frugiperda (fall armyworm),0.995838,13003764,Insecta,Lepidoptera
+GCF_024586455.1,98809,Bactrocera neohumeralis (flies),0.988128,78989042,Insecta,Diptera
+GCF_009650485.2,7291,Drosophila albomicans (flies),0.998174,35291776,Insecta,Diptera
+GCF_024679095.1,95602,Eriocheir sinensis (Chinese mitten crab),0.979269,16975517,Malacostraca,Decapoda
+GCF_023375885.1,34620,Dermacentor andersoni (mites & ticks),0.986708,56155975,Arachnida,Ixodida
+GCF_020184175.1,80765,Aphis gossypii (cotton aphid),0.991235,89127860,Insecta,Hemiptera
+GCF_022605725.1,2921223,Anthonomus grandis grandis (boll weevil),0.983522,36454210,Insecta,Coleoptera
+GCF_024542735.1,85661,Bombus huntii (bees),0.986647,17546577,Insecta,Hymenoptera
+GCF_016801865.2,42434,Culex pipiens pallens (northern house mosquito),0.950381,186194774,Insecta,Diptera
+GCF_917563875.1,50390,Diabrotica virgifera virgifera (western corn rootworm),0.978814,264456228,Insecta,Coleoptera
+GCF_023897955.1,7010,Schistocerca gregaria (desert locust),0.988296,791150472,Insecta,Orthoptera
+GCF_023864345.2,2023355,Schistocerca serialis cubense (grasshoppers),0.989027,849285246,Insecta,Orthoptera
+GCF_024364675.1,116153,Aethina tumida (small hive beetle),0.993409,36783356,Insecta,Coleoptera
+GCF_024362695.1,13191,Pectinophora gossypiella (pink bollworm),0.988649,16702263,Insecta,Lepidoptera
+GCF_000806345.2,28588,Zeugodacus cucurbitae (melon fly),,1415739,Insecta,Diptera
+GCF_000255335.2,34638,Galendromus occidentalis (western predatory mite),,896831,Arachnida,Mesostigmata
+GCF_023898315.1,7011,Schistocerca nitens (vagrant locust),0.989759,992907699,Insecta,Orthoptera
+GCF_023864275.1,274614,Schistocerca cancellata (South American locust),0.988296,939673033,Insecta,Orthoptera
+GCF_943734685.1,1518534,Anopheles coluzzii (mosquitos),0.991172,95248607,Insecta,Diptera
+GCF_943734845.2,62324,Anopheles funestus (African malaria mosquito),0.993912,84636641,Insecta,Diptera
+GCF_013339695.2,34632,Rhipicephalus sanguineus (brown dog tick),0.965917,208696187,Arachnida,Ixodida
+GCF_013339745.2,543639,Dermacentor silvarum (mites & ticks),0.983299,189477455,Arachnida,Ixodida
+GCF_003710045.2,2448451,Nomia melanderi (Alkali bee),,2408925,Insecta,Hymenoptera
+GCF_943734635.1,68878,Anopheles cruzii (mosquitos),0.988737,62075725,Insecta,Diptera
+GCF_943734695.1,1496333,Anopheles maculipalpis (mosquitos),0.994521,92548589,Insecta,Diptera
+GCF_943734745.1,43151,Anopheles darlingi (American malaria mosquito),0.990563,94951917,Insecta,Diptera
+GCF_943734755.1,186751,Anopheles moucheti (mosquitos),0.991781,92649126,Insecta,Diptera
+GCF_943734665.1,42839,Anopheles aquasalis (mosquitos),0.993607,90077004,Insecta,Diptera
+GCF_023701775.1,29058,Helicoverpa armigera (cotton bollworm),0.994703,12270862,Insecta,Lepidoptera
+GCF_003227715.2,610380,Harpegnathos saltator (Jerdon's jumping ant),,1078644,Insecta,Hymenoptera
+GCF_000341935.2,211228,Cephus cinctus (wheat stem sawfly),,646021,Insecta,Hymenoptera
+GCF_023614345.1,133065,Adelges cooleyi (spruce gall adelgid),0.992032,14867064,Insecta,Hemiptera
+GCF_010614865.2,202533,Stegodyphus dumicola (spiders),,254139,Arachnida,Araneae
+GCF_001594075.2,471704,Trachymyrmex cornetzi (ants),,760749,Insecta,Hymenoptera
+GCF_004382195.2,7238,Drosophila sechellia (flies),,24956976,Insecta,Diptera
+GCF_023373825.1,27457,Bactrocera dorsalis (oriental fruit fly),0.989954,93297747,Insecta,Diptera
+GCF_020466585.1,77166,Dendroctonus ponderosae (mountain pine beetle),0.983522,16553750,Insecta,Coleoptera
+GCF_005508785.2,7029,Acyrthosiphon pisum (pea aphid),,132544852,Insecta,Hemiptera
+GCF_002706865.2,69820,Spodoptera litura (moths),,929586,Insecta,Lepidoptera
+GCF_005281655.2,613905,Nylanderia fulva (ants),,449386,Insecta,Hymenoptera
+GCF_001687245.2,28612,Rhagoletis zephyria (snowberry fruit fly),,63039,Insecta,Diptera
+GCF_023078275.1,1035111,Leguminivora glycinivorella (moths),0.926031,25267037,Insecta,Lepidoptera
+GCF_000764305.2,294128,Hyalella azteca (amphipods),0.955577,213783,Malacostraca,Amphipoda
+GCF_019202785.1,139456,Penaeus chinensis (fleshy prawn),0.955577,36870704,Malacostraca,Decapoda
+GCF_022581195.2,7113,Helicoverpa zea (corn earworm),0.996216,12841304,Insecta,Lepidoptera
+GCF_932276165.1,51655,Plutella xylostella (diamondback moth),0.989595,11339310,Insecta,Lepidoptera
+GCF_021461385.2,274613,Schistocerca piceifrons (Central American locust),0.983906,854032331,Insecta,Orthoptera
+GCF_021461395.2,7009,Schistocerca americana (American grasshopper),0.987564,854857182,Insecta,Orthoptera
+GCF_910589235.1,7445,Vespa crabro (European hornet),0.98214,9767562,Insecta,Hymenoptera
+GCF_910591885.1,30195,Bombus terrestris (buff-tailed bumblebee),0.989484,14593050,Insecta,Hymenoptera
+GCF_018902025.1,7260,Drosophila willistoni (flies),0.996043,9374611,Insecta,Diptera
+GCF_021234035.1,35523,Daphnia pulicaria (crustaceans),0.976308,18885472,Branchiopoda,Diplostraca
+GCF_022045245.1,7375,Lucilia cuprina (Australian sheep blowfly),0.970776,71024062,Insecta,Diptera
+GCF_021901455.1,441921,Neodiprion lecontei (redheaded pine sawfly),0.982474,41410448,Insecta,Hymenoptera
+GCF_021901495.1,2961670,Neodiprion virginianus (hymenopterans),0.982307,40070836,Insecta,Hymenoptera
+GCF_905475465.1,78633,Pieris napi (butterflies),0.981271,13068865,Insecta,Lepidoptera
+GCF_021130785.1,197043,Homalodisca vitripennis (glassy-winged sharpshooter),0.92749,168834166,Insecta,Hemiptera
+GCF_021464435.1,1086592,Cataglyphis hispanica (ants),0.993824,7954289,Insecta,Hymenoptera
+GCF_020424385.1,6728,Procambarus clarkii (red swamp crayfish),0.980257,17011522,Malacostraca,Decapoda
+GCF_021155765.1,362088,Diprion similis (hymenopterans),0.948423,19013855,Insecta,Hymenoptera
+GCF_021155785.1,2872261,Neodiprion fabricii (hymenopterans),0.983141,40332006,Insecta,Hymenoptera
+GCF_021155775.1,441929,Neodiprion pinetum (white pine sawfly),0.980971,41400801,Insecta,Hymenoptera
+GCF_021134715.1,6669,Daphnia pulex (common water flea),0.972359,12288052,Branchiopoda,Diplostraca
+GCF_921293095.1,197161,Ischnura elegans (damselflies),0.991953,123641648,Insecta,Odonata
+GCF_016086655.3,72036,Lepeophtheirus salmonis (salmon louse),,48457437,Hexanauplia,Siphonostomatoida
+GCF_020631705.1,35525,Daphnia magna (crustaceans),0.978282,12546303,Branchiopoda,Diplostraca
+GCF_917208135.1,37344,Athalia rosae (coleseed sawfly),0.988983,25530711,Insecta,Hymenoptera
+GCF_016746395.2,7240,Drosophila simulans (flies),0.998478,23399903,Insecta,Diptera
+GCF_905147765.1,42275,Vanessa atalanta (red admiral),0.993757,12792537,Insecta,Lepidoptera
+GCF_020080835.1,32391,"Cotesia glomerata (wasps, ants & bees)",0.955266,27756834,Insecta,Hymenoptera
+GCF_914767665.1,115357,Harmonia axyridis (beetles),0.974576,63675256,Insecta,Coleoptera
+GCF_912999745.1,76193,Papilio machaon (common yellow swallowtail),0.996027,8777606,Insecta,Lepidoptera
+GCF_912470025.1,202808,"Vespa velutina (wasps, ants & bees)",0.970623,9190824,Insecta,Hymenoptera
+GCF_019457755.1,32260,"Venturia canescens (wasps, ants & bees)",0.972626,24994491,Insecta,Hymenoptera
+GCF_016746235.2,7243,Drosophila teissieri (flies),0.997869,24551875,Insecta,Diptera
+GCF_016746245.2,129105,Drosophila santomea (flies),0.999391,25621868,Insecta,Diptera
+GCF_016746365.2,7245,Drosophila yakuba (flies),0.998174,25180761,Insecta,Diptera
+GCF_019393585.1,63433,"Leptopilina boulardi (wasps, ants & bees)",0.947755,2668382,Insecta,Hymenoptera
+GCF_017639315.1,7217,Drosophila ananassae (flies),0.996043,26427416,Insecta,Diptera
+GCF_016920785.2,6945,Ixodes scapularis (black-legged tick),0.98773,132052651,Arachnida,Ixodida
+GCF_018991925.1,6706,Homarus americanus (American lobster),0.974334,759644,Malacostraca,Decapoda
+GCF_907165205.1,41139,Coccinella septempunctata (seven-spotted ladybird),0.983522,41442133,Insecta,Coleoptera
+GCF_907164935.1,1437191,Osmia bicornis bicornis (red mason bee),0.986146,10976010,Insecta,Hymenoptera
+GCF_017562075.2,30066,Anopheles merus (mosquitos),0.991476,50316797,Insecta,Diptera
+GCF_905475395.1,189513,Chrysoperla carnea (insects),0.969397,94407144,Insecta,Neuroptera
+GCF_905475345.1,7454,"Vespula vulgaris (wasps, ants & bees)",0.980805,8749684,Insecta,Hymenoptera
+GCF_905404315.1,189913,Leptidea sinapis (butterflies),0.961975,14447461,Insecta,Lepidoptera
+GCF_017591435.1,210409,Portunus trituberculatus (swimming crab),0.970385,21793880,Malacostraca,Decapoda
+GCF_905333055.1,191418,Maniola jurtina (meadow brown),0.98846,15090120,Insecta,Lepidoptera
+GCF_016920715.1,7173,Anopheles arabiensis (mosquitos),0.99239,95710210,Insecta,Diptera
+GCF_017312705.1,27405,Penaeus japonicus (crustaceans),0.980257,234949,Malacostraca,Decapoda
+GCF_016617805.1,59916,Bactrocera tryoni (Queensland fruit fly),0.992085,81886338,Insecta,Diptera
+GCF_905220365.1,171605,Vanessa cardui (painted lady),0.993568,14615999,Insecta,Lepidoptera
+GCF_905163445.1,116150,Pararge aegeria (specked wood butterfly),0.990163,19375358,Insecta,Lepidoptera
+GCF_905147795.1,64459,Pieris rapae (cabbage white),0.985244,10651053,Insecta,Lepidoptera
+GCF_905147365.1,91739,Aricia agestis (brown argus),0.980515,19030843,Insecta,Lepidoptera
+GCF_905147045.1,171585,Nymphalis io (European peacock),0.991487,13340570,Insecta,Lepidoptera
+GCF_905220565.1,113334,Melitaea cinxia (Glanville fritillary),0.983163,17325599,Insecta,Lepidoptera
+GCF_905147105.1,7116,Pieris brassicae (large cabbage white),0.980515,21549451,Insecta,Lepidoptera
+GCF_905220415.1,72248,Colias croceus (clouded yellow),0.994135,11204669,Insecta,Lepidoptera
+GCF_016802725.1,13686,Solenopsis invicta (red fire ant),0.990986,26227205,Insecta,Hymenoptera
+GCF_015732765.1,7176,Culex quinquefasciatus (southern house mosquito),0.952511,201550677,Insecta,Diptera
+GCF_905115235.1,343691,Hermetia illucens (flies),0.980518,180357958,Insecta,Diptera
+GCF_014905235.1,7091,Bombyx mori (domestic silkworm),0.989217,16796068,Insecta,Lepidoptera
+GCF_015345945.1,41895,Tribolium madens (black flour beetle),0.992467,15175020,Insecta,Coleoptera
+GCF_002237135.1,139649,Teleopsis dalmanni (flies),0.982344,117344,Insecta,Diptera
+GCF_015228065.1,6687,Penaeus monodon (black tiger shrimp),0.911155,44862054,Malacostraca,Decapoda
+GCF_014743375.2,1486046,Drosophila subpulchrella (flies),0.998174,11590999,Insecta,Diptera
+GCF_011947565.2,41117,Pollicipes pollicipes (crustaceans),0.931885,47009503,Thecostraca,Pollicipedomorpha
+GCF_014905175.1,684658,"Aphidius gifuensis (wasps, ants & bees)",0.93991,27481583,Insecta,Hymenoptera
+GCF_014839805.1,7130,Manduca sexta (tobacco hornworm),0.989974,14248853,Insecta,Lepidoptera
+GCF_014825855.1,396416,Bombus pyrosoma (bees),0.989985,15222711,Insecta,Hymenoptera
+GCF_012273895.1,33412,Zerene cesonia (dogface butterfly),0.969353,9214832,Insecta,Lepidoptera
+GCF_014805625.1,7396,Glossina fuscipes (tsetse fly),0.987823,9601783,Insecta,Diptera
+GCF_013731165.1,28610,Rhagoletis pomonella (apple maggot),0.947641,72319622,Insecta,Diptera
+GCF_014529535.1,38358,Bradysia coprophila (flies),0.969559,6790317,Insecta,Diptera
+GCF_014356525.1,108931,Nilaparvata lugens (brown planthopper),0.969721,77631935,Insecta,Hemiptera
+GCF_014466175.1,30213,Vespula pensylvanica (western yellowjacket),0.982808,8532720,Insecta,Hymenoptera
+GCF_013373865.1,307658,Monomorium pharaonis (pharaoh ant),0.990653,29663535,Insecta,Hymenoptera
+GCF_013758885.1,7167,Anopheles albimanus (mosquitos),0.992085,89049450,Insecta,Diptera
+GCF_014066325.1,183418,Apis laboriosa (Himalayan honeybee),0.987982,3339770,Insecta,Hymenoptera
+GCF_013357705.1,460826,"Chelonus insularis (wasps, ants & bees)",0.961108,1162728,Insecta,Hymenoptera
+GCF_013339725.1,6941,Rhipicephalus microplus (southern cattle tick),0.957055,183350851,Arachnida,Ixodida
+GCF_013340165.1,28584,Drosophila suzukii (flies),0.99726,2609782,Insecta,Diptera
+GCF_013141755.1,30069,Anopheles stephensi (Asian malaria mosquito),0.993607,88747589,Insecta,Diptera
+GCF_013123115.1,935657,Colletes gigas (bees),0.985979,8108830,Insecta,Hymenoptera
+GCF_012932325.1,161013,Thrips palmi (thrips),0.977323,14670875,Insecta,Thysanoptera
+GCF_011952255.1,207650,Bombus vosnesenskii (bees),0.989985,2833310,Insecta,Hymenoptera
+GCF_011952275.1,2705178,Bombus vancouverensis nearcticus (bees),0.992989,3064919,Insecta,Hymenoptera
+GCF_011952205.1,103933,Bombus bifarius (bees),0.991487,2202782,Insecta,Hymenoptera
+GCF_011865705.1,115081,Megalopta genalis (bees),0.953597,3666345,Insecta,Hymenoptera
+GCF_011750605.1,30019,Drosophila busckii (flies),0.980518,22692164,Insecta,Diptera
+GCF_011392965.1,561572,Frieseomelitta varia (bees),0.980805,467007,Insecta,Hymenoptera
+GCF_001188975.3,104688,Bactrocera oleae (olive fruit fly),0.988128,4570889,Insecta,Diptera
+GCF_009870125.1,7237,Drosophila pseudoobscura (flies),0.99726,32422566,Insecta,Diptera
+GCF_902806685.1,2795564,Maniola hyperantus (ringlet),0.989406,15230192,Insecta,Lepidoptera
+GCF_010883055.1,2817044,"Belonocnema kinseyi (wasps, ants & bees)",0.930896,150973230,Insecta,Hymenoptera
+GCF_010583005.1,486640,Odontomachus brunneus (ants),0.988817,1760082,Insecta,Hymenoptera
+GCF_010416935.1,30207,Polistes fuscatus (common paper wasp),0.978802,9116088,Insecta,Hymenoptera
+GCF_009193385.2,7425,Nasonia vitripennis (jewel wasp),0.953096,7180486,Insecta,Hymenoptera
+GCF_009731565.1,278856,Danaus plexippus plexippus (monarch butterfly),0.989406,9209872,Insecta,Lepidoptera
+GCF_009176525.2,265458,Contarinia nasturtii (swede midge),0.918417,4652070,Insecta,Diptera
+GCF_000184785.3,7463,Apis florea (little honeybee),0.967952,2863240,Insecta,Hymenoptera
+GCF_008802855.1,7054,Photinus pyralis (common eastern firefly),0.984934,47017841,Insecta,Coleoptera
+GCF_003369915.1,7229,Drosophila miranda (flies),0.99726,35263383,Insecta,Diptera
+GCF_002938485.1,7048,Sitophilus oryzae (rice weevil),0.98258,2860826,Insecta,Coleoptera
+GCF_008121235.1,7241,Drosophila subobscura (flies),0.997565,24182865,Insecta,Diptera
+GCF_000365465.3,114398,Parasteatoda tepidariorum (common house spider),0.991138,765179,Arachnida,Araneae
+GCF_006496715.1,7160,Aedes albopictus (Asian tiger mosquito),0.96347,55702539,Insecta,Diptera
+GCF_001412515.2,454923,"Diachasma alloeum (wasps, ants & bees)",0.977633,657001,Insecta,Hymenoptera
+GCF_004382145.1,7226,Drosophila mauritiana (flies),0.999391,24228064,Insecta,Diptera
+GCF_004354385.1,198719,Drosophila innubila (flies),0.997565,29570363,Insecta,Diptera
+GCF_001654015.2,7232,Drosophila navojoa (flies),0.987215,389283,Insecta,Diptera
+GCF_000188095.3,132113,Bombus impatiens (common eastern bumble bee),0.989818,1399493,Insecta,Hymenoptera
+GCF_004193835.1,93504,Ostrinia furnacalis (Asian corn borer),0.987514,564364,Insecta,Lepidoptera
+GCF_003676215.2,43146,Rhopalosiphum maidis (corn leaf aphid),0.99761,93298903,Insecta,Hemiptera
+GCF_003987935.1,7092,Bombyx mandarina (wild silkworm),0.945895,2789315,Insecta,Lepidoptera
+GCF_900245975.1,7266,Drosophila guanche (flies),0.996043,7251133,Insecta,Diptera
+GCF_003789085.1,6689,Penaeus vannamei (Pacific white shrimp),0.934847,605555,Malacostraca,Decapoda
+GCF_003672135.1,2015173,Ooceraea biroi (clonal raider ant),0.985645,16888278,Insecta,Hymenoptera
+GCF_003651465.1,72781,Formica exsecta (ants),0.97563,997654,Insecta,Hymenoptera
+GCF_003590095.1,7111,Trichoplusia ni (cabbage looper),0.985812,14205900,Insecta,Lepidoptera
+GCF_003589595.1,1477025,Hyposmocoma kahamanoa (moths),0.958948,13520097,Insecta,Lepidoptera
+GCF_003254395.2,7460,Apis mellifera (honey bee),0.987815,13619445,Insecta,Hymenoptera
+GCF_003426905.1,7515,Ctenocephalides felis (cat flea),0.946328,71713785,Insecta,Siphonaptera
+GCF_003268045.1,143950,Sipha flava (yellow sugarcane aphid),0.966932,1686648,Insecta,Hemiptera
+GCF_002803265.2,742174,Melanaphis sacchari (aphids),0.994024,3012626,Insecta,Hemiptera
+GCF_003227725.1,104421,Camponotus floridanus (Florida carpenter ant),0.99349,1585631,Insecta,Hymenoptera
+GCF_003070985.1,300111,Temnothorax curvispinosus (ants),0.944417,223562,Insecta,Hymenoptera
+GCF_002891405.2,105785,Cryptotermes secundus (termites),0.983175,1184893,Insecta,Blattodea
+GCF_002938995.1,334116,Vanessa tameamea (butterflies),0.992244,2988984,Insecta,Lepidoptera
+GCF_000648675.2,79782,Cimex lectularius (bed bug),0.993625,1637644,Insecta,Hemiptera
+GCF_000699045.2,224129,Agrilus planipennis (emerald ash borer),0.963748,1113421,Insecta,Coleoptera
+GCF_000612105.2,222816,Orussus abietinus (hymenopterans),0.967785,612083,Insecta,Hymenoptera
+GCF_000599845.2,7493,"Trichogramma pretiosum (wasps, ants & bees)",0.927057,1825723,Insecta,Hymenoptera
+GCF_000696795.2,286706,Halyomorpha halys (brown marmorated stink bug),0.992032,393089,Insecta,Hemiptera
+GCF_000671375.1,218467,Centruroides sculpturatus (bark scorpion),0.967962,537465,Arachnida,Scorpiones
+GCF_000390285.2,217634,Anoplophora glabripennis (Asian longhorned beetle),0.985405,678234,Insecta,Coleoptera
+GCF_000648655.2,29053,"Copidosoma floridanum (wasps, ants & bees)",0.905859,1210516,Insecta,Hymenoptera
+GCF_000591075.1,88015,Eurytemora affinis (crustaceans),0.935834,252275,Hexanauplia,Calanoida
+GCF_000347755.3,7213,Ceratitis capitata (Mediterranean fruit fly),0.996651,1665634,Insecta,Diptera
+GCF_000500325.1,7539,Leptinotarsa decemlineata (Colorado potato beetle),0.939266,139046,Insecta,Coleoptera
+GCF_000648695.1,166361,Onthophagus taurus (beetles),0.99435,337157,Insecta,Coleoptera
+GCF_002532875.1,62625,Varroa jacobsoni (mites & ticks),0.993524,233810,Arachnida,Mesostigmata
+GCF_002443255.1,109461,Varroa destructor (honeybee mite),0.987389,58536683,Arachnida,Mesostigmata
+GCF_002217175.1,158441,Folsomia candida (springtails),0.978282,6519406,Collembola,Entomobryomorpha
+GCF_002204515.2,7159,Aedes aegypti (yellow fever mosquito),0.992998,409777670,Insecta,Diptera
+GCF_001901225.1,6956,Dermatophagoides pteronyssinus (European house dust mite),0.953988,450436,Arachnida,Sarcoptiformes
+GCF_002006095.1,219809,Pseudomyrmex gracilis (ants),0.983809,317681,Insecta,Hymenoptera
+GCF_001856785.1,13164,Myzus persicae (green peach aphid),0.99761,435781,Insecta,Hemiptera
+GCF_001854935.1,7038,Bemisia tabaci (sweet potato whitefly),0.987649,3232964,Insecta,Hemiptera
+GCF_001853355.1,174628,Bactrocera latifrons (flies),0.993303,974427,Insecta,Diptera
+GCF_001654025.1,7263,Drosophila arizonae (flies),0.956164,26536676,Insecta,Diptera
+GCF_001652005.1,156304,Ceratina calcarata (bees),0.967284,632424,Insecta,Hymenoptera
+GCF_001483705.1,516756,Eufriesea mexicana (bees),0.987815,351926,Insecta,Hymenoptera
+GCF_001594055.1,64791,Trachymyrmex zeteki (ants),0.991487,1333945,Insecta,Hymenoptera
+GCF_001594115.1,34720,Trachymyrmex septentrionalis (ants),0.992155,2520094,Insecta,Hymenoptera
+GCF_001594065.1,456900,Cyphomyrmex costatus (ants),0.986814,1159032,Insecta,Hymenoptera
+GCF_001594045.1,520822,Atta colombica (ants),0.993657,2037154,Insecta,Hymenoptera
+GCF_000002335.3,7070,Tribolium castaneum (red flour beetle),0.992467,4456720,Insecta,Coleoptera
+GCF_000371365.1,7370,Musca domestica (house fly),0.98965,226573,Insecta,Diptera
+GCF_001465965.1,743375,Polistes dominula (European paper wasp),0.981472,1625592,Insecta,Hymenoptera
+GCF_001442555.1,7461,Apis cerana (Asiatic honeybee),0.949424,1421626,Insecta,Hymenoptera
+GCF_001412225.1,110193,Nicrophorus vespilloides (beetles),0.993879,122407,Insecta,Coleoptera
+GCF_001313825.1,609295,Dinoponera quadriceps (ants),0.983976,1361239,Insecta,Hymenoptera
+GCF_001313835.1,91411,"Polistes canadensis (wasps, ants & bees)",0.979469,521566,Insecta,Hymenoptera
+GCF_000572035.2,69319,"Microplitis demolitor (wasps, ants & bees)",0.967952,1139389,Insecta,Hymenoptera
+GCF_001272555.1,178035,Dufourea novaeangliae (bees),0.986814,2549405,Insecta,Hymenoptera
+GCF_001263275.1,597456,Habropoda laboriosa (bees),0.985311,1784116,Insecta,Hymenoptera
+GCF_001186385.1,143948,Diuraphis noxia (Russian wheat aphid),0.972112,397774,Insecta,Hemiptera
+GCF_001186105.1,680683,Amyelois transitella (moths),0.991676,1586980,Insecta,Lepidoptera
+GCF_000220905.1,143995,Megachile rotundata (alfalfa leafcutting bee),0.983976,1699680,Insecta,Hymenoptera
+GCF_001015335.1,35570,Stomoxys calcitrans (stable fly),0.992998,504651,Insecta,Diptera
+GCF_000239435.1,32264,Tetranychus urticae (two-spotted spider mite),0.945126,2993488,Arachnida,Trombidiformes
+GCF_000956235.1,64793,Wasmannia auropunctata (little fire ant),0.984143,1175369,Insecta,Hymenoptera
+GCF_000949405.1,411798,Vollenhovia emeryi (ants),0.990986,1346088,Insecta,Hymenoptera
+GCF_000005575.2,180454,Anopheles gambiae str. PEST (African malaria mosquito),,12309988,Insecta,Diptera
+GCF_000217595.1,83485,Linepithema humile (Argentine ant),0.98915,1402257,Insecta,Hymenoptera
+GCF_000204515.1,103372,Acromyrmex echinatior (Panamanian leafcutter ant),0.992656,1110580,Insecta,Hymenoptera
+GCF_000836235.1,66420,Papilio xuthus (Asian swallowtail),0.996027,6198915,Insecta,Lepidoptera
+GCF_000836215.1,76194,Papilio polytes (common Mormon),0.966326,3672263,Insecta,Lepidoptera
+GCF_000187915.1,144034,Pogonomyrmex barbatus (red harvester ant),0.963779,819605,Insecta,Hymenoptera
+GCF_000806365.1,64838,"Fopius arisanus (wasps, ants & bees)",0.970456,978588,Insecta,Hymenoptera
+GCF_000006295.1,121224,Pediculus humanus corporis (human body louse),,497057,Insecta,Phthiraptera
+GCF_000001215.4,7227,Drosophila melanogaster (fruit fly),,25286936,Insecta,Diptera
+GCF_000143395.1,12957,Atta cephalotes (ants),0.952929,5154485,Insecta,Hymenoptera
+GCF_000696155.1,136037,Zootermopsis nevadensis (termites),0.987564,751105,Insecta,Blattodea
+GCF_000517525.1,6850,Limulus polyphemus (Atlantic horseshoe crab),0.936821,254089,Merostomata,Xiphosura
+GCF_000503995.1,326594,"Ceratosolen solmsi marchali (wasps, ants & bees)",0.926723,9558897,Insecta,Hymenoptera
+GCF_000475195.1,121845,Diaphorina citri (Asian citrus psyllid),0.867729,109898,Insecta,Hemiptera
+GCF_000469605.1,7462,Apis dorsata (giant honeybee),0.968286,732052,Insecta,Hymenoptera
