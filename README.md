@@ -1,4 +1,6 @@
 # Arthropod-HGT-Chimeras description of scripts and outputs (in order)	
+## nr_dbs
+scripts to download nr and associated taxonomic information
 ## chromosome_scaffold_level.csv
 genome assembly refseq accessions, genome quality data and taxonomic info
 ## download_genomes.sh
