@@ -38,6 +38,15 @@ uses arthropod blast hits from round 2 blast to build MSAs and profile HMMs for 
 concatenate profile HMMs from “hmmer_results” into a 50 files (such that each concatenated file runs in less than 1 day with hmmsearch)
 ### hmmer_to_phylo.ipynb
 identifies and confirms secondary chimeras from concat_hmms.sh. Makes a phylogenetic dataset, builds MSA and runs iQ-tree for each interval.
-### pipeline_final/root_annotate_upload_trees.ipynb
+### root_annotate_upload_trees.ipynb
 roots iQ-tree ML trees with minimum ancestor deviation (Dagan et al. Nature ecology and evolution, 2017 https://doi.org/10.1038/s41559-017-0193) and uploads to iTOL with appropriate tree annotation files (colorstrip, taxonomic information, and sequence descriptions).
+### species_distribution.ipynb
+Consolidate final list of chimeric HGT candidates from manual tree annotation; makes a dataframe storing data (accession, description, taxonomic distribution) for each chimera; determines the taxonomic span of each HGT-chimera; clusters HGT-Chimeras into orthologous groups using a network approach. Outputs cluster_info.tsv, which contains data for each orthologous cluster, and protein_info.csv, which contains data for each protein.
+### protein_info.csv
+Information on the taxonomic range  of each hgt-chimera 
+### cluster_info.csv
+Information on the taxonomic range of each orthologous cluster of hgt-chimeras
+
+
+
 
