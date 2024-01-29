@@ -36,8 +36,14 @@ checks the output of round2 blast, reannotates intervals as “HGT”, “Meta�
 uses arthropod blast hits from round 2 blast to build MSAs and profile HMMs for each interval confirmed in step 14. Profiles and MSAs stored in “hmmer_results”
 ### concat_hmms.sh
 concatenate profile HMMs from “hmmer_results” into a 50 files (such that each concatenated file runs in less than 1 day with hmmsearch)
+### hmmer_array.sh
+runs HMMsearch on the concatenated profile HMMs generated in concat_hmms.sh
+### split_hmmer_csv.sh
+splits HMMer outputs into individual csv files per query
 ### hmmer_to_phylo.ipynb
 identifies and confirms secondary chimeras from concat_hmms.sh. Makes a phylogenetic dataset, builds MSA and runs iQ-tree for each interval.
+### align_iq_pipe.sh
+runs MUSCLE on the fasta file of HMMER hits to an interval, followed by MSA trimming with trimAl (remove columns with gaps in >40% of sequences), and maximum likelihood phylogenetics with IQ-tree (automated model selection with 1000 bootstraps). Called from within hmmer_to_phylo.ipynb
 ### root_annotate_upload_trees.ipynb
 roots iQ-tree ML trees with minimum ancestor deviation (Dagan et al. Nature ecology and evolution, 2017 https://doi.org/10.1038/s41559-017-0193) and uploads to iTOL with appropriate tree annotation files (colorstrip, taxonomic information, and sequence descriptions).
 ### species_distribution.ipynb
