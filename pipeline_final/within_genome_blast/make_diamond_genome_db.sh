@@ -1,0 +1,2 @@
+#! bin/bash
+singularity exec /cvmfs/singularity.galaxyproject.org/d/i/diamond:2.0.15--hb97b32f_1 diamond makedb --in /n/holyscratch01/extavour_lab/Lab/rkapoor/ncbi_dataset/data/$1/protein.faa --db /n/holyscratch01/extavour_lab/Lab/rkapoor/ncbi_dataset/data/$1/protein   --threads 10

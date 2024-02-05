@@ -1,0 +1,2 @@
+#! bin/bash
+singularity exec /cvmfs/singularity.galaxyproject.org/d/i/diamond:2.0.15--hb97b32f_1 diamond blastp --db /n/holyscratch01/extavour_lab/Lab/rkapoor/ncbi_dataset/data/$2/protein.dmnd  --query /n/home11/rkapoor/pipeline_final/same_genome_prot_queries/$1.fasta --out /n/home11/rkapoor/pipeline_final/same_genome_prot_results/$1.csv --outfmt 6 qseqid sseqid pident length mismatch gapopen qstart qend sstart send evalue bitscore --evalue 1e-2 -k0 --very-sensitive 
