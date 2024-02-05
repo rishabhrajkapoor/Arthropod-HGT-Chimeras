@@ -52,7 +52,7 @@ Consolidate final list of chimeric HGT candidates from manual tree annotation; m
 Information on the taxonomic range  of each hgt-chimera 
 ### cluster_info.csv
 Information on the taxonomic range of each orthologous cluster of hgt-chimeras
-
-
+### within_genome_blast
+Scripts to perform chimera interval vs. proteome blasts to look for and characterize non-chimeric parents
 
 
