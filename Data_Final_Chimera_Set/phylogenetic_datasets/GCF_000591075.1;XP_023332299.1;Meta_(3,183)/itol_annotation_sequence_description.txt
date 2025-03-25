@@ -1,0 +1,1017 @@
+DATASET_TEXT
+#In text datasets, each ID is associated to text label, which can be displayed directly on the node branch, or outside the tree
+#lines starting with a hash are comments and ignored during parsing
+#=================================================================#
+#                    MANDATORY SETTINGS                           #
+#=================================================================#
+#select the separator which is used to delimit the data below (TAB,SPACE or COMMA).This separator must be used throughout this file.
+
+SEPARATOR COMMA
+
+
+#label is used in the legend table (can be changed later)
+DATASET_LABEL,description
+
+#dataset color (can be changed later)
+COLOR,#ff0000
+
+DATA
+NWR35643.1_1_181,CHAC2 glutamylcyclotransferase [Tachuris rubrigastra],-1,#000000,normal,1,0
+XP_027754007.1_1_181,glutathione-specific gamma-glutamylcyclotransferase 2 [Empidonax traillii],-1,#000000,normal,1,0
+NWT04094.1_1_181,CHAC2 glutamylcyclotransferase [Mionectes macconnelli],-1,#000000,normal,1,0
+KAJ7397661.1_1_180,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Pitangus sulphuratus],-1,#000000,normal,1,0
+XP_017677323.1_1_181,PREDICTED: putative glutathione-specific gamma-glutamylcyclotransferase 2 [Lepidothrix coronata],-1,#000000,normal,1,0
+NWU74281.1_1_183,CHAC2 glutamylcyclotransferase [Onychorhynchus coronatus],-1,#000000,normal,1,0
+NWQ68140.1_1_183,CHAC2 glutamylcyclotransferase [Neopipo cinnamomea],-1,#000000,normal,1,0
+XP_027549232.1_1_183,glutathione-specific gamma-glutamylcyclotransferase 2 [Neopelma chrysocephalum],-1,#000000,normal,1,0
+NWU18532.1_1_183,CHAC2 glutamylcyclotransferase [Cephalopterus ornatus],-1,#000000,normal,1,0
+NXC33482.1_1_182,CHAC2 glutamylcyclotransferase [Campylorhamphus procurvoides],-1,#000000,normal,1,0
+NXF71657.1_1_182,CHAC2 glutamylcyclotransferase [Sclerurus mexicanus],-1,#000000,normal,1,0
+NXK87554.1_1_178,CHAC2 glutamylcyclotransferase [Formicarius rufipectus],-1,#000000,normal,1,0
+NWR83008.1_1_182,CHAC2 glutamylcyclotransferase [Furnarius figulus],-1,#000000,normal,1,0
+NWW70436.1_1_182,CHAC2 glutamylcyclotransferase [Climacteris rufus],-1,#000000,normal,1,0
+NXM77861.1_1_182,CHAC2 glutamylcyclotransferase [Serilophus lunatus],-1,#000000,normal,1,0
+NXA16290.1_1_182,CHAC2 glutamylcyclotransferase [Sapayoa aenigma],-1,#000000,normal,1,0
+NWI95726.1_1_182,CHAC2 glutamylcyclotransferase [Pitta sordida],-1,#000000,normal,1,0
+NXF04282.1_1_182,CHAC2 glutamylcyclotransferase [Smithornis capensis],-1,#000000,normal,1,0
+NXY25595.1_1_182,CHAC2 glutamylcyclotransferase [Atrichornis clamosus],-1,#000000,normal,1,0
+NXP01844.1_1_182,CHAC2 glutamylcyclotransferase [Certhia brachydactyla],-1,#000000,normal,1,0
+NXD20029.1_1_181,CHAC2 glutamylcyclotransferase [Elachura formosa],-1,#000000,normal,1,0
+NXK68548.1_1_181,CHAC2 glutamylcyclotransferase [Sylvietta virens],-1,#000000,normal,1,0
+NXG09114.1_1_182,CHAC2 glutamylcyclotransferase [Sakesphorus luctuosus],-1,#000000,normal,1,0
+KAJ7404833.1_1_181,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Willisornis vidua],-1,#000000,normal,1,0
+NXP21804.1_1_181,CHAC2 glutamylcyclotransferase [Scytalopus superciliaris],-1,#000000,normal,1,0
+NXA83863.1_1_181,CHAC2 glutamylcyclotransferase [Thryothorus ludovicianus],-1,#000000,normal,1,0
+NWS35610.1_1_181,CHAC2 glutamylcyclotransferase [Polioptila caerulea],-1,#000000,normal,1,0
+NXH88308.1_1_181,CHAC2 glutamylcyclotransferase [Edolisoma coerulescens],-1,#000000,normal,1,0
+NWT12062.1_7_188,CHAC2 glutamylcyclotransferase [Vireo altiloquus],-1,#000000,normal,1,0
+NWW13514.1_1_181,CHAC2 glutamylcyclotransferase [Oreocharis arfaki],-1,#000000,normal,1,0
+NXC63343.1_1_181,CHAC2 glutamylcyclotransferase [Aleadryas rufinucha],-1,#000000,normal,1,0
+NXC05734.1_1_181,CHAC2 glutamylcyclotransferase [Orthonyx spaldingii],-1,#000000,normal,1,0
+XP_010401268.1_1_181,glutathione-specific gamma-glutamylcyclotransferase 2 [Corvus cornix cornix],-1,#000000,normal,1,0
+XP_031960351.1_1_181,glutathione-specific gamma-glutamylcyclotransferase 2 [Corvus moneduloides],-1,#000000,normal,1,0
+NWY19097.1_1_181,CHAC2 glutamylcyclotransferase [Aphelocoma coerulescens],-1,#000000,normal,1,0
+NXB59318.1_1_181,CHAC2 glutamylcyclotransferase [Struthidea cinerea],-1,#000000,normal,1,0
+NXH36227.1_1_181,CHAC2 glutamylcyclotransferase [Myiagra hebetior],-1,#000000,normal,1,0
+NWW00099.1_1_181,CHAC2 glutamylcyclotransferase [Machaerirhynchus nigripectus],-1,#000000,normal,1,0
+NXE38923.1_1_181,CHAC2 glutamylcyclotransferase [Ptilorrhoa leucosticta],-1,#000000,normal,1,0
+NXA67930.1_1_181,CHAC2 glutamylcyclotransferase [Mohoua ochrocephala],-1,#000000,normal,1,0
+NXD90240.1_1_181,CHAC2 glutamylcyclotransferase [Chaetorhynchus papuensis],-1,#000000,normal,1,0
+NWU38009.1_1_169,CHAC2 glutamylcyclotransferase [Hylia prasina],-1,#000000,normal,1,0
+NWW68048.1_1_181,CHAC2 glutamylcyclotransferase [Ifrita kowaldi],-1,#000000,normal,1,0
+NWU30748.1_1_181,CHAC2 glutamylcyclotransferase [Platysteira castanea],-1,#000000,normal,1,0
+NXO11562.1_1_181,CHAC2 glutamylcyclotransferase [Oriolus oriolus],-1,#000000,normal,1,0
+NXB19682.1_1_181,CHAC2 glutamylcyclotransferase [Rhagologus leucostigma],-1,#000000,normal,1,0
+NWW21355.1_1_181,CHAC2 glutamylcyclotransferase [Falcunculus frontatus],-1,#000000,normal,1,0
+NXH99067.1_1_181,CHAC2 glutamylcyclotransferase [Pachycephala philippinensis],-1,#000000,normal,1,0
+NXX27262.1_1_183,CHAC2 glutamylcyclotransferase [Nicator chloris],-1,#000000,normal,1,0
+NXR36927.1_1_181,CHAC2 glutamylcyclotransferase [Zosterops hypoxanthus],-1,#000000,normal,1,0
+XP_002199747.4_57_239,glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Taeniopygia guttata],-1,#000000,normal,1,0
+RLW07018.1_1_181,hypothetical protein DV515_00004268 [Chloebia gouldiae],-1,#000000,normal,1,0
+OWK53398.1_1_181,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Lonchura striata domestica],-1,#000000,normal,1,0
+NWI37016.1_1_181,CHAC2 glutamylcyclotransferase [Picathartes gymnocephalus],-1,#000000,normal,1,0
+XP_041273062.1_1_181,glutathione-specific gamma-glutamylcyclotransferase 2 [Onychostruthus taczanowskii],-1,#000000,normal,1,0
+XP_039572874.1_1_181,glutathione-specific gamma-glutamylcyclotransferase 2 [Passer montanus],-1,#000000,normal,1,0
+NWV31158.1_1_181,CHAC2 glutamylcyclotransferase [Grantiella picta],-1,#000000,normal,1,0
+NWY39468.1_1_181,CHAC2 glutamylcyclotransferase [Sylvia atricapilla],-1,#000000,normal,1,0
+NWV78679.1_1_181,CHAC2 glutamylcyclotransferase [Dasyornis broadbenti],-1,#000000,normal,1,0
+NXL76512.1_1_181,CHAC2 glutamylcyclotransferase [Leptocoma aspasia],-1,#000000,normal,1,0
+XP_039913671.1_1_181,glutathione-specific gamma-glutamylcyclotransferase 2 [Hirundo rustica],-1,#000000,normal,1,0
+NXU13355.1_1_181,CHAC2 glutamylcyclotransferase [Pardalotus punctatus],-1,#000000,normal,1,0
+NXS25662.1_1_181,CHAC2 glutamylcyclotransferase [Pomatostomus ruficeps],-1,#000000,normal,1,0
+NWR17516.1_1_181,CHAC2 glutamylcyclotransferase [Emberiza fucata],-1,#000000,normal,1,0
+XP_054485489.1_1_181,glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Agelaius phoeniceus],-1,#000000,normal,1,0
+NXV59195.1_1_181,CHAC2 glutamylcyclotransferase [Molothrus ater],-1,#000000,normal,1,0
+NWY91874.1_1_181,CHAC2 glutamylcyclotransferase [Loxia curvirostra],-1,#000000,normal,1,0
+XP_015477847.1_1_181,glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Parus major],-1,#000000,normal,1,0
+NXL25578.1_1_173,CHAC2 glutamylcyclotransferase [Setophaga kirtlandii],-1,#000000,normal,1,0
+XP_005525535.1_1_181,PREDICTED: putative glutathione-specific gamma-glutamylcyclotransferase 2 [Pseudopodoces humilis],-1,#000000,normal,1,0
+NXI10022.1_1_181,CHAC2 glutamylcyclotransferase [Irena cyanogastra],-1,#000000,normal,1,0
+NXH48333.1_1_181,CHAC2 glutamylcyclotransferase [Dicaeum eximium],-1,#000000,normal,1,0
+NXM20057.1_1_181,CHAC2 glutamylcyclotransferase [Ploceus nigricollis],-1,#000000,normal,1,0
+NWV63559.1_1_181,CHAC2 glutamylcyclotransferase [Malurus elegans],-1,#000000,normal,1,0
+NWW32807.1_1_181,CHAC2 glutamylcyclotransferase [Panurus biarmicus],-1,#000000,normal,1,0
+NXU98168.1_1_181,CHAC2 glutamylcyclotransferase [Cettia cetti],-1,#000000,normal,1,0
+XP_053794180.1_1_181,glutathione-specific gamma-glutamylcyclotransferase 2 [Vidua chalybeata],-1,#000000,normal,1,0
+NXQ62339.1_1_181,CHAC2 glutamylcyclotransferase [Anthoscopus minutus],-1,#000000,normal,1,0
+NWZ37648.1_1_181,CHAC2 glutamylcyclotransferase [Brachypodius atriceps],-1,#000000,normal,1,0
+NXY57395.1_1_181,CHAC2 glutamylcyclotransferase [Callaeas wilsoni],-1,#000000,normal,1,0
+XP_054146169.1_1_181,glutathione-specific gamma-glutamylcyclotransferase 2 [Melozone crissalis],-1,#000000,normal,1,0
+NXQ31459.1_1_181,CHAC2 glutamylcyclotransferase [Alaudala cheleensis],-1,#000000,normal,1,0
+NXE67002.1_1_181,CHAC2 glutamylcyclotransferase [Calcarius ornatus],-1,#000000,normal,1,0
+NWT71755.1_1_181,CHAC2 glutamylcyclotransferase [Prunella himalayana],-1,#000000,normal,1,0
+NWZ68533.1_1_181,CHAC2 glutamylcyclotransferase [Acrocephalus arundinaceus],-1,#000000,normal,1,0
+NXR49796.1_1_181,CHAC2 glutamylcyclotransferase [Hippolais icterina],-1,#000000,normal,1,0
+NWY27536.1_1_181,CHAC2 glutamylcyclotransferase [Pheucticus melanocephalus],-1,#000000,normal,1,0
+NXP92923.1_1_181,CHAC2 glutamylcyclotransferase [Passerina amoena],-1,#000000,normal,1,0
+NXM86096.1_1_181,CHAC2 glutamylcyclotransferase [Oenanthe oenanthe],-1,#000000,normal,1,0
+NWY68738.1_1_181,CHAC2 glutamylcyclotransferase [Erithacus rubecula],-1,#000000,normal,1,0
+NXD42315.1_1_181,CHAC2 glutamylcyclotransferase [Copsychus sechellarum],-1,#000000,normal,1,0
+XP_032912138.1_1_181,glutathione-specific gamma-glutamylcyclotransferase 2 [Catharus ustulatus],-1,#000000,normal,1,0
+KAF4802618.1_1_181,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Turdus rufiventris],-1,#000000,normal,1,0
+KAI1240332.1_1_170,hypothetical protein IHE44_0008749_ partial [Lamprotornis superbus],-1,#000000,normal,1,0
+NWS84087.1_1_181,CHAC2 glutamylcyclotransferase [Toxostoma redivivum],-1,#000000,normal,1,0
+NXU07575.1_1_181,CHAC2 glutamylcyclotransferase [Buphagus erythrorhynchus],-1,#000000,normal,1,0
+NXH65034.1_1_181,CHAC2 glutamylcyclotransferase [Rhabdornis inornatus],-1,#000000,normal,1,0
+XP_014750633.1_1_181,PREDICTED: putative glutathione-specific gamma-glutamylcyclotransferase 2 [Sturnus vulgaris],-1,#000000,normal,1,0
+NWH37900.1_1_181,CHAC2 glutamylcyclotransferase [Chloropsis hardwickii],-1,#000000,normal,1,0
+NXR28334.1_1_180,CHAC2 glutamylcyclotransferase [Cinclus mexicanus],-1,#000000,normal,1,0
+XP_051470773.1_1_181,glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Apus apus],-1,#000000,normal,1,0
+PKU33978.1_1_163,hypothetical protein llap_15719 [Limosa lapponica baueri],-1,#000000,normal,1,0
+XP_048794013.1_1_181,glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Lagopus muta],-1,#000000,normal,1,0
+XP_042668207.1_1_181,glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Centrocercus urophasianus],-1,#000000,normal,1,0
+XP_015712187.1_1_181,glutathione-specific gamma-glutamylcyclotransferase 2 [Coturnix japonica],-1,#000000,normal,1,0
+POI25952.1_1_181,hypothetical protein CIB84_010297 [Bambusicola thoracicus],-1,#000000,normal,1,0
+XP_031453708.1_14_196,glutathione-specific gamma-glutamylcyclotransferase 2 [Phasianus colchicus],-1,#000000,normal,1,0
+NP_001026203.2_1_181,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Gallus gallus],-1,#000000,normal,1,0
+XP_021247652.1_1_181,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Numida meleagris],-1,#000000,normal,1,0
+NXC46836.1_1_182,CHAC2 glutamylcyclotransferase [Penelope pileata],-1,#000000,normal,1,0
+OXB74302.1_1_181,hypothetical protein H355_006831 [Colinus virginianus],-1,#000000,normal,1,0
+NXJ04566.1_1_181,CHAC2 glutamylcyclotransferase [Odontophorus gujanensis],-1,#000000,normal,1,0
+NXK47150.1_1_181,CHAC2 glutamylcyclotransferase [Chauna torquata],-1,#000000,normal,1,0
+XP_047934907.1_1_182,glutathione-specific gamma-glutamylcyclotransferase 2 [Anser cygnoides],-1,#000000,normal,1,0
+XP_040410043.1_1_182,glutathione-specific gamma-glutamylcyclotransferase 2 [Cygnus olor],-1,#000000,normal,1,0
+XP_035421322.1_1_182,glutathione-specific gamma-glutamylcyclotransferase 2 [Cygnus atratus],-1,#000000,normal,1,0
+XP_032040163.1_1_182,glutathione-specific gamma-glutamylcyclotransferase 2 [Aythya fuligula],-1,#000000,normal,1,0
+XP_035179047.1_1_182,glutathione-specific gamma-glutamylcyclotransferase 2 [Oxyura jamaicensis],-1,#000000,normal,1,0
+XP_019404851.1_1_182,PREDICTED: putative glutathione-specific gamma-glutamylcyclotransferase 2 [Crocodylus porosus],-1,#000000,normal,1,0
+XP_006274515.1_1_183,PREDICTED: putative glutathione-specific gamma-glutamylcyclotransferase 2 [Alligator mississippiensis],-1,#000000,normal,1,0
+NWQ82049.1_1_181,CHAC2 glutamylcyclotransferase [Columbina picui],-1,#000000,normal,1,0
+OPJ58950.1_1_181,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Patagioenas fasciata monilis],-1,#000000,normal,1,0
+NWX10683.1_1_181,CHAC2 glutamylcyclotransferase [Caloenas nicobarica],-1,#000000,normal,1,0
+NXW89501.1_1_181,CHAC2 glutamylcyclotransferase [Alopecoenas beccarii],-1,#000000,normal,1,0
+XP_014817979.1_1_181,PREDICTED: putative glutathione-specific gamma-glutamylcyclotransferase 2 [Calidris pugnax],-1,#000000,normal,1,0
+NWX43713.1_1_181,CHAC2 glutamylcyclotransferase [Steatornis caripensis],-1,#000000,normal,1,0
+NXR08758.1_1_182,CHAC2 glutamylcyclotransferase [Semnornis frantzii],-1,#000000,normal,1,0
+NXP78353.1_1_182,CHAC2 glutamylcyclotransferase [Ramphastos sulfuratus],-1,#000000,normal,1,0
+XP_054035997.1_1_182,glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Dryobates pubescens],-1,#000000,normal,1,0
+NXX84462.1_1_182,CHAC2 glutamylcyclotransferase [Urocolius indicus],-1,#000000,normal,1,0
+NXF94538.1_1_183,CHAC2 glutamylcyclotransferase [Eubucco bourcierii],-1,#000000,normal,1,0
+XP_054239731.1_1_181,glutathione-specific gamma-glutamylcyclotransferase 2 [Indicator indicator],-1,#000000,normal,1,0
+NXN09001.1_1_181,CHAC2 glutamylcyclotransferase [Indicator maculatus],-1,#000000,normal,1,0
+NXX47507.1_1_181,CHAC2 glutamylcyclotransferase [Tricholaema leucomelas],-1,#000000,normal,1,0
+NXG40783.1_1_181,CHAC2 glutamylcyclotransferase [Psilopogon haemacephalus],-1,#000000,normal,1,0
+NXE18770.1_1_180,CHAC2 glutamylcyclotransferase [Ardeotis kori],-1,#000000,normal,1,0
+NXE05044.1_1_181,CHAC2 glutamylcyclotransferase [Lophotis ruficrista],-1,#000000,normal,1,0
+XP_030304190.1_1_181,glutathione-specific gamma-glutamylcyclotransferase 2 [Calypte anna],-1,#000000,normal,1,0
+NXI52365.1_1_176,CHAC2 glutamylcyclotransferase [Chloroceryle aenea],-1,#000000,normal,1,0
+NXD84620.1_1_181,CHAC2 glutamylcyclotransferase [Halcyon senegalensis],-1,#000000,normal,1,0
+NXI44663.1_1_181,CHAC2 glutamylcyclotransferase [Galbula dea],-1,#000000,normal,1,0
+NXH19548.1_1_181,CHAC2 glutamylcyclotransferase [Bucco capensis],-1,#000000,normal,1,0
+NXW42717.1_1_181,CHAC2 glutamylcyclotransferase [Nyctiprogne leucopyga],-1,#000000,normal,1,0
+NXJ69351.1_1_181,CHAC2 glutamylcyclotransferase [Rostratula benghalensis],-1,#000000,normal,1,0
+NXN30796.1_1_181,CHAC2 glutamylcyclotransferase [Nycticryphes semicollaris],-1,#000000,normal,1,0
+NWW53080.1_1_181,CHAC2 glutamylcyclotransferase [Pedionomus torquatus],-1,#000000,normal,1,0
+NXS94508.1_1_180,CHAC2 glutamylcyclotransferase [Jacana jacana],-1,#000000,normal,1,0
+XP_052639891.1_1_181,glutathione-specific gamma-glutamylcyclotransferase 2 [Harpia harpyja],-1,#000000,normal,1,0
+NXG86865.1_1_181,CHAC2 glutamylcyclotransferase [Stercorarius parasiticus],-1,#000000,normal,1,0
+NXJ85388.1_1_181,CHAC2 glutamylcyclotransferase [Trogon melanurus],-1,#000000,normal,1,0
+NXP02269.1_1_181,CHAC2 glutamylcyclotransferase [Thinocorus orbignyianus],-1,#000000,normal,1,0
+NXL45606.1_1_181,CHAC2 glutamylcyclotransferase [Podilymbus podiceps],-1,#000000,normal,1,0
+NXV71380.1_1_181,CHAC2 glutamylcyclotransferase [Atlantisia rogersi],-1,#000000,normal,1,0
+XP_026700101.1_1_181,glutathione-specific gamma-glutamylcyclotransferase 2 [Athene cunicularia],-1,#000000,normal,1,0
+NXL38252.1_1_181,CHAC2 glutamylcyclotransferase [Glaucidium brasilianum],-1,#000000,normal,1,0
+NXX13703.1_1_180,CHAC2 glutamylcyclotransferase [Podargus strigoides],-1,#000000,normal,1,0
+NXU47219.1_1_181,CHAC2 glutamylcyclotransferase [Turnix velox],-1,#000000,normal,1,0
+NWS53894.1_1_181,CHAC2 glutamylcyclotransferase [Chunga burmeisteri],-1,#000000,normal,1,0
+NXJ93339.1_1_177,CHAC2 glutamylcyclotransferase [Corythaixoides concolor],-1,#000000,normal,1,0
+XP_032845375.2_1_181,glutathione-specific gamma-glutamylcyclotransferase 2 [Tyto alba],-1,#000000,normal,1,0
+NXX93700.1_1_181,CHAC2 glutamylcyclotransferase [Centropus bengalensis],-1,#000000,normal,1,0
+NWR72746.1_1_181,CHAC2 glutamylcyclotransferase [Centropus unirufus],-1,#000000,normal,1,0
+NWS68456.1_1_181,CHAC2 glutamylcyclotransferase [Crotophaga sulcirostris],-1,#000000,normal,1,0
+XP_053918600.1_1_181,glutathione-specific gamma-glutamylcyclotransferase 2 [Cuculus canorus],-1,#000000,normal,1,0
+XP_025963962.1_1_182,glutathione-specific gamma-glutamylcyclotransferase 2 [Dromaius novaehollandiae],-1,#000000,normal,1,0
+NXE47541.1_1_182,CHAC2 glutamylcyclotransferase [Casuarius casuarius],-1,#000000,normal,1,0
+XP_037261376.1_1_182,glutathione-specific gamma-glutamylcyclotransferase 2 isoform X2 [Falco rusticolus],-1,#000000,normal,1,0
+NWU71951.1_1_188,CHAC2 glutamylcyclotransferase [Pterocles burchelli],-1,#000000,normal,1,0
+XP_050749390.1_1_182,glutathione-specific gamma-glutamylcyclotransferase 2 [Gymnogyps californianus],-1,#000000,normal,1,0
+NXY88600.1_1_182,CHAC2 glutamylcyclotransferase [Ceyx cyanopectus],-1,#000000,normal,1,0
+XP_012983366.2_43_227,LOW QUALITY PROTEIN: glutathione-specific gamma-glutamylcyclotransferase 2 [Melopsittacus undulatus],-1,#000000,normal,1,0
+XP_030345978.1_1_183,glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Strigops habroptila],-1,#000000,normal,1,0
+KQL60853.1_1_183,Cation transport regulator-like 2 [Amazona aestiva],-1,#000000,normal,1,0
+NXD73769.1_1_183,CHAC2 glutamylcyclotransferase [Eolophus roseicapilla],-1,#000000,normal,1,0
+NWS49337.1_1_182,CHAC2 glutamylcyclotransferase [Probosciger aterrimus],-1,#000000,normal,1,0
+NXV51259.1_1_183,CHAC2 glutamylcyclotransferase [Uria aalge],-1,#000000,normal,1,0
+NXV15746.1_1_183,CHAC2 glutamylcyclotransferase [Cepphus grylle],-1,#000000,normal,1,0
+NXP45837.1_1_181,CHAC2 glutamylcyclotransferase [Heliornis fulica],-1,#000000,normal,1,0
+NWZ49920.1_1_181,CHAC2 glutamylcyclotransferase [Haliaeetus albicilla],-1,#000000,normal,1,0
+XP_049655398.1_1_181,glutathione-specific gamma-glutamylcyclotransferase 2 [Accipiter gentilis],-1,#000000,normal,1,0
+NWI19035.1_1_181,CHAC2 glutamylcyclotransferase [Crypturellus soui],-1,#000000,normal,1,0
+NWJ10090.1_1_181,CHAC2 glutamylcyclotransferase [Crypturellus undulatus],-1,#000000,normal,1,0
+NXS43522.1_1_181,CHAC2 glutamylcyclotransferase [Balaeniceps rex],-1,#000000,normal,1,0
+NXG63880.1_1_181,CHAC2 glutamylcyclotransferase [Hemiprocne comata],-1,#000000,normal,1,0
+XP_054676423.1_1_181,glutathione-specific gamma-glutamylcyclotransferase 2 [Grus americana],-1,#000000,normal,1,0
+NWQ97762.1_1_181,CHAC2 glutamylcyclotransferase [Burhinus bistriatus],-1,#000000,normal,1,0
+XP_054053333.1_1_181,glutathione-specific gamma-glutamylcyclotransferase 2 [Rissa tridactyla],-1,#000000,normal,1,0
+NXV92461.1_1_181,CHAC2 glutamylcyclotransferase [Calonectris borealis],-1,#000000,normal,1,0
+XP_029877232.1_1_181,glutathione-specific gamma-glutamylcyclotransferase 2 [Aquila chrysaetos chrysaetos],-1,#000000,normal,1,0
+NXN36217.1_1_181,CHAC2 glutamylcyclotransferase [Rhinoptilus africanus],-1,#000000,normal,1,0
+NXN51756.1_1_181,CHAC2 glutamylcyclotransferase [Rynchops niger],-1,#000000,normal,1,0
+NXE75715.1_1_181,CHAC2 glutamylcyclotransferase [Cochlearius cochlearius],-1,#000000,normal,1,0
+NXN97515.1_1_181,CHAC2 glutamylcyclotransferase [Rhinopomastus cyanomelas],-1,#000000,normal,1,0
+XP_015276699.1_27_209,PREDICTED: putative glutathione-specific gamma-glutamylcyclotransferase 2 [Gekko japonicus],-1,#000000,normal,1,0
+XP_054842500.1_1_181,glutathione-specific gamma-glutamylcyclotransferase 2 [Eublepharis macularius],-1,#000000,normal,1,0
+XP_048374746.1_24_206,glutathione-specific gamma-glutamylcyclotransferase 2 [Sphaerodactylus townsendi],-1,#000000,normal,1,0
+XP_033000969.1_30_217,glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Lacerta agilis],-1,#000000,normal,1,0
+XP_028580907.1_30_217,glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Podarcis muralis],-1,#000000,normal,1,0
+XP_053239612.1_29_216,glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Podarcis raffonei],-1,#000000,normal,1,0
+XP_044284542.1_1_185,glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Varanus komodoensis],-1,#000000,normal,1,0
+XP_053101592.1_34_218,glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Hemicordylus capensis],-1,#000000,normal,1,0
+XP_042330316.1_28_214,glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Sceloporus undulatus],-1,#000000,normal,1,0
+XP_008100949.1_95_281,PREDICTED: putative glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Anolis carolinensis],-1,#000000,normal,1,0
+XP_020665584.1_46_231,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Pogona vitticeps],-1,#000000,normal,1,0
+KAJ7341272.1_32_212,hypothetical protein JRQ81_005179 [Phrynocephalus forsythii],-1,#000000,normal,1,0
+ETE72004.1_29_211,Cation transport regulator-like protein 2_ partial [Ophiophagus hannah],-1,#000000,normal,1,0
+XP_026532484.1_29_211,glutathione-specific gamma-glutamylcyclotransferase 2 [Notechis scutatus],-1,#000000,normal,1,0
+XP_013913843.1_29_211,PREDICTED: putative glutathione-specific gamma-glutamylcyclotransferase 2 [Thamnophis sirtalis],-1,#000000,normal,1,0
+XP_039200255.1_29_211,glutathione-specific gamma-glutamylcyclotransferase 2 [Crotalus tigris],-1,#000000,normal,1,0
+XP_015669173.1_29_207,glutathione-specific gamma-glutamylcyclotransferase 2 [Protobothrops mucrosquamatus],-1,#000000,normal,1,0
+XP_034283280.1_29_211,glutathione-specific gamma-glutamylcyclotransferase 2 [Pantherophis guttatus],-1,#000000,normal,1,0
+XP_007439422.1_29_212,glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Python bivittatus],-1,#000000,normal,1,0
+KAG8123075.1_1_180,hypothetical protein E2320_018443 [Naja naja],-1,#000000,normal,1,0
+XP_044865059.1_1_181,glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Mauremys mutica],-1,#000000,normal,1,0
+XP_039384635.1_48_230,glutathione-specific gamma-glutamylcyclotransferase 2 [Mauremys reevesii],-1,#000000,normal,1,0
+XP_030413600.1_48_230,glutathione-specific gamma-glutamylcyclotransferase 2 [Gopherus evgoodei],-1,#000000,normal,1,0
+XP_005307410.1_1_181,glutathione-specific gamma-glutamylcyclotransferase 2 [Chrysemys picta bellii],-1,#000000,normal,1,0
+TFK00786.1_48_230,receptor-type tyrosine-protein phosphatase alpha [Platysternon megacephalum],-1,#000000,normal,1,0
+XP_032634262.1_48_230,glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Chelonoidis abingdonii],-1,#000000,normal,1,0
+KAG6931002.1_18_200,ChaC cation transport regulator -like protein 2_ partial [Chelydra serpentina],-1,#000000,normal,1,0
+XP_048698842.1_1_169,glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Caretta caretta],-1,#000000,normal,1,0
+XP_006122167.2_42_224,glutathione-specific gamma-glutamylcyclotransferase 2 [Pelodiscus sinensis],-1,#000000,normal,1,0
+XP_038250489.1_1_181,glutathione-specific gamma-glutamylcyclotransferase 2 [Dermochelys coriacea],-1,#000000,normal,1,0
+XP_027690366.2_1_183,glutathione-specific gamma-glutamylcyclotransferase 2 isoform X2 [Chelonia mydas],-1,#000000,normal,1,0
+XP_045834682.1_1_178,glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Meles meles],-1,#000000,normal,1,0
+XP_004775747.1_1_178,glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Mustela putorius furo],-1,#000000,normal,1,0
+XP_022359988.1_1_176,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Enhydra lutris kenyoni],-1,#000000,normal,1,0
+XP_047599980.1_1_179,glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Lutra lutra],-1,#000000,normal,1,0
+XP_004403727.1_1_179,PREDICTED: putative glutathione-specific gamma-glutamylcyclotransferase 2 [Odobenus rosmarus divergens],-1,#000000,normal,1,0
+XP_025724640.1_1_167,glutathione-specific gamma-glutamylcyclotransferase 2 isoform X2 [Callorhinus ursinus],-1,#000000,normal,1,0
+XP_008698075.1_1_179,glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Ursus maritimus],-1,#000000,normal,1,0
+XP_026341948.3_54_222,glutathione-specific gamma-glutamylcyclotransferase 2 isoform X2 [Ursus arctos],-1,#000000,normal,1,0
+XP_002914099.3_1_180,glutathione-specific gamma-glutamylcyclotransferase 2 [Ailuropoda melanoleuca],-1,#000000,normal,1,0
+XP_044774844.1_1_179,glutathione-specific gamma-glutamylcyclotransferase 2 [Neomonachus schauinslandi],-1,#000000,normal,1,0
+XP_006727655.1_1_179,glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Leptonychotes weddellii],-1,#000000,normal,1,0
+XP_039105128.1_1_179,glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Hyaena hyaena],-1,#000000,normal,1,0
+XP_029793210.1_1_179,glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Suricata suricatta],-1,#000000,normal,1,0
+XP_019276734.1_1_167,glutathione-specific gamma-glutamylcyclotransferase 2 isoform X2 [Panthera pardus],-1,#000000,normal,1,0
+XP_007075473.1_1_179,glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Panthera tigris],-1,#000000,normal,1,0
+XP_043459314.1_1_179,glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Prionailurus bengalensis],-1,#000000,normal,1,0
+XP_045302003.1_1_179,glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Leopardus geoffroyi],-1,#000000,normal,1,0
+XP_003984041.1_1_179,glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Felis catus],-1,#000000,normal,1,0
+XP_040309685.1_1_179,glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Puma yagouaroundi],-1,#000000,normal,1,0
+XP_037663683.1_1_179,glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Choloepus didactylus],-1,#000000,normal,1,0
+XP_004686256.1_1_180,PREDICTED: putative glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Condylura cristata],-1,#000000,normal,1,0
+XP_037383975.1_1_180,glutathione-specific gamma-glutamylcyclotransferase 2 [Talpa occidentalis],-1,#000000,normal,1,0
+KAG8504870.1_9_176,Glutathione-specific gamma-glutamylcyclotransferase 2_ partial [Galemys pyrenaicus],-1,#000000,normal,1,0
+XP_049640764.1_1_179,glutathione-specific gamma-glutamylcyclotransferase 2 [Suncus etruscus],-1,#000000,normal,1,0
+XP_004615863.1_1_179,glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Sorex araneus],-1,#000000,normal,1,0
+XP_007528010.1_1_179,PREDICTED: putative glutathione-specific gamma-glutamylcyclotransferase 2 [Erinaceus europaeus],-1,#000000,normal,1,0
+XP_028371557.2_76_256,glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Phyllostomus discolor],-1,#000000,normal,1,0
+XP_045683451.1_1_179,glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Phyllostomus hastatus],-1,#000000,normal,1,0
+XP_024408571.1_1_179,glutathione-specific gamma-glutamylcyclotransferase 2 [Desmodus rotundus],-1,#000000,normal,1,0
+XP_054431427.1_1_178,glutathione-specific gamma-glutamylcyclotransferase 2 [Pteronotus parnellii mesoamericanus],-1,#000000,normal,1,0
+XP_036903794.1_1_179,glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Sturnira hondurensis],-1,#000000,normal,1,0
+XP_037014349.2_1_180,glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Artibeus jamaicensis],-1,#000000,normal,1,0
+XP_010950228.1_1_180,glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Camelus bactrianus],-1,#000000,normal,1,0
+XP_031322889.1_1_168,glutathione-specific gamma-glutamylcyclotransferase 2 isoform X2 [Camelus dromedarius],-1,#000000,normal,1,0
+XP_031531486.1_1_179,glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Vicugna pacos],-1,#000000,normal,1,0
+XP_047638051.1_1_180,glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Phacochoerus africanus],-1,#000000,normal,1,0
+XP_003125197.1_1_180,putative glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Sus scrofa],-1,#000000,normal,1,0
+XP_036118059.1_1_179,glutathione-specific gamma-glutamylcyclotransferase 2 isoform X3 [Molossus molossus],-1,#000000,normal,1,0
+XP_015982951.1_1_179,glutathione-specific gamma-glutamylcyclotransferase 2 [Rousettus aegyptiacus],-1,#000000,normal,1,0
+XP_019517667.1_1_179,PREDICTED: putative glutathione-specific gamma-glutamylcyclotransferase 2 [Hipposideros armiger],-1,#000000,normal,1,0
+XP_011362267.1_1_167,glutathione-specific gamma-glutamylcyclotransferase 2 [Pteropus vampyrus],-1,#000000,normal,1,0
+XP_006909663.1_1_179,glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Pteropus alecto],-1,#000000,normal,1,0
+XP_039743108.1_1_179,glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Pteropus giganteus],-1,#000000,normal,1,0
+XP_023412993.1_67_247,glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Loxodonta africana],-1,#000000,normal,1,0
+XP_049726488.1_1_181,glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Elephas maximus indicus],-1,#000000,normal,1,0
+XP_004369649.1_1_178,glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Trichechus manatus latirostris],-1,#000000,normal,1,0
+XP_004710278.1_1_179,glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Echinops telfairi],-1,#000000,normal,1,0
+XP_007952196.1_1_179,glutathione-specific gamma-glutamylcyclotransferase 2 [Orycteropus afer afer],-1,#000000,normal,1,0
+XP_006873601.1_1_179,PREDICTED: cation transport regulator-like protein 2 [Chrysochloris asiatica],-1,#000000,normal,1,0
+XP_032980760.1_1_167,glutathione-specific gamma-glutamylcyclotransferase 2 isoform X2 [Rhinolophus ferrumequinum],-1,#000000,normal,1,0
+XP_019575029.1_1_179,PREDICTED: putative glutathione-specific gamma-glutamylcyclotransferase 2 [Rhinolophus sinicus],-1,#000000,normal,1,0
+KAB0380000.1_1_179,hypothetical protein FD755_007784 [Muntiacus reevesi],-1,#000000,normal,1,0
+KAB0365240.1_1_179,hypothetical protein FD754_009396 [Muntiacus muntjak],-1,#000000,normal,1,0
+XP_020732288.1_1_180,putative glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Odocoileus virginianus texanus],-1,#000000,normal,1,0
+CAI9174271.1_1_180,unnamed protein product [Rangifer tarandus platyrhyncus],-1,#000000,normal,1,0
+XP_043324492.1_1_179,glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Cervus canadensis],-1,#000000,normal,1,0
+ELR47007.1_1_179,Cation transport regulator-like protein 2_ partial [Bos mutus],-1,#000000,normal,1,0
+XP_005212661.1_1_179,putative glutathione-specific gamma-glutamylcyclotransferase 2 isoform X3 [Bos taurus],-1,#000000,normal,1,0
+XP_019825695.1_1_199,PREDICTED: putative glutathione-specific gamma-glutamylcyclotransferase 2 isoform X2 [Bos indicus],-1,#000000,normal,1,0
+XP_006044816.1_1_179,glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Bubalus bubalis],-1,#000000,normal,1,0
+XP_005686656.1_1_179,PREDICTED: putative glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Capra hircus],-1,#000000,normal,1,0
+XP_012027065.1_1_179,glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Ovis aries],-1,#000000,normal,1,0
+XP_052503464.1_1_180,glutathione-specific gamma-glutamylcyclotransferase 2 [Budorcas taxicolor],-1,#000000,normal,1,0
+XP_040080761.1_1_179,glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Oryx dammah],-1,#000000,normal,1,0
+TEA18822.1_32_212,hypothetical protein DBR06_SOUSAS46810002_ partial [Sousa chinensis],-1,#000000,normal,1,0
+XP_019798200.1_1_179,glutathione-specific gamma-glutamylcyclotransferase 2 isoform X2 [Tursiops truncatus],-1,#000000,normal,1,0
+XP_029088167.1_1_179,glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Monodon monoceros],-1,#000000,normal,1,0
+XP_004286565.1_1_167,glutathione-specific gamma-glutamylcyclotransferase 2 isoform X2 [Orcinus orca],-1,#000000,normal,1,0
+XP_022453015.1_1_179,glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Delphinapterus leucas],-1,#000000,normal,1,0
+XP_024597787.1_1_179,glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Neophocaena asiaeorientalis asiaeorientalis],-1,#000000,normal,1,0
+XP_007465546.1_1_179,PREDICTED: cation transport regulator-like protein 2 isoform X2 [Lipotes vexillifer],-1,#000000,normal,1,0
+XP_007190089.1_1_179,glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Balaenoptera acutorostrata scammoni],-1,#000000,normal,1,0
+KAB0397625.1_47_227,hypothetical protein E2I00_012675_ partial [Balaenoptera physalus],-1,#000000,normal,1,0
+MBW00569.1_1_167,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Eschrichtius robustus],-1,#000000,normal,1,0
+XP_007124532.1_1_180,glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Physeter catodon],-1,#000000,normal,1,0
+XP_014698476.1_1_181,glutathione-specific gamma-glutamylcyclotransferase 2 [Equus asinus],-1,#000000,normal,1,0
+XP_001497483.1_1_181,glutathione-specific gamma-glutamylcyclotransferase 2 [Equus caballus],-1,#000000,normal,1,0
+KAF5918035.1_1_179,hypothetical protein HPG69_019841 [Diceros bicornis minor],-1,#000000,normal,1,0
+XP_041610431.1_111_291,glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Vulpes lagopus],-1,#000000,normal,1,0
+XP_025848429.1_111_291,glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Vulpes vulpes],-1,#000000,normal,1,0
+XP_055185148.1_1_179,glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Nyctereutes procyonoides],-1,#000000,normal,1,0
+XP_025322744.1_1_179,glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Canis lupus dingo],-1,#000000,normal,1,0
+XP_005359237.1_1_176,glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Microtus ochrogaster],-1,#000000,normal,1,0
+XP_049979846.1_1_176,glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Microtus fortis],-1,#000000,normal,1,0
+XP_038172828.1_1_176,glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Arvicola amphibius],-1,#000000,normal,1,0
+XP_048283545.1_1_176,glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Myodes glareolus],-1,#000000,normal,1,0
+XP_037059331.1_1_176,LOW QUALITY PROTEIN: putative glutathione-specific gamma-glutamylcyclotransferase 2 [Peromyscus leucopus],-1,#000000,normal,1,0
+XP_051034709.1_1_176,glutathione-specific gamma-glutamylcyclotransferase 2 [Phodopus roborovskii],-1,#000000,normal,1,0
+XP_052590516.1_38_215,glutathione-specific gamma-glutamylcyclotransferase 2 isoform X2 [Peromyscus californicus insignis],-1,#000000,normal,1,0
+XP_005088122.1_1_176,glutathione-specific gamma-glutamylcyclotransferase 2 [Mesocricetus auratus],-1,#000000,normal,1,0
+OBS73969.1_58_236,hypothetical protein A6R68_15494 [Neotoma lepida],-1,#000000,normal,1,0
+XP_003502775.1_1_176,glutathione-specific gamma-glutamylcyclotransferase 2 [Cricetulus griseus],-1,#000000,normal,1,0
+AAH25100.1_1_176,ChaC_ cation transport regulator homolog 2 (E. coli) [Mus musculus],-1,#000000,normal,1,0
+XP_052054355.1_1_176,glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Apodemus sylvaticus],-1,#000000,normal,1,0
+NP_001020187.1_1_176,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Rattus norvegicus],-1,#000000,normal,1,0
+XP_021066716.1_1_176,glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Mus pahari],-1,#000000,normal,1,0
+XP_031197855.1_1_177,glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Mastomys coucha],-1,#000000,normal,1,0
+XP_021484995.1_1_176,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Meriones unguiculatus],-1,#000000,normal,1,0
+XP_055485046.1_1_176,glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Psammomys obesus],-1,#000000,normal,1,0
+XP_051026458.1_1_177,glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Acomys russatus],-1,#000000,normal,1,0
+XP_028632750.1_1_176,glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Grammomys surdaster],-1,#000000,normal,1,0
+XP_034365159.1_1_176,glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Arvicanthis niloticus],-1,#000000,normal,1,0
+XP_008821241.1_1_177,glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Nannospalax galili],-1,#000000,normal,1,0
+XP_012804610.1_1_177,glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Jaculus jaculus],-1,#000000,normal,1,0
+XP_053445902.1_9_186,glutathione-specific gamma-glutamylcyclotransferase 2 [Nycticebus coucang],-1,#000000,normal,1,0
+XP_003787967.3_9_186,glutathione-specific gamma-glutamylcyclotransferase 2 [Otolemur garnettii],-1,#000000,normal,1,0
+XP_005391077.1_1_177,PREDICTED: putative glutathione-specific gamma-glutamylcyclotransferase 2 [Chinchilla lanigera],-1,#000000,normal,1,0
+XP_004643467.1_1_181,glutathione-specific gamma-glutamylcyclotransferase 2 isoform X2 [Octodon degus],-1,#000000,normal,1,0
+XP_004867344.1_1_177,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Heterocephalus glaber],-1,#000000,normal,1,0
+XP_010614125.1_1_177,glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Fukomys damarensis],-1,#000000,normal,1,0
+XP_003461981.1_1_177,glutathione-specific gamma-glutamylcyclotransferase 2 [Cavia porcellus],-1,#000000,normal,1,0
+XP_015335160.1_1_180,glutathione-specific gamma-glutamylcyclotransferase 2 [Marmota marmota marmota],-1,#000000,normal,1,0
+XP_026255671.1_1_181,glutathione-specific gamma-glutamylcyclotransferase 2 [Urocitellus parryii],-1,#000000,normal,1,0
+XP_005322056.1_1_181,glutathione-specific gamma-glutamylcyclotransferase 2 [Ictidomys tridecemlineatus],-1,#000000,normal,1,0
+XP_047377812.1_1_181,glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Sciurus carolinensis],-1,#000000,normal,1,0
+XP_012873473.1_1_177,PREDICTED: putative glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Dipodomys ordii],-1,#000000,normal,1,0
+XP_020024167.1_1_177,putative glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Castor canadensis],-1,#000000,normal,1,0
+XP_006159076.1_1_176,glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Tupaia chinensis],-1,#000000,normal,1,0
+XP_004580205.1_1_181,glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Ochotona princeps],-1,#000000,normal,1,0
+XP_040849685.1_1_181,glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Ochotona curzoniae],-1,#000000,normal,1,0
+XP_002709916.3_1_181,glutathione-specific gamma-glutamylcyclotransferase 2 [Oryctolagus cuniculus],-1,#000000,normal,1,0
+XP_008580824.1_1_179,PREDICTED: cation transport regulator-like protein 2 [Galeopterus variegatus],-1,#000000,normal,1,0
+XP_008068672.1_1_181,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Carlito syrichta],-1,#000000,normal,1,0
+XP_002757800.1_1_178,glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Callithrix jacchus],-1,#000000,normal,1,0
+XP_003922788.1_1_178,glutathione-specific gamma-glutamylcyclotransferase 2 [Saimiri boliviensis boliviensis],-1,#000000,normal,1,0
+XP_017397825.1_1_164,glutathione-specific gamma-glutamylcyclotransferase 2 isoform X2 [Cebus imitator],-1,#000000,normal,1,0
+XP_012332621.1_1_180,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Aotus nancymaae],-1,#000000,normal,1,0
+XP_055096429.1_1_181,glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Symphalangus syndactylus],-1,#000000,normal,1,0
+XP_003262427.1_1_180,glutathione-specific gamma-glutamylcyclotransferase 2 [Nomascus leucogenys],-1,#000000,normal,1,0
+XP_017714526.1_1_168,PREDICTED: putative glutathione-specific gamma-glutamylcyclotransferase 2 isoform X2 [Rhinopithecus bieti],-1,#000000,normal,1,0
+XP_010377184.1_1_180,glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Rhinopithecus roxellana],-1,#000000,normal,1,0
+XP_023045962.1_1_180,glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Piliocolobus tephrosceles],-1,#000000,normal,1,0
+XP_011805961.1_1_180,PREDICTED: putative glutathione-specific gamma-glutamylcyclotransferase 2 [Colobus angolensis palliatus],-1,#000000,normal,1,0
+XP_005575951.1_1_167,glutathione-specific gamma-glutamylcyclotransferase 2 isoform X2 [Macaca fascicularis],-1,#000000,normal,1,0
+NP_001181707.1_1_179,glutathione-specific gamma-glutamylcyclotransferase 2 [Macaca mulatta],-1,#000000,normal,1,0
+NP_001008708.1_1_179,glutathione-specific gamma-glutamylcyclotransferase 2 isoform 1 [Homo sapiens],-1,#000000,normal,1,0
+XP_007968838.1_1_167,glutathione-specific gamma-glutamylcyclotransferase 2 isoform X2 [Chlorocebus sabaeus],-1,#000000,normal,1,0
+XP_002812085.1_1_179,glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Pongo abelii],-1,#000000,normal,1,0
+XP_045405555.1_9_190,glutathione-specific gamma-glutamylcyclotransferase 2 [Lemur catta],-1,#000000,normal,1,0
+XP_012633258.2_8_188,LOW QUALITY PROTEIN: putative glutathione-specific gamma-glutamylcyclotransferase 2 [Microcebus murinus],-1,#000000,normal,1,0
+XP_012505317.1_9_189,PREDICTED: putative glutathione-specific gamma-glutamylcyclotransferase 2 [Propithecus coquereli],-1,#000000,normal,1,0
+XP_036847281.1_1_181,glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Manis javanica],-1,#000000,normal,1,0
+XP_036781828.1_1_180,glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Manis pentadactyla],-1,#000000,normal,1,0
+XP_004454293.1_1_180,glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Dasypus novemcinctus],-1,#000000,normal,1,0
+XP_006778668.2_42_223,PREDICTED: putative glutathione-specific gamma-glutamylcyclotransferase 2 [Myotis davidii],-1,#000000,normal,1,0
+XP_005884692.1_42_223,PREDICTED: putative glutathione-specific gamma-glutamylcyclotransferase 2 [Myotis brandtii],-1,#000000,normal,1,0
+KAF6307705.1_58_239,ChaC glutathione specific gamma-glutamylcyclotransferase 2 [Myotis myotis],-1,#000000,normal,1,0
+XP_006083414.2_1_180,glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Myotis lucifugus],-1,#000000,normal,1,0
+XP_036291205.1_1_180,glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Pipistrellus kuhlii],-1,#000000,normal,1,0
+XP_016077649.1_1_180,PREDICTED: putative glutathione-specific gamma-glutamylcyclotransferase 2 [Miniopterus natalensis],-1,#000000,normal,1,0
+XP_036606607.1_1_182,glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Trichosurus vulpecula],-1,#000000,normal,1,0
+XP_020851933.1_1_182,putative glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Phascolarctos cinereus],-1,#000000,normal,1,0
+XP_043843945.1_1_182,glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Dromiciops gliroides],-1,#000000,normal,1,0
+XP_003758328.1_1_182,glutathione-specific gamma-glutamylcyclotransferase 2 [Sarcophilus harrisii],-1,#000000,normal,1,0
+XP_027720875.1_1_180,glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Vombatus ursinus],-1,#000000,normal,1,0
+XP_051831227.1_1_182,glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Antechinus flavipes],-1,#000000,normal,1,0
+XP_001375385.1_1_182,PREDICTED: putative glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Monodelphis domestica],-1,#000000,normal,1,0
+XP_038607038.1_1_180,glutathione-specific gamma-glutamylcyclotransferase 2 [Tachyglossus aculeatus],-1,#000000,normal,1,0
+XP_028927338.1_1_180,glutathione-specific gamma-glutamylcyclotransferase 2 [Ornithorhynchus anatinus],-1,#000000,normal,1,0
+XP_044147346.1_1_181,glutathione-specific gamma-glutamylcyclotransferase 2 [Bufo gargarizans],-1,#000000,normal,1,0
+XP_040283474.1_1_181,glutathione-specific gamma-glutamylcyclotransferase 2 [Bufo bufo],-1,#000000,normal,1,0
+KAG9484484.1_1_181,hypothetical protein GDO78_010062 [Eleutherodactylus coqui],-1,#000000,normal,1,0
+KAG8584134.1_37_219,hypothetical protein GDO81_008696 [Engystomops pustulosus],-1,#000000,normal,1,0
+XP_018411255.1_1_181,PREDICTED: putative glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Nanorana parkeri],-1,#000000,normal,1,0
+KAG8443669.1_33_216,hypothetical protein GDO86_009004 [Hymenochirus boettgeri],-1,#000000,normal,1,0
+XP_040207565.1_1_182,glutathione-specific gamma-glutamylcyclotransferase 2 [Rana temporaria],-1,#000000,normal,1,0
+XP_053315948.1_1_179,glutathione-specific gamma-glutamylcyclotransferase 2 [Spea bombifrons],-1,#000000,normal,1,0
+NP_001017137.1_1_181,glutathione-specific gamma-glutamylcyclotransferase 2 [Xenopus tropicalis],-1,#000000,normal,1,0
+NP_001088800.1_1_182,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Xenopus laevis],-1,#000000,normal,1,0
+XP_033794440.1_13_195,glutathione-specific gamma-glutamylcyclotransferase 2 [Geotrypetes seraphini],-1,#000000,normal,1,0
+XP_030050482.1_1_180,glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Microcaecilia unicolor],-1,#000000,normal,1,0
+XP_029449283.1_1_180,glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Rhinatrema bivittatum],-1,#000000,normal,1,0
+KAJ1156808.1_1_180,hypothetical protein NDU88_009525 [Pleurodeles waltl],-1,#000000,normal,1,0
+XP_049915985.1_1_182,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Epinephelus moara],-1,#000000,normal,1,0
+XP_049420147.1_1_182,putative glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Epinephelus fuscoguttatus],-1,#000000,normal,1,0
+XP_033467291.1_1_183,putative glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Epinephelus lanceolatus],-1,#000000,normal,1,0
+XP_040922399.1_1_185,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Toxotes jaculatrix],-1,#000000,normal,1,0
+XP_053196793.1_1_183,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Scomber japonicus],-1,#000000,normal,1,0
+XP_042253660.1_1_184,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Thunnus maccoyii],-1,#000000,normal,1,0
+XP_046233929.1_1_185,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Scatophagus argus],-1,#000000,normal,1,0
+XP_039992018.1_1_183,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Xiphias gladius],-1,#000000,normal,1,0
+XP_022598780.1_1_183,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Seriola dumerili],-1,#000000,normal,1,0
+XP_023262302.1_1_183,glutathione-specific gamma-glutamylcyclotransferase 2 [Seriola lalandi dorsalis],-1,#000000,normal,1,0
+XP_029384184.1_1_183,glutathione-specific gamma-glutamylcyclotransferase 2 isoform X2 [Echeneis naucrates],-1,#000000,normal,1,0
+XP_051795255.1_1_181,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Acanthochromis polyacanthus],-1,#000000,normal,1,0
+XP_023140172.1_1_183,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Amphiprion ocellaris],-1,#000000,normal,1,0
+XP_008283342.1_1_178,PREDICTED: cation transport regulator-like protein 2 [Stegastes partitus],-1,#000000,normal,1,0
+XP_053269846.1_1_178,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Pleuronectes platessa],-1,#000000,normal,1,0
+XP_034427161.1_1_178,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Hippoglossus hippoglossus],-1,#000000,normal,1,0
+XP_019938502.1_1_178,PREDICTED: putative glutathione-specific gamma-glutamylcyclotransferase 2 [Paralichthys olivaceus],-1,#000000,normal,1,0
+XP_035468396.1_36_218,putative glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Scophthalmus maximus],-1,#000000,normal,1,0
+XP_008312174.1_1_183,glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Cynoglossus semilaevis],-1,#000000,normal,1,0
+XP_043870128.1_1_182,LOW QUALITY PROTEIN: putative glutathione-specific gamma-glutamylcyclotransferase 2 [Solea senegalensis],-1,#000000,normal,1,0
+XP_035519492.1_1_184,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Morone saxatilis],-1,#000000,normal,1,0
+XP_051274070.1_1_183,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Dicentrarchus labrax],-1,#000000,normal,1,0
+XP_018554840.1_1_182,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Lates calcarifer],-1,#000000,normal,1,0
+XP_030255028.1_1_183,glutathione-specific gamma-glutamylcyclotransferase 2 [Sparus aurata],-1,#000000,normal,1,0
+XP_036938496.1_1_182,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Acanthopagrus latus],-1,#000000,normal,1,0
+XP_019134295.1_1_182,glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Larimichthys crocea],-1,#000000,normal,1,0
+KAG8009213.1_1_182,Glutathione-specific gamma-glutamylcyclotransferase 1 [Nibea albiflora],-1,#000000,normal,1,0
+XP_041819055.1_1_182,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Chelmon rostratus],-1,#000000,normal,1,0
+KAI4807511.1_1_184,hypothetical protein KUCAC02_027317 [Chaenocephalus aceratus],-1,#000000,normal,1,0
+XP_033963735.1_1_184,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Pseudochaenichthys georgianus],-1,#000000,normal,1,0
+KAJ4940540.1_1_185,hypothetical protein JOQ06_026837 [Pogonophryne albipinna],-1,#000000,normal,1,0
+XP_034068697.1_1_184,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Gymnodraco acuticeps],-1,#000000,normal,1,0
+XP_033976070.1_1_184,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Trematomus bernacchii],-1,#000000,normal,1,0
+KAI9546862.1_1_184,Cation transport regulator-like protein 2 [Dissostichus eleginoides],-1,#000000,normal,1,0
+XP_010775980.1_1_184,PREDICTED: cation transport regulator-like protein 2 [Notothenia coriiceps],-1,#000000,normal,1,0
+XP_029312996.1_1_182,glutathione-specific gamma-glutamylcyclotransferase 2 [Cottoperca gobio],-1,#000000,normal,1,0
+XP_032358453.1_1_179,glutathione-specific gamma-glutamylcyclotransferase 2 [Etheostoma spectabile],-1,#000000,normal,1,0
+XP_034716406.1_1_180,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Etheostoma cragini],-1,#000000,normal,1,0
+XP_031171550.1_1_181,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Sander lucioperca],-1,#000000,normal,1,0
+XP_028423897.1_1_181,glutathione-specific gamma-glutamylcyclotransferase 2 [Perca flavescens],-1,#000000,normal,1,0
+XP_039645316.1_1_182,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Perca fluviatilis],-1,#000000,normal,1,0
+XP_031699542.1_1_179,glutathione-specific gamma-glutamylcyclotransferase 2 [Anarrhichthys ocellatus],-1,#000000,normal,1,0
+XP_054455182.1_1_182,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Anoplopoma fimbria],-1,#000000,normal,1,0
+XP_034414528.1_1_182,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Cyclopterus lumpus],-1,#000000,normal,1,0
+XP_037320039.1_1_181,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Pungitius pungitius],-1,#000000,normal,1,0
+XP_040032286.1_1_182,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Gasterosteus aculeatus aculeatus],-1,#000000,normal,1,0
+XP_034563001.1_1_180,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Notolabrus celidotus],-1,#000000,normal,1,0
+KAF7667138.1_1_178,hypothetical protein LDENG_00077050 [Lucifuga dentata],-1,#000000,normal,1,0
+XP_053718444.1_1_182,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Synchiropus splendidus],-1,#000000,normal,1,0
+XP_045924067.1_1_185,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Micropterus dolomieu],-1,#000000,normal,1,0
+XP_038591649.1_1_185,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Micropterus salmoides],-1,#000000,normal,1,0
+XP_029953917.1_1_188,glutathione-specific gamma-glutamylcyclotransferase 2 [Salarias fasciatus],-1,#000000,normal,1,0
+XP_028331300.1_1_183,glutathione-specific gamma-glutamylcyclotransferase 2 [Gouania willdenowi],-1,#000000,normal,1,0
+XP_042363798.1_1_183,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Plectropomus leopardus],-1,#000000,normal,1,0
+XP_044034640.1_1_179,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Siniperca chuatsi],-1,#000000,normal,1,0
+XP_037134933.1_1_185,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Syngnathus acus],-1,#000000,normal,1,0
+XP_049615016.1_1_184,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Syngnathus scovelli],-1,#000000,normal,1,0
+XP_019721328.1_1_182,PREDICTED: putative glutathione-specific gamma-glutamylcyclotransferase 2 [Hippocampus comes],-1,#000000,normal,1,0
+XP_051926849.1_25_205,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Hippocampus zosterae],-1,#000000,normal,1,0
+XP_054614254.1_1_181,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Dunckerocampus dactyliophorus],-1,#000000,normal,1,0
+XP_037609971.1_1_179,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Sebastes umbrosus],-1,#000000,normal,1,0
+XP_036816069.1_1_190,putative glutathione-specific gamma-glutamylcyclotransferase 2 isoform X2 [Oncorhynchus mykiss],-1,#000000,normal,1,0
+XP_024264493.2_1_190,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Oncorhynchus tshawytscha],-1,#000000,normal,1,0
+XP_052368159.1_1_190,putative glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Oncorhynchus keta],-1,#000000,normal,1,0
+XP_031675850.1_1_190,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Oncorhynchus kisutch],-1,#000000,normal,1,0
+XP_046195201.1_1_190,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Oncorhynchus gorbuscha],-1,#000000,normal,1,0
+XP_023998911.1_1_192,glutathione-specific gamma-glutamylcyclotransferase 2 [Salvelinus alpinus],-1,#000000,normal,1,0
+XP_038843431.1_1_191,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Salvelinus namaycush],-1,#000000,normal,1,0
+XP_029604074.1_1_191,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Salmo trutta],-1,#000000,normal,1,0
+XP_045557205.1_1_192,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Salmo salar],-1,#000000,normal,1,0
+CAB1344059.1_1_179,unnamed protein product [Coregonus sp. 'balchen'],-1,#000000,normal,1,0
+XP_045071462.1_1_190,putative glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Coregonus clupeaformis],-1,#000000,normal,1,0
+KAJ8013683.1_1_188,hypothetical protein DPEC_G00032340 [Dallia pectoralis],-1,#000000,normal,1,0
+XP_010895953.1_1_192,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Esox lucius],-1,#000000,normal,1,0
+XP_046887787.1_1_177,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Hypomesus transpacificus],-1,#000000,normal,1,0
+KAJ3607583.1_1_174,hypothetical protein NHX12_024634 [Muraenolepis orangiensis],-1,#000000,normal,1,0
+XP_030196342.1_1_180,glutathione-specific gamma-glutamylcyclotransferase 2 [Gadus morhua],-1,#000000,normal,1,0
+XP_029934111.1_1_178,glutathione-specific gamma-glutamylcyclotransferase 2 [Myripristis murdjan],-1,#000000,normal,1,0
+XP_020500385.1_1_167,glutathione-specific gamma-glutamylcyclotransferase 2 [Labrus bergylta],-1,#000000,normal,1,0
+XP_041671960.1_1_179,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Cheilinus undulatus],-1,#000000,normal,1,0
+XP_029978390.1_1_185,glutathione-specific gamma-glutamylcyclotransferase 2 [Sphaeramia orbicularis],-1,#000000,normal,1,0
+CAF90548.1_1_177,unnamed protein product_ partial [Tetraodon nigroviridis],-1,#000000,normal,1,0
+KAI3365118.1_1_181,hypothetical protein L3Q82_010242 [Scortum barcoo],-1,#000000,normal,1,0
+XP_027885993.1_1_184,glutathione-specific gamma-glutamylcyclotransferase 2 [Xiphophorus couchianus],-1,#000000,normal,1,0
+XP_005794707.1_1_184,glutathione-specific gamma-glutamylcyclotransferase 2 [Xiphophorus maculatus],-1,#000000,normal,1,0
+XP_014823792.1_1_183,PREDICTED: putative glutathione-specific gamma-glutamylcyclotransferase 2 [Poecilia mexicana],-1,#000000,normal,1,0
+XP_007562468.1_1_183,PREDICTED: putative glutathione-specific gamma-glutamylcyclotransferase 2 [Poecilia formosa],-1,#000000,normal,1,0
+XP_008435317.1_1_183,PREDICTED: putative glutathione-specific gamma-glutamylcyclotransferase 2 [Poecilia reticulata],-1,#000000,normal,1,0
+XP_043959744.1_1_183,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Gambusia affinis],-1,#000000,normal,1,0
+XP_038138436.1_1_182,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Cyprinodon tularosa],-1,#000000,normal,1,0
+XP_015231395.1_1_184,PREDICTED: putative glutathione-specific gamma-glutamylcyclotransferase 2 [Cyprinodon variegatus],-1,#000000,normal,1,0
+XP_047233399.1_1_184,putative glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Girardinichthys multiradiatus],-1,#000000,normal,1,0
+XP_012728990.1_1_183,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Fundulus heteroclitus],-1,#000000,normal,1,0
+XP_054898914.1_1_183,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Poeciliopsis prolifica],-1,#000000,normal,1,0
+XP_013862418.1_1_183,PREDICTED: putative glutathione-specific gamma-glutamylcyclotransferase 2 [Austrofundulus limnaeus],-1,#000000,normal,1,0
+XP_015818427.1_1_185,putative glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Nothobranchius furzeri],-1,#000000,normal,1,0
+XP_017293574.1_1_179,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Kryptolebias marmoratus],-1,#000000,normal,1,0
+XP_037547065.1_1_177,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Nematolebias whitei],-1,#000000,normal,1,0
+RVE59788.1_1_181,hypothetical protein OJAV_G00191880 [Oryzias javanicus],-1,#000000,normal,1,0
+XP_004080500.1_1_182,glutathione-specific gamma-glutamylcyclotransferase 2 [Oryzias latipes],-1,#000000,normal,1,0
+XP_024141500.1_1_181,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Oryzias melastigma],-1,#000000,normal,1,0
+XP_034050334.1_1_181,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Thalassophryne amazonica],-1,#000000,normal,1,0
+XP_028989326.1_1_177,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Betta splendens],-1,#000000,normal,1,0
+XP_047464833.1_1_177,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Mugil cephalus],-1,#000000,normal,1,0
+CAG5904595.1_1_183,unnamed protein product [Menidia menidia],-1,#000000,normal,1,0
+XP_041830473.1_1_180,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Melanotaenia boesemani],-1,#000000,normal,1,0
+XP_028287304.1_1_180,glutathione-specific gamma-glutamylcyclotransferase 2 [Parambassis ranga],-1,#000000,normal,1,0
+XP_005736564.1_1_185,PREDICTED: putative glutathione-specific gamma-glutamylcyclotransferase 2 [Pundamilia nyererei],-1,#000000,normal,1,0
+XP_004561216.1_1_185,glutathione-specific gamma-glutamylcyclotransferase 2 [Maylandia zebra],-1,#000000,normal,1,0
+XP_006791102.1_1_185,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Neolamprologus brichardi],-1,#000000,normal,1,0
+XP_005919542.1_1_184,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Haplochromis burtoni],-1,#000000,normal,1,0
+XP_003441813.1_1_183,glutathione-specific gamma-glutamylcyclotransferase 2 [Oreochromis niloticus],-1,#000000,normal,1,0
+XP_030610663.1_1_178,glutathione-specific gamma-glutamylcyclotransferase 2 isoform X2 [Archocentrus centrarchus],-1,#000000,normal,1,0
+XP_026171485.1_1_180,glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Mastacembelus armatus],-1,#000000,normal,1,0
+XP_020460860.1_1_181,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Monopterus albus],-1,#000000,normal,1,0
+KAF3704272.1_1_179,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Channa argus],-1,#000000,normal,1,0
+XP_026206368.1_1_177,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Anabas testudineus],-1,#000000,normal,1,0
+XP_020796355.2_1_177,putative glutathione-specific gamma-glutamylcyclotransferase 2 isoform X2 [Boleophthalmus pectinirostris],-1,#000000,normal,1,0
+XP_033840645.1_1_183,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Periophthalmus magnuspinnatus],-1,#000000,normal,1,0
+XP_016338824.1_44_226,PREDICTED: putative glutathione-specific gamma-glutamylcyclotransferase 2 [Sinocyclocheilus anshuiensis],-1,#000000,normal,1,0
+XP_016419991.1_40_222,PREDICTED: putative glutathione-specific gamma-glutamylcyclotransferase 2 [Sinocyclocheilus rhinocerous],-1,#000000,normal,1,0
+XP_043109071.1_40_222,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Puntigrus tetrazona],-1,#000000,normal,1,0
+KAF4106574.1_42_224,hypothetical protein G5714_012564 [Onychostoma macrolepis],-1,#000000,normal,1,0
+XP_052426167.1_40_221,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Carassius gibelio],-1,#000000,normal,1,0
+XP_026132746.1_15_196,glutathione-specific gamma-glutamylcyclotransferase 2 [Carassius auratus],-1,#000000,normal,1,0
+XP_042591397.1_1_179,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Cyprinus carpio],-1,#000000,normal,1,0
+XP_016085962.1_1_180,PREDICTED: putative glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Sinocyclocheilus grahami],-1,#000000,normal,1,0
+XP_050980262.1_13_193,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Labeo rohita],-1,#000000,normal,1,0
+XP_039517262.1_1_180,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Pimephales promelas],-1,#000000,normal,1,0
+TRY87910.1_1_181,hypothetical protein DNTS_003221 [Danionella translucida],-1,#000000,normal,1,0
+NP_001025128.1_1_180,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Danio rerio],-1,#000000,normal,1,0
+XP_051531059.1_1_181,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Myxocyprinus asiaticus],-1,#000000,normal,1,0
+XP_051968272.1_1_181,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Xyrauchen texanus],-1,#000000,normal,1,0
+XP_051771019.1_1_180,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Ctenopharyngodon idella],-1,#000000,normal,1,0
+XP_048026462.1_44_225,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Megalobrama amblycephala],-1,#000000,normal,1,0
+KAI7797138.1_1_182,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Triplophysa rosa],-1,#000000,normal,1,0
+KAA0725185.1_1_166,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Triplophysa tibetana],-1,#000000,normal,1,0
+XP_055031269.1_1_181,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Misgurnus anguillicaudatus],-1,#000000,normal,1,0
+XP_036428534.1_1_180,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Colossoma macropomum],-1,#000000,normal,1,0
+XP_017551378.2_1_180,putative glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Pygocentrus nattereri],-1,#000000,normal,1,0
+KAI4873937.1_1_181,hypothetical protein NFI96_010842 [Prochilodus magdalenae],-1,#000000,normal,1,0
+XP_007259262.3_1_179,putative glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Astyanax mexicanus],-1,#000000,normal,1,0
+XP_030631347.1_1_179,glutathione-specific gamma-glutamylcyclotransferase 2 [Chanos chanos],-1,#000000,normal,1,0
+XP_053495839.1_1_180,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Ictalurus furcatus],-1,#000000,normal,1,0
+KAF4085022.1_13_194,hypothetical protein AMELA_G00112710 [Ameiurus melas],-1,#000000,normal,1,0
+XP_017339526.1_1_181,putative glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Ictalurus punctatus],-1,#000000,normal,1,0
+XP_026771272.1_1_181,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Pangasianodon hypophthalmus],-1,#000000,normal,1,0
+MCJ8738600.1_1_181,hypothetical protein [Pangasius djambal],-1,#000000,normal,1,0
+KAI5623326.1_1_180,putative glutathione-specific gamma-glutamylcyclotransferase 2_ partial [Silurus asotus],-1,#000000,normal,1,0
+KAI5103351.1_1_178,putative glutathione-specific gamma-glutamylcyclotransferase 2_ partial [Silurus meridionalis],-1,#000000,normal,1,0
+XP_053367108.1_1_181,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Clarias gariepinus],-1,#000000,normal,1,0
+XP_026996281.1_1_182,putative glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Tachysurus fulvidraco],-1,#000000,normal,1,0
+KAG7325043.1_1_180,hypothetical protein KOW79_011359 [Hemibagrus wyckioides],-1,#000000,normal,1,0
+XP_026866223.2_1_184,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Electrophorus electricus],-1,#000000,normal,1,0
+XP_041933991.1_1_179,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Alosa sapidissima],-1,#000000,normal,1,0
+XP_048124262.1_1_179,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Alosa alosa],-1,#000000,normal,1,0
+XP_012679214.1_1_179,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Clupea harengus],-1,#000000,normal,1,0
+XP_028809982.1_1_180,glutathione-specific gamma-glutamylcyclotransferase 2 [Denticeps clupeoides],-1,#000000,normal,1,0
+KAJ8396069.1_1_179,hypothetical protein AAFF_G00026010 [Aldrovandia affinis],-1,#000000,normal,1,0
+XP_035261850.1_1_181,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Anguilla anguilla],-1,#000000,normal,1,0
+KAJ8284618.1_1_176,hypothetical protein COCON_G00034680 [Conger conger],-1,#000000,normal,1,0
+KAJ8264747.1_1_177,hypothetical protein GJAV_G00154420 [Gymnothorax javanicus],-1,#000000,normal,1,0
+KAJ8365241.1_1_178,hypothetical protein SKAU_G00140720 [Synaphobranchus kaupii],-1,#000000,normal,1,0
+KAI1887189.1_1_177,hypothetical protein AGOR_G00203580 [Albula goreensis],-1,#000000,normal,1,0
+KAG9338374.1_1_177,hypothetical protein JZ751_025933 [Albula glossodonta],-1,#000000,normal,1,0
+XP_036399137.1_1_177,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Megalops cyprinoides],-1,#000000,normal,1,0
+KAG7492483.1_1_177,hypothetical protein MATL_G00015060 [Megalops atlanticus],-1,#000000,normal,1,0
+XP_048864372.1_1_183,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Brienomyrus brachyistius],-1,#000000,normal,1,0
+XP_023686042.1_1_183,glutathione-specific gamma-glutamylcyclotransferase 2 [Paramormyrops kingsleyae],-1,#000000,normal,1,0
+XP_018621681.1_1_183,glutathione-specific gamma-glutamylcyclotransferase 2 [Scleropages formosus],-1,#000000,normal,1,0
+MBN3320343.1_1_178,CHAC2 glutamylcyclotransferase [Atractosteus spatula],-1,#000000,normal,1,0
+XP_006638836.1_1_178,PREDICTED: putative glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Lepisosteus oculatus],-1,#000000,normal,1,0
+MBN3306473.1_1_178,CHAC2 glutamylcyclotransferase [Amia calva],-1,#000000,normal,1,0
+XP_041107270.1_1_174,glutathione-specific gamma-glutamylcyclotransferase 2-like [Polyodon spathula],-1,#000000,normal,1,0
+RXM29308.1_1_174,Glutathione-specific gamma-glutamylcyclotransferase 1 [Acipenser ruthenus],-1,#000000,normal,1,0
+XP_039594732.1_1_178,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Polypterus senegalus],-1,#000000,normal,1,0
+XP_028676517.1_1_178,putative glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Erpetoichthys calabaricus],-1,#000000,normal,1,0
+XP_014153210.1_34_220,hypothetical protein SARC_08291 [Sphaeroforma arctica JP610],-1,#000000,normal,1,0
+XP_006004020.1_1_180,PREDICTED: putative glutathione-specific gamma-glutamylcyclotransferase 2 [Latimeria chalumnae],-1,#000000,normal,1,0
+XP_043911005.1_1_182,glutathione-specific gamma-glutamylcyclotransferase 2 [Protopterus annectens],-1,#000000,normal,1,0
+XP_043551874.1_1_182,putative glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Chiloscyllium plagiosum],-1,#000000,normal,1,0
+XP_048391673.1_1_182,putative glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Stegostoma fasciatum],-1,#000000,normal,1,0
+GCB64251.1_1_182,hypothetical protein [Scyliorhinus torazame],-1,#000000,normal,1,0
+XP_038666077.1_1_182,putative glutathione-specific gamma-glutamylcyclotransferase 2 isoform X2 [Scyliorhinus canicula],-1,#000000,normal,1,0
+XP_041031004.1_1_182,putative glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Carcharodon carcharias],-1,#000000,normal,1,0
+XP_032881126.1_1_180,glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Amblyraja radiata],-1,#000000,normal,1,0
+XP_051868870.1_1_182,putative glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Pristis pectinata],-1,#000000,normal,1,0
+XP_007890619.1_1_182,putative glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Callorhinchus milii],-1,#000000,normal,1,0
+XP_032818926.1_1_184,glutathione-specific gamma-glutamylcyclotransferase 2 [Petromyzon marinus],-1,#000000,normal,1,0
+XP_002127652.1_1_174,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Ciona intestinalis],-1,#000000,normal,1,0
+CAB3230353.1_1_177,cation transport regulator-like protein 2 [Phallusia mammillata],-1,#000000,normal,1,0
+XP_039254734.1_7_188,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Styela clava],-1,#000000,normal,1,0
+XP_052057742.1_1_181,putative glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Mytilus californianus],-1,#000000,normal,1,0
+CAC5396210.1_1_181,CHAC [Mytilus coruscus],-1,#000000,normal,1,0
+CAG2221466.1_1_181,CHAC [Mytilus edulis],-1,#000000,normal,1,0
+XP_023332299.1_0_193,XP_023332299.1 uncharacterized protein LOC111704317 [Eurytemora affinis],-1,#000000,normal,1,0
+CAD5116408.1_1_181,DgyrCDS5299 [Dimorphilus gyrociliatus],-1,#000000,normal,1,0
+KRY53822.1_1_184,Cation transport regulator-like protein 2 [Trichinella britovi],-1,#000000,normal,1,0
+KRX52147.1_31_216,Cation transport regulator-like protein 2 [Trichinella sp. T9],-1,#000000,normal,1,0
+KRY21507.1_7_192,Cation transport regulator-like protein 2_ partial [Trichinella patagoniensis],-1,#000000,normal,1,0
+KRX21712.1_7_192,Cation transport regulator-like protein 2_ partial [Trichinella nelsoni],-1,#000000,normal,1,0
+KRX49636.1_7_192,Cation transport regulator-like protein 2_ partial [Trichinella murrelli],-1,#000000,normal,1,0
+KRX75118.1_1_184,Cation transport regulator-like protein 2 [Trichinella sp. T6],-1,#000000,normal,1,0
+KRZ57348.1_31_216,Cation transport regulator-like protein 2 [Trichinella nativa],-1,#000000,normal,1,0
+XP_003379528.1_1_184,putative cation transport protein [Trichinella spiralis],-1,#000000,normal,1,0
+KRZ77092.1_1_184,Cation transport regulator-like protein 2 [Trichinella papuae],-1,#000000,normal,1,0
+KRY69775.1_4_189,Cation transport regulator-like protein 2_ partial [Trichinella pseudospiralis],-1,#000000,normal,1,0
+KRZ09027.1_27_213,Cation transport regulator-like protein 2 [Trichinella zimbabwensis],-1,#000000,normal,1,0
+KII63653.1_9_183,Cation transport regulator-like protein 2 [Thelohanellus kitauei],-1,#000000,normal,1,0
+KAF1741186.1_8_188,hypothetical protein MXB_3094 [Myxobolus squamalis],-1,#000000,normal,1,0
+KAF0989164.1_8_190,hypothetical protein HZS_922 [Henneguya salminicola],-1,#000000,normal,1,0
+XP_028882048.1_7_190,ChaC-like protein [Trypanosoma theileri],-1,#000000,normal,1,0
+KAH9600620.1_15_198,Glutathione-specific gamma-glutamylcyclotransferase [Trypanosoma melophagium],-1,#000000,normal,1,0
+CCC91428.1_16_202,conserved hypothetical protein [Trypanosoma congolense IL3000],-1,#000000,normal,1,0
+EPY36324.1_14_212,cation transport protein ChaC [Angomonas deanei],-1,#000000,normal,1,0
+XP_020435053.1_5_194,sulfotransferase [Heterostelium album PN500],-1,#000000,normal,1,0
+MCA9656503.1_6_180,gamma-glutamylcyclotransferase [Myxococcales bacterium],-1,#000000,normal,1,0
+MCE2487284.1_29_205,gamma-glutamylcyclotransferase [Desulfurellaceae bacterium],-1,#000000,normal,1,0
+CAI4222568.1_1_185,unnamed protein product [Auanema sp. JU1783],-1,#000000,normal,1,0
+KAG7237271.1_11_192,hypothetical protein INR49_032604 [Caranx melampygus],-1,#000000,normal,1,0
+KAF3844768.1_11_193,hypothetical protein F7725_007931 [Dissostichus mawsoni],-1,#000000,normal,1,0
+XP_014904184.1_11_195,PREDICTED: glutathione-specific gamma-glutamylcyclotransferase 1 [Poecilia latipinna],-1,#000000,normal,1,0
+XP_003962655.1_13_198,glutathione-specific gamma-glutamylcyclotransferase 1-like [Takifugu rubripes],-1,#000000,normal,1,0
+XP_029532005.1_12_190,glutathione-specific gamma-glutamylcyclotransferase 1 [Oncorhynchus nerka],-1,#000000,normal,1,0
+XP_026050523.1_11_196,glutathione-specific gamma-glutamylcyclotransferase 1 [Astatotilapia calliptera],-1,#000000,normal,1,0
+XP_039873417.1_11_196,glutathione-specific gamma-glutamylcyclotransferase 1 [Simochromis diagramma],-1,#000000,normal,1,0
+ACO09322.1_11_193,Cation transport regulator-like protein 1 [Osmerus mordax],-1,#000000,normal,1,0
+KAG7282073.1_11_201,hypothetical protein CRUP_023589 [Coryphaenoides rupestris],-1,#000000,normal,1,0
+TSR99397.1_11_198,Glutathione-specific gamma-glutamylcyclotransferase 1 [Bagarius yarrelli],-1,#000000,normal,1,0
+KAF1558674.1_1_186,Glutathione-specific gamma-glutamylcyclotransferase 1_ partial [Eudyptula albosignata],-1,#000000,normal,1,0
+KAF1481869.1_1_184,Glutathione-specific gamma-glutamylcyclotransferase 1_ partial [Eudyptula novaehollandiae],-1,#000000,normal,1,0
+KAF1513019.1_1_184,Glutathione-specific gamma-glutamylcyclotransferase 1_ partial [Eudyptula minor],-1,#000000,normal,1,0
+NWT54709.1_1_184,CHAC1 glutamylcyclotransferase [Erythrocercus mccallii],-1,#000000,normal,1,0
+NXK39815.1_1_184,CHAC1 glutamylcyclotransferase [Piprites chloris],-1,#000000,normal,1,0
+XP_020381653.1_27_211,glutathione-specific gamma-glutamylcyclotransferase 1 [Rhincodon typus],-1,#000000,normal,1,0
+XP_029637948.1_7_196,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Octopus sinensis],-1,#000000,normal,1,0
+XP_046862686.1_4_183,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Xenia sp. Carnegie-2017],-1,#000000,normal,1,0
+XP_003388565.1_13_191,PREDICTED: putative glutathione-specific gamma-glutamylcyclotransferase 2 [Amphimedon queenslandica],-1,#000000,normal,1,0
+PAA50214.1_2_186,hypothetical protein BOX15_Mlig023838g1_ partial [Macrostomum lignano],-1,#000000,normal,1,0
+XP_033103319.1_1_174,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Anneissia japonica],-1,#000000,normal,1,0
+MPC58153.1_1_183,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Portunus trituberculatus],-1,#000000,normal,1,0
+KAG0716406.1_1_183,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Chionoecetes opilio],-1,#000000,normal,1,0
+MCL4124158.1_1_179,hypothetical protein [Idotea baltica],-1,#000000,normal,1,0
+OXA61070.1_1_178,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Folsomia candida],-1,#000000,normal,1,0
+ODM88814.1_1_176,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Orchesella cincta],-1,#000000,normal,1,0
+CAD7243105.1_1_172,unnamed protein product [Darwinula stevensoni],-1,#000000,normal,1,0
+CAD7280254.1_1_186,unnamed protein product [Notodromas monacha],-1,#000000,normal,1,0
+CAH0104385.1_175_352,unnamed protein product [Daphnia galeata],-1,#000000,normal,1,0
+RNA20215.1_24_212,glutathione-specific gamma-glutamylcyclotransferase 2 [Brachionus plicatilis],-1,#000000,normal,1,0
+CAF0760923.1_21_223,unnamed protein product [Brachionus calyciflorus],-1,#000000,normal,1,0
+XP_012555260.1_29_209,putative glutathione-specific gamma-glutamylcyclotransferase 2 isoform X2 [Hydra vulgaris],-1,#000000,normal,1,0
+KAG2198691.1_34_226,hypothetical protein INT46_001298 [Mucor plumbeus],-1,#000000,normal,1,0
+EPB91291.1_31_219,hypothetical protein HMPREF1544_01807 [Mucor circinelloides 1006PhL],-1,#000000,normal,1,0
+KAI9282629.1_12_205,ChaC-like protein [Sporodiniella umbellata],-1,#000000,normal,1,0
+XP_023466816.1_23_216,ChaC-like protein [Rhizopus microsporus ATCC 52813],-1,#000000,normal,1,0
+CEJ00208.1_23_217,hypothetical protein RMCBS344292_14271 [Rhizopus microsporus],-1,#000000,normal,1,0
+KAG1050264.1_29_223,hypothetical protein G6F43_007457 [Rhizopus delemar],-1,#000000,normal,1,0
+KAI8367278.1_30_226,ChaC-like protein [Blakeslea trispora],-1,#000000,normal,1,0
+OBZ83643.1_26_222,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Choanephora cucurbitarum],-1,#000000,normal,1,0
+KAI9270326.1_31_229,ChaC-like protein [Phascolomyces articulosus],-1,#000000,normal,1,0
+KAI0785927.1_15_215,ChaC-like protein [Abortiporus biennis],-1,#000000,normal,1,0
+PAV21672.1_13_207,cation transport regulator [Pyrrhoderma noxium],-1,#000000,normal,1,0
+XP_033533861.1_6_207,ChaC-like protein [Eremomyces bilateralis CBS 781.70],-1,#000000,normal,1,0
+KNE67033.1_5_207,hypothetical protein AMAG_12110 [Allomyces macrogynus ATCC 38327],-1,#000000,normal,1,0
+KAI9188014.1_1_194,hypothetical protein H9P43_002405 [Blastocladiella emersonii ATCC 22665],-1,#000000,normal,1,0
+KAI9220569.1_19_218,ChaC-like protein [Blastocladiella britannica],-1,#000000,normal,1,0
+KAI9146353.1_1_196,ChaC-like protein [Paraphysoderma sedebokerense],-1,#000000,normal,1,0
+KAJ1918338.1_3_204,hypothetical protein H4219_002663 [Mycoemilia scoparia],-1,#000000,normal,1,0
+KAI9295330.1_1_196,ChaC-like protein [Neoconidiobolus thromboides FSU 785],-1,#000000,normal,1,0
+KAF7746988.1_1_196,hypothetical protein DSO57_005524 [Entomophthora muscae],-1,#000000,normal,1,0
+KAI8058401.1_12_207,ChaC-like protein [Syncephalis plumigaleata],-1,#000000,normal,1,0
+KAI9591310.1_16_212,ChaC-like protein [Syncephalis fuscata],-1,#000000,normal,1,0
+ORX82245.1_1_199,putative potassium antiporter CHAC-1 [Basidiobolus meristosporus CBS 931.73],-1,#000000,normal,1,0
+XP_004991533.1_23_215,uncharacterized protein PTSG_07733 [Salpingoeca rosetta],-1,#000000,normal,1,0
+CAB4061226.1_1_187,CHAC [Lepeophtheirus salmonis],-1,#000000,normal,1,0
+ACO10258.1_1_186,Cation transport regulator-like protein 2 [Caligus rogercresseyi],-1,#000000,normal,1,0
+ACO15756.1_1_185,Cation transport regulator-like protein 2 [Caligus clemensi],-1,#000000,normal,1,0
+TRY63000.1_186_353,hypothetical protein TCAL_08296 [Tigriopus californicus],-1,#000000,normal,1,0
+XP_027041157.1_5_188,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Pocillopora damicornis],-1,#000000,normal,1,0
+XP_022785685.1_150_333,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Stylophora pistillata],-1,#000000,normal,1,0
+XP_020620439.1_5_187,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Orbicella faveolata],-1,#000000,normal,1,0
+XP_001641368.2_12_199,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Nematostella vectensis],-1,#000000,normal,1,0
+RDD44275.1_16_191,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Trichoplax sp. H2],-1,#000000,normal,1,0
+XP_002113577.1_16_191,hypothetical protein TRIADDRAFT_57142 [Trichoplax adhaerens],-1,#000000,normal,1,0
+XP_038071824.1_1_182,putative glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Patiria miniata],-1,#000000,normal,1,0
+XP_022083072.1_1_181,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Acanthaster planci],-1,#000000,normal,1,0
+XP_033634574.1_1_184,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Asterias rubens],-1,#000000,normal,1,0
+XP_041467604.1_1_187,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Lytechinus variegatus],-1,#000000,normal,1,0
+XP_054759698.1_1_187,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Lytechinus pictus],-1,#000000,normal,1,0
+XP_781155.3_1_184,putative glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Strongylocentrotus purpuratus],-1,#000000,normal,1,0
+PIK57495.1_1_177,hypothetical protein BSL78_05559 [Apostichopus japonicus],-1,#000000,normal,1,0
+KAJ8045243.1_1_181,Glutathione-specific gamma-glutamylcyclotransferase 2 [Holothuria leucospilota],-1,#000000,normal,1,0
+CAH1793223.1_22_204,unnamed protein product_ partial [Owenia fusiformis],-1,#000000,normal,1,0
+XP_002733586.1_1_181,PREDICTED: cation transport regulator-like protein 2-like [Saccoglossus kowalevskii],-1,#000000,normal,1,0
+KAI8487587.1_1_182,Cation transport regulator-like protein 2 [Branchiostoma belcheri],-1,#000000,normal,1,0
+XP_052696910.1_1_182,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Crassostrea angulata],-1,#000000,normal,1,0
+XP_011432336.2_1_182,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Crassostrea gigas],-1,#000000,normal,1,0
+XP_048733980.1_1_181,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Ostrea edulis],-1,#000000,normal,1,0
+XP_022331507.1_1_180,putative glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Crassostrea virginica],-1,#000000,normal,1,0
+XP_033735595.1_1_184,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Pecten maximus],-1,#000000,normal,1,0
+XP_021378460.1_1_183,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Mizuhopecten yessoensis],-1,#000000,normal,1,0
+XP_052269343.1_1_180,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Dreissena polymorpha],-1,#000000,normal,1,0
+XP_052769929.1_14_195,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Mya arenaria],-1,#000000,normal,1,0
+XP_045174845.2_1_178,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Mercenaria mercenaria],-1,#000000,normal,1,0
+KAJ8308567.1_1_106,hypothetical protein KUTeg_013441_ partial [Tegillarca granosa],-1,#000000,normal,1,0
+XP_005094817.1_1_185,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Aplysia californica],-1,#000000,normal,1,0
+CAG5133238.1_1_186,unnamed protein product [Candidula unifasciata],-1,#000000,normal,1,0
+KAH9515460.1_1_186,Cation transport regulator-like protein 2 [Bulinus truncatus],-1,#000000,normal,1,0
+KAI8747168.1_1_185,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Biomphalaria glabrata],-1,#000000,normal,1,0
+GFR93147.1_1_183,gamma-glutamylcyclotransferase [Elysia marginata],-1,#000000,normal,1,0
+RUS78140.1_1_187,hypothetical protein EGW08_014113 [Elysia chlorotica],-1,#000000,normal,1,0
+GFO04653.1_65_250,gamma-glutamylcyclotransferase [Plakobranchus ocellatus],-1,#000000,normal,1,0
+KAF4517291.1_12_199,hypothetical protein B566_EDAN008625 [Ephemera danica],-1,#000000,normal,1,0
+XP_009064832.1_1_184,hypothetical protein LOTGIDRAFT_132228 [Lottia gigantea],-1,#000000,normal,1,0
+XP_041351192.1_1_179,putative glutathione-specific gamma-glutamylcyclotransferase 2 isoform X2 [Gigantopelta aegis],-1,#000000,normal,1,0
+KAF6032491.1_1_185,CHAC2 [Bugula neritina],-1,#000000,normal,1,0
+XP_025105539.1_1_184,LOW QUALITY PROTEIN: putative glutathione-specific gamma-glutamylcyclotransferase 2 [Pomacea canaliculata],-1,#000000,normal,1,0
+XP_046364342.2_1_183,putative glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Haliotis rufescens],-1,#000000,normal,1,0
+XP_046571178.1_1_183,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Haliotis rubra],-1,#000000,normal,1,0
+XP_009020778.1_1_186,hypothetical protein HELRODRAFT_185729 [Helobdella robusta],-1,#000000,normal,1,0
+XP_014788656.1_1_180,putative glutathione-specific gamma-glutamylcyclotransferase 2 isoform X2 [Octopus bimaculoides],-1,#000000,normal,1,0
+ELU02890.1_1_175,hypothetical protein CAPTEDRAFT_2266 [Capitella teleta],-1,#000000,normal,1,0
+OAF69500.1_1_159,Cation transport regulator-like protein 2 [Intoshia linei],-1,#000000,normal,1,0
+KAI3383216.1_1_183,hypothetical protein SNEBB_006827 [Seison nebaliae],-1,#000000,normal,1,0
+XP_013379296.1_1_178,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Lingula anatina],-1,#000000,normal,1,0
+XP_013776590.1_10_195,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Limulus polyphemus],-1,#000000,normal,1,0
+KAI0227236.1_1_179,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Lamellibrachia satsuma],-1,#000000,normal,1,0
+XP_023209537.1_6_190,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Centruroides sculpturatus],-1,#000000,normal,1,0
+GFQ77938.1_1_179,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Trichonephila clavata],-1,#000000,normal,1,0
+GFU09670.1_1_180,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Nephila pilipes],-1,#000000,normal,1,0
+GIX81869.1_1_181,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Caerostris darwini],-1,#000000,normal,1,0
+GBL86581.1_1_183,Putative glutathione-specific gamma-glutamylcyclotransferase 2 [Araneus ventricosus],-1,#000000,normal,1,0
+KAF8766526.1_1_183,putative glutathione-specific like protein [Argiope bruennichi],-1,#000000,normal,1,0
+XP_035216548.1_4_186,putative glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Stegodyphus dumicola],-1,#000000,normal,1,0
+KFM78609.1_1_180,Cation transport regulator-like protein 2_ partial [Stegodyphus mimosarum],-1,#000000,normal,1,0
+XP_054724660.1_1_183,putative glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Uloborus diversus],-1,#000000,normal,1,0
+XP_015911553.1_1_185,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Parasteatoda tepidariorum],-1,#000000,normal,1,0
+KAG8185012.1_1_174,hypothetical protein JTE90_017036 [Oedothorax gibbosus],-1,#000000,normal,1,0
+XP_037524272.1_1_186,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Rhipicephalus sanguineus],-1,#000000,normal,1,0
+XP_037272140.1_10_195,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Rhipicephalus microplus],-1,#000000,normal,1,0
+DAA34409.1_1_177,TPA_inf: cation transport regulator-like protein 2_ partial [Amblyomma variegatum],-1,#000000,normal,1,0
+XP_037580179.1_1_184,LOW QUALITY PROTEIN: putative glutathione-specific gamma-glutamylcyclotransferase 2 [Dermacentor silvarum],-1,#000000,normal,1,0
+XP_050048564.1_1_185,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Dermacentor andersoni],-1,#000000,normal,1,0
+KAG0426371.1_1_185,hypothetical protein HPB47_026501 [Ixodes persulcatus],-1,#000000,normal,1,0
+EEC04166.1_1_184,conserved hypothetical protein [Ixodes scapularis],-1,#000000,normal,1,0
+CAD1476000.1_1_214,unnamed protein product [Heterotrigona itama],-1,#000000,normal,1,0
+XP_043529783.1_1_212,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Frieseomelitta varia],-1,#000000,normal,1,0
+KOX72668.1_1_213,Cation transport regulator-like protein 2 [Melipona quadrifasciata],-1,#000000,normal,1,0
+XP_003402219.1_1_213,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Bombus terrestris],-1,#000000,normal,1,0
+XP_050598889.1_1_213,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Bombus affinis],-1,#000000,normal,1,0
+XP_043797903.1_1_203,putative glutathione-specific gamma-glutamylcyclotransferase 2 isoform X2 [Apis laboriosa],-1,#000000,normal,1,0
+XP_028523656.1_1_178,putative glutathione-specific gamma-glutamylcyclotransferase 2 isoform X2 [Apis cerana],-1,#000000,normal,1,0
+XP_017754635.1_1_213,PREDICTED: putative glutathione-specific gamma-glutamylcyclotransferase 2 [Eufriesea mexicana],-1,#000000,normal,1,0
+XP_017798403.1_4_217,PREDICTED: putative glutathione-specific gamma-glutamylcyclotransferase 2 [Habropoda laboriosa],-1,#000000,normal,1,0
+XP_017887109.1_1_204,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Ceratina calcarata],-1,#000000,normal,1,0
+XP_003700492.1_1_211,PREDICTED: putative glutathione-specific gamma-glutamylcyclotransferase 2 [Megachile rotundata],-1,#000000,normal,1,0
+XP_034191186.1_1_191,putative glutathione-specific gamma-glutamylcyclotransferase 2 isoform X2 [Osmia lignaria],-1,#000000,normal,1,0
+KZC08725.1_1_189,Cation transport regulator-like protein 2 [Dufourea novaeangliae],-1,#000000,normal,1,0
+KYN30634.1_2_190,Cation transport regulator-like protein 2 [Trachymyrmex septentrionalis],-1,#000000,normal,1,0
+KYM93896.1_2_182,Cation transport regulator-like protein 2 [Cyphomyrmex costatus],-1,#000000,normal,1,0
+XP_011869821.1_1_207,PREDICTED: putative glutathione-specific gamma-glutamylcyclotransferase 2 [Vollenhovia emeryi],-1,#000000,normal,1,0
+XP_050453712.1_1_216,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Cataglyphis hispanica],-1,#000000,normal,1,0
+XP_020290790.1_1_209,putative glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Pseudomyrmex gracilis],-1,#000000,normal,1,0
+KAF7413575.1_1_212,hypothetical protein [Vespula germanica],-1,#000000,normal,1,0
+XP_043686269.1_1_184,putative glutathione-specific gamma-glutamylcyclotransferase 2 isoform X2 [Vespula pensylvanica],-1,#000000,normal,1,0
+XP_050845192.1_1_184,putative glutathione-specific gamma-glutamylcyclotransferase 2 isoform X2 [Vespula vulgaris],-1,#000000,normal,1,0
+XP_046834726.1_1_183,putative glutathione-specific gamma-glutamylcyclotransferase 2 isoform X2 [Vespa crabro],-1,#000000,normal,1,0
+XP_035719381.1_1_183,putative glutathione-specific gamma-glutamylcyclotransferase 2 isoform X2 [Vespa mandarinia],-1,#000000,normal,1,0
+XP_043497820.1_17_201,putative glutathione-specific gamma-glutamylcyclotransferase 2 isoform X4 [Polistes fuscatus],-1,#000000,normal,1,0
+XP_014603113.1_17_229,PREDICTED: putative glutathione-specific gamma-glutamylcyclotransferase 2 isoform X2 [Polistes canadensis],-1,#000000,normal,1,0
+XP_011309548.1_1_215,PREDICTED: putative glutathione-specific gamma-glutamylcyclotransferase 2 [Fopius arisanus],-1,#000000,normal,1,0
+XP_034935276.1_1_113,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Chelonus insularis],-1,#000000,normal,1,0
+CAB0031488.1_756_945,unnamed protein product [Trichogramma brassicae],-1,#000000,normal,1,0
+XP_014227019.1_7_197,putative glutathione-specific gamma-glutamylcyclotransferase 2 isoform X2 [Trichogramma pretiosum],-1,#000000,normal,1,0
+KAJ8688583.1_1_189,hypothetical protein QAD02_024378 [Eretmocerus hayati],-1,#000000,normal,1,0
+XP_014212127.1_7_197,putative glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Copidosoma floridanum],-1,#000000,normal,1,0
+XP_011495890.1_7_196,PREDICTED: putative glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Ceratosolen solmsi marchali],-1,#000000,normal,1,0
+OXU24272.1_85_275,hypothetical protein TSAR_004058 [Trichomalopsis sarcophagae],-1,#000000,normal,1,0
+XP_031777221.1_7_197,putative glutathione-specific gamma-glutamylcyclotransferase 2 isoform X2 [Nasonia vitripennis],-1,#000000,normal,1,0
+XP_008554875.1_1_120,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Microplitis demolitor],-1,#000000,normal,1,0
+CAD6230550.1_21_225,GSCOCG00006815001-RA-CDS [Cotesia congregata],-1,#000000,normal,1,0
+XP_044578934.1_1_204,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Cotesia glomerata],-1,#000000,normal,1,0
+XP_044018307.1_1_134,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Aphidius gifuensis],-1,#000000,normal,1,0
+CAH1111104.1_1_182,unnamed protein product [Psylliodes chrysocephala],-1,#000000,normal,1,0
+CAG9858675.1_1_183,unnamed protein product [Phyllotreta striolata],-1,#000000,normal,1,0
+CAG9839534.1_1_184,unnamed protein product [Diabrotica balteata],-1,#000000,normal,1,0
+XP_028142289.1_1_184,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Diabrotica virgifera virgifera],-1,#000000,normal,1,0
+XP_018575624.1_1_181,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Anoplophora glabripennis],-1,#000000,normal,1,0
+XP_023021779.1_1_184,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Leptinotarsa decemlineata],-1,#000000,normal,1,0
+KAG5872465.1_1_183,hypothetical protein JTB14_010603 [Gonioctena quinquepunctata],-1,#000000,normal,1,0
+CAH1155750.1_1_183,unnamed protein product [Phaedon cochleariae],-1,#000000,normal,1,0
+CAH7759424.1_1_185,unnamed protein product [Callosobruchus chinensis],-1,#000000,normal,1,0
+VEN54607.1_1_185,unnamed protein product [Callosobruchus maculatus],-1,#000000,normal,1,0
+CAH1978038.1_1_185,unnamed protein product [Acanthoscelides obtectus],-1,#000000,normal,1,0
+ENN80377.1_1_184,hypothetical protein YQE_03200_ partial [Dendroctonus ponderosae],-1,#000000,normal,1,0
+CAG9769657.1_1_183,unnamed protein product [Ceutorhynchus assimilis],-1,#000000,normal,1,0
+XP_030751696.1_1_184,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Sitophilus oryzae],-1,#000000,normal,1,0
+KAF7271163.1_1_185,hypothetical protein GWI33_015932 [Rhynchophorus ferrugineus],-1,#000000,normal,1,0
+XP_050313342.1_1_186,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Anthonomus grandis grandis],-1,#000000,normal,1,0
+XP_019872832.1_1_183,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Aethina tumida],-1,#000000,normal,1,0
+CAH0561872.1_1_181,unnamed protein product [Brassicogethes aeneus],-1,#000000,normal,1,0
+XP_044761442.1_1_179,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Coccinella septempunctata],-1,#000000,normal,1,0
+XP_045460508.1_1_177,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Harmonia axyridis],-1,#000000,normal,1,0
+KAJ3622887.1_1_185,hypothetical protein MTP99_019159 [Tenebrio molitor],-1,#000000,normal,1,0
+RZC39929.1_1_184,ChaC domain containing protein [Asbolus verrucosus],-1,#000000,normal,1,0
+XP_015836902.1_1_183,PREDICTED: putative glutathione-specific gamma-glutamylcyclotransferase 2 [Tribolium castaneum],-1,#000000,normal,1,0
+XP_044256213.1_1_183,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Tribolium madens],-1,#000000,normal,1,0
+KAF5281323.1_1_180,hypothetical protein FQR65_LT02953 [Abscondita terminalis],-1,#000000,normal,1,0
+KAF5284798.1_1_181,hypothetical protein FQA39_LY04523 [Lamprigera yunnana],-1,#000000,normal,1,0
+KAF2905344.1_1_179,hypothetical protein ILUMI_00827 [Ignelater luminosus],-1,#000000,normal,1,0
+XP_031336874.1_1_183,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Photinus pyralis],-1,#000000,normal,1,0
+XP_018331524.1_1_179,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Agrilus planipennis],-1,#000000,normal,1,0
+KAI4461389.1_1_178,cation transport protein chac-related [Holotrichia oblita],-1,#000000,normal,1,0
+KRT81828.1_31_210,hypothetical protein AMK59_5739_ partial [Oryctes borbonicus],-1,#000000,normal,1,0
+XP_022915383.1_1_183,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Onthophagus taurus],-1,#000000,normal,1,0
+XP_017785515.1_43_222,PREDICTED: putative glutathione-specific gamma-glutamylcyclotransferase 2 isoform X2 [Nicrophorus vespilloides],-1,#000000,normal,1,0
+XP_022667470.1_4_190,putative glutathione-specific gamma-glutamylcyclotransferase 2 isoform X5 [Varroa destructor],-1,#000000,normal,1,0
+XP_022691222.1_32_218,putative glutathione-specific gamma-glutamylcyclotransferase 2 isoform X2 [Varroa jacobsoni],-1,#000000,normal,1,0
+OQR67097.1_4_192,cation transport regulator protein 2-like [Tropilaelaps mercedesae],-1,#000000,normal,1,0
+XP_003743399.1_4_188,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Galendromus occidentalis],-1,#000000,normal,1,0
+XP_013166258.1_1_183,PREDICTED: putative glutathione-specific gamma-glutamylcyclotransferase 2 [Papilio xuthus],-1,#000000,normal,1,0
+XP_013139536.1_1_183,PREDICTED: putative glutathione-specific gamma-glutamylcyclotransferase 2 [Papilio polytes],-1,#000000,normal,1,0
+XP_045538195.1_1_183,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Papilio machaon],-1,#000000,normal,1,0
+CAG4955288.1_1_181,unnamed protein product [Parnassius apollo],-1,#000000,normal,1,0
+CAB3233624.1_1_178,unnamed protein product [Arctia plantaginis],-1,#000000,normal,1,0
+GBP82127.1_1_179,Putative glutathione-specific gamma-glutamylcyclotransferase 2 [Eumeta japonica],-1,#000000,normal,1,0
+XP_053615281.1_1_181,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Plodia interpunctella],-1,#000000,normal,1,0
+XP_013186295.1_1_181,PREDICTED: putative glutathione-specific gamma-glutamylcyclotransferase 2 [Amyelois transitella],-1,#000000,normal,1,0
+XP_028160365.1_1_181,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Ostrinia furnacalis],-1,#000000,normal,1,0
+RVE53395.1_1_182,hypothetical protein evm_001965 [Chilo suppressalis],-1,#000000,normal,1,0
+XP_047991085.1_2_184,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Leguminivora glycinivorella],-1,#000000,normal,1,0
+XP_026314913.1_1_184,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Hyposmocoma kahamanoa],-1,#000000,normal,1,0
+KAJ2954839.1_1_178,hypothetical protein O0L34_g3153 [Tuta absoluta],-1,#000000,normal,1,0
+XP_041982787.1_1_178,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Aricia agestis],-1,#000000,normal,1,0
+KAJ0172293.1_1_183,hypothetical protein K1T71_012266 [Dendrolimus kikuchii],-1,#000000,normal,1,0
+XP_049886183.1_1_183,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Pectinophora gossypiella],-1,#000000,normal,1,0
+XP_026761538.1_1_178,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Galleria mellonella],-1,#000000,normal,1,0
+XP_050680978.1_6_185,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Leptidea sinapis],-1,#000000,normal,1,0
+XP_022815638.1_1_182,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Spodoptera litura],-1,#000000,normal,1,0
+CAB3506480.1_1_182,unnamed protein product [Spodoptera littoralis],-1,#000000,normal,1,0
+XP_035452717.2_1_183,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Spodoptera frugiperda],-1,#000000,normal,1,0
+KAH9644023.1_1_183,hypothetical protein HF086_004284 [Spodoptera exigua],-1,#000000,normal,1,0
+XP_049693635.1_1_183,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Helicoverpa armigera],-1,#000000,normal,1,0
+XP_047034474.1_1_183,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Helicoverpa zea],-1,#000000,normal,1,0
+KAJ8709115.1_1_182,hypothetical protein PYW07_008941 [Mythimna separata],-1,#000000,normal,1,0
+KAJ8711683.1_1_182,hypothetical protein PYW08_008637 [Mythimna loreyi],-1,#000000,normal,1,0
+XP_047537882.1_1_184,putative glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Vanessa atalanta],-1,#000000,normal,1,0
+XP_026497336.1_1_183,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Vanessa tameamea],-1,#000000,normal,1,0
+XP_046972250.1_1_179,putative glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Vanessa cardui],-1,#000000,normal,1,0
+XP_050354866.1_11_192,putative glutathione-specific gamma-glutamylcyclotransferase 2 isoform X2 [Nymphalis io],-1,#000000,normal,1,0
+XP_045454515.1_1_183,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Melitaea cinxia],-1,#000000,normal,1,0
+CAH2095248.1_1_182,unnamed protein product [Euphydryas editha],-1,#000000,normal,1,0
+CAH0731951.1_1_178,unnamed protein product_ partial [Brenthis ino],-1,#000000,normal,1,0
+XP_039760299.1_7_191,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Pararge aegeria],-1,#000000,normal,1,0
+CAH2239457.1_1_183,jg21466 [Pararge aegeria aegeria],-1,#000000,normal,1,0
+XP_023951347.2_1_183,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Bicyclus anynana],-1,#000000,normal,1,0
+XP_034835973.1_1_183,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Maniola hyperantus],-1,#000000,normal,1,0
+XP_045779168.1_1_183,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Maniola jurtina],-1,#000000,normal,1,0
+XP_032522470.1_1_179,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Danaus plexippus plexippus],-1,#000000,normal,1,0
+CAG9567939.1_1_179,unnamed protein product [Danaus chrysippus],-1,#000000,normal,1,0
+XP_047511202.1_1_178,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Pieris napi],-1,#000000,normal,1,0
+CAF4916113.1_1_178,unnamed protein product [Pieris macdunnoughi],-1,#000000,normal,1,0
+XP_045487150.1_1_178,LOW QUALITY PROTEIN: putative glutathione-specific gamma-glutamylcyclotransferase 2 [Pieris rapae],-1,#000000,normal,1,0
+XP_045516551.1_1_178,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Pieris brassicae],-1,#000000,normal,1,0
+XP_045504110.1_1_179,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Colias croceus],-1,#000000,normal,1,0
+XP_038207260.1_1_180,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Zerene cesonia],-1,#000000,normal,1,0
+XP_026735385.1_1_182,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Trichoplusia ni],-1,#000000,normal,1,0
+CAD0204763.1_1_183,unnamed protein product [Chrysodeixis includens],-1,#000000,normal,1,0
+XP_004931291.1_1_183,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Bombyx mori],-1,#000000,normal,1,0
+XP_028040109.1_1_183,putative glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Bombyx mandarina],-1,#000000,normal,1,0
+XP_030038893.1_1_182,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Manduca sexta],-1,#000000,normal,1,0
+XP_011551746.3_1_182,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Plutella xylostella],-1,#000000,normal,1,0
+KAI8437674.1_1_182,hypothetical protein MSG28_011919 [Choristoneura fumiferana],-1,#000000,normal,1,0
+XP_026463073.1_1_182,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Ctenocephalides felis],-1,#000000,normal,1,0
+XP_017088011.2_74_259,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Drosophila bipectinata],-1,#000000,normal,1,0
+KAH8341674.1_64_249,hypothetical protein KR074_004175 [Drosophila pseudoananassae],-1,#000000,normal,1,0
+KAH8313987.1_64_249,hypothetical protein KR067_007837 [Drosophila pandora],-1,#000000,normal,1,0
+KAH8420036.1_64_251,hypothetical protein KR009_005207 [Drosophila setifemur],-1,#000000,normal,1,0
+XP_017065193.1_72_258,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Drosophila eugracilis],-1,#000000,normal,1,0
+XP_016955941.1_72_255,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Drosophila biarmipes],-1,#000000,normal,1,0
+XP_052856092.1_72_259,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Drosophila gunungcola],-1,#000000,normal,1,0
+XP_017115159.1_72_259,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Drosophila elegans],-1,#000000,normal,1,0
+XP_016986820.1_72_258,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Drosophila rhopaloa],-1,#000000,normal,1,0
+KAH8368197.1_72_258,hypothetical protein KR084_008318 [Drosophila pseudotakahashii],-1,#000000,normal,1,0
+XP_017045706.1_70_257,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Drosophila ficusphila],-1,#000000,normal,1,0
+XP_002100377.1_72_254,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Drosophila yakuba],-1,#000000,normal,1,0
+KAH8265153.1_66_250,hypothetical protein KR044_004152 [Drosophila immigrans],-1,#000000,normal,1,0
+KAH8387882.1_65_250,hypothetical protein KR093_010159 [Drosophila rubida],-1,#000000,normal,1,0
+XP_034477324.1_70_251,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Drosophila innubila],-1,#000000,normal,1,0
+XP_017853371.1_68_253,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Drosophila busckii],-1,#000000,normal,1,0
+XP_002070929.1_67_249,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Drosophila willistoni],-1,#000000,normal,1,0
+XP_018800896.1_77_262,PREDICTED: putative glutathione-specific gamma-glutamylcyclotransferase 2 [Bactrocera latifrons],-1,#000000,normal,1,0
+XP_039947986.1_77_262,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Bactrocera tryoni],-1,#000000,normal,1,0
+XP_011204588.3_77_262,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Bactrocera dorsalis],-1,#000000,normal,1,0
+XP_014092875.1_77_262,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Bactrocera oleae],-1,#000000,normal,1,0
+XP_050336372.1_77_263,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Bactrocera neohumeralis],-1,#000000,normal,1,0
+XP_011188258.1_77_261,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Zeugodacus cucurbitae],-1,#000000,normal,1,0
+XP_004519722.1_83_267,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Ceratitis capitata],-1,#000000,normal,1,0
+XP_017470918.1_77_261,PREDICTED: putative glutathione-specific gamma-glutamylcyclotransferase 2 [Rhagoletis zephyria],-1,#000000,normal,1,0
+XP_036341198.1_77_261,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Rhagoletis pomonella],-1,#000000,normal,1,0
+XP_053967948.1_77_264,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Anastrepha ludens],-1,#000000,normal,1,0
+XP_054725679.1_77_267,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Anastrepha obliqua],-1,#000000,normal,1,0
+XP_037948527.1_87_274,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Teleopsis dalmanni],-1,#000000,normal,1,0
+KAI8129792.1_47_233,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Lucilia cuprina],-1,#000000,normal,1,0
+XP_037828885.1_47_234,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Lucilia sericata],-1,#000000,normal,1,0
+XP_005178596.1_62_252,PREDICTED: putative glutathione-specific gamma-glutamylcyclotransferase 2 [Musca domestica],-1,#000000,normal,1,0
+XP_013104153.1_50_239,PREDICTED: putative glutathione-specific gamma-glutamylcyclotransferase 2 [Stomoxys calcitrans],-1,#000000,normal,1,0
+XP_055374985.1_79_266,putative glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Condylostylus longicornis],-1,#000000,normal,1,0
+XP_050079327.1_24_211,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Anopheles maculipalpis],-1,#000000,normal,1,0
+XP_035900165.1_27_217,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Anopheles stephensi],-1,#000000,normal,1,0
+XP_053659704.1_24_215,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Anopheles marshallii],-1,#000000,normal,1,0
+XP_052891331.1_24_218,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Anopheles moucheti],-1,#000000,normal,1,0
+XP_049284472.1_26_216,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Anopheles funestus],-1,#000000,normal,1,0
+XP_307968.3_22_209,AGAP002216-PA [Anopheles gambiae str. PEST],-1,#000000,normal,1,0
+XP_040227161.2_22_209,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Anopheles coluzzii],-1,#000000,normal,1,0
+XP_041765323.1_89_276,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Anopheles merus],-1,#000000,normal,1,0
+XP_040155021.1_22_209,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Anopheles arabiensis],-1,#000000,normal,1,0
+XP_052866512.1_7_197,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Anopheles cruzii],-1,#000000,normal,1,0
+XP_053671538.1_20_211,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Anopheles nili],-1,#000000,normal,1,0
+XP_035781185.1_29_217,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Anopheles albimanus],-1,#000000,normal,1,0
+XP_050083157.1_23_211,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Anopheles aquasalis],-1,#000000,normal,1,0
+ETN67555.1_31_218,hypothetical protein AND_000635 [Anopheles darlingi],-1,#000000,normal,1,0
+XP_019529944.1_45_234,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Aedes albopictus],-1,#000000,normal,1,0
+XP_001662226.1_45_234,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Aedes aegypti],-1,#000000,normal,1,0
+XP_053695082.1_18_208,putative glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Sabethes cyaneus],-1,#000000,normal,1,0
+XP_039437959.1_41_228,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Culex pipiens pallens],-1,#000000,normal,1,0
+EDS26261.1_41_229,conserved hypothetical protein [Culex quinquefasciatus],-1,#000000,normal,1,0
+KAG4065729.1_30_217,hypothetical protein HA402_012407 [Bradysia odoriphaga],-1,#000000,normal,1,0
+XP_037052413.1_33_220,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Bradysia coprophila],-1,#000000,normal,1,0
+KAJ6633325.1_36_220,putative glutathione-specific gamma-glutamylcyclotransferase 2_ partial [Pseudolycoriella hygida],-1,#000000,normal,1,0
+CRK99239.1_5_189,CLUMA_CG012645_ isoform A [Clunio marinus],-1,#000000,normal,1,0
+KAG5680686.1_12_198,hypothetical protein PVAND_010179 [Polypedilum vanderplanki],-1,#000000,normal,1,0
+XP_055323774.1_28_215,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Sitodiplosis mosellana],-1,#000000,normal,1,0
+XP_031625860.1_48_236,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Contarinia nasturtii],-1,#000000,normal,1,0
+XP_037923892.1_83_269,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Hermetia illucens],-1,#000000,normal,1,0
+XP_046670206.1_8_197,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Homalodisca vitripennis],-1,#000000,normal,1,0
+XP_054271908.1_8_199,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Macrosteles quadrilineatus],-1,#000000,normal,1,0
+XP_022196522.2_1_185,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Nilaparvata lugens],-1,#000000,normal,1,0
+KAF0772684.1_24_208,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Aphis craccivora],-1,#000000,normal,1,0
+XP_027839799.1_24_208,putative glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Aphis gossypii],-1,#000000,normal,1,0
+KAE9545489.1_24_208,hypothetical protein AGLY_001032 [Aphis glycines],-1,#000000,normal,1,0
+XP_025204242.1_23_207,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Melanaphis sacchari],-1,#000000,normal,1,0
+XP_026810418.1_23_207,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Rhopalosiphum maidis],-1,#000000,normal,1,0
+XP_022166796.1_23_203,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Myzus persicae],-1,#000000,normal,1,0
+XP_015370813.1_23_203,PREDICTED: putative glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Diuraphis noxia],-1,#000000,normal,1,0
+XP_001950052.1_23_203,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Acyrthosiphon pisum],-1,#000000,normal,1,0
+VVC28047.1_23_205,Gamma-glutamyl cyclotransferase-like_Glutathione-specific gamma-glutamylcyclotransferase [Cinara cedri],-1,#000000,normal,1,0
+XP_025423107.1_22_201,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Sipha flava],-1,#000000,normal,1,0
+XP_050425424.1_8_205,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Adelges cooleyi],-1,#000000,normal,1,0
+XP_050522131.1_26_210,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Daktulosphaira vitifoliae],-1,#000000,normal,1,0
+CAB0020368.1_1_185,unnamed protein product [Nesidiocoris tenuis],-1,#000000,normal,1,0
+KAF6204903.1_1_186,hypothetical protein [Apolygus lucorum],-1,#000000,normal,1,0
+XP_014242848.1_1_186,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Cimex lectularius],-1,#000000,normal,1,0
+XP_014292624.1_1_184,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Halyomorpha halys],-1,#000000,normal,1,0
+CAH1402374.1_1_185,unnamed protein product [Nezara viridula],-1,#000000,normal,1,0
+XP_037800896.1_1_180,putative glutathione-specific gamma-glutamylcyclotransferase 2 isoform X2 [Penaeus monodon],-1,#000000,normal,1,0
+XP_047479999.1_1_180,putative glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Penaeus chinensis],-1,#000000,normal,1,0
+XP_042863445.1_1_183,putative glutathione-specific gamma-glutamylcyclotransferase 2 isoform X2 [Penaeus japonicus],-1,#000000,normal,1,0
+XP_027236441.1_1_180,putative glutathione-specific gamma-glutamylcyclotransferase 2 isoform X2 [Penaeus vannamei],-1,#000000,normal,1,0
+XP_050722118.1_1_179,putative glutathione-specific gamma-glutamylcyclotransferase 2 isoform X4 [Eriocheir sinensis],-1,#000000,normal,1,0
+XP_045600170.1_1_179,putative glutathione-specific gamma-glutamylcyclotransferase 2 isoform X2 [Procambarus clarkii],-1,#000000,normal,1,0
+XP_053646255.1_1_126,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Cherax quadricarinatus],-1,#000000,normal,1,0
+XP_043239442.1_1_184,putative glutathione-specific gamma-glutamylcyclotransferase 2 isoform X2 [Amphibalanus amphitrite],-1,#000000,normal,1,0
+XP_037072087.1_14_199,putative glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Pollicipes pollicipes],-1,#000000,normal,1,0
+XP_032782839.1_1_197,putative glutathione-specific gamma-glutamylcyclotransferase 2 isoform X2 [Daphnia magna],-1,#000000,normal,1,0
+KAI9558582.1_1_197,hypothetical protein GHT06_015370 [Daphnia sinensis],-1,#000000,normal,1,0
+EFX75983.1_1_201,hypothetical protein DAPPUDRAFT_55497 [Daphnia pulex],-1,#000000,normal,1,0
+CAF0870340.1_1_180,unnamed protein product [Adineta ricciae],-1,#000000,normal,1,0
+UJR28133.1_1_178,hypothetical protein I4U23_009390 [Adineta vaga],-1,#000000,normal,1,0
+CAF0836687.1_1_182,unnamed protein product [Adineta steineri],-1,#000000,normal,1,0
+CAF2343677.1_1_180,unnamed protein product [Rotaria sp. Silwood2],-1,#000000,normal,1,0
+CAF0852222.1_1_182,unnamed protein product [Rotaria sordida],-1,#000000,normal,1,0
+CAF0820077.1_1_181,unnamed protein product [Rotaria sp. Silwood1],-1,#000000,normal,1,0
+CAF2250760.1_1_177,unnamed protein product [Rotaria magnacalcarata],-1,#000000,normal,1,0
+CAF3329389.1_1_178,unnamed protein product [Rotaria socialis],-1,#000000,normal,1,0
+CAF0914212.1_1_186,unnamed protein product [Didymodactylos carnosus],-1,#000000,normal,1,0
+XP_047102537.1_1_192,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Schistocerca piceifrons],-1,#000000,normal,1,0
+XP_046984872.1_1_192,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Schistocerca americana],-1,#000000,normal,1,0
+XP_049846411.1_1_192,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Schistocerca gregaria],-1,#000000,normal,1,0
+XP_049805439.1_1_192,putative glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Schistocerca nitens],-1,#000000,normal,1,0
+XP_049781369.1_1_192,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Schistocerca cancellata],-1,#000000,normal,1,0
+XP_049954093.1_1_192,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Schistocerca serialis cubense],-1,#000000,normal,1,0
+CAD7579500.1_1_181,unnamed protein product [Timema californicum],-1,#000000,normal,1,0
+CAD7259189.1_2_184,unnamed protein product [Timema shepardi],-1,#000000,normal,1,0
+CAD7427169.1_1_194,unnamed protein product [Timema monikensis],-1,#000000,normal,1,0
+CAD7405514.1_1_198,unnamed protein product [Timema cristinae],-1,#000000,normal,1,0
+CAD7206003.1_3_197,unnamed protein product [Timema douglasi],-1,#000000,normal,1,0
+CAD7445153.1_1_193,unnamed protein product [Timema bartmani],-1,#000000,normal,1,0
+XP_023717380.1_1_199,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Cryptotermes secundus],-1,#000000,normal,1,0
+GFG34430.1_1_198,hypothetical protein Cfor_07682 [Coptotermes formosanus],-1,#000000,normal,1,0
+XP_021938521.1_1_199,putative glutathione-specific gamma-glutamylcyclotransferase 2 isoform X1 [Zootermopsis nevadensis],-1,#000000,normal,1,0
+PSN39926.1_1_198,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Blattella germanica],-1,#000000,normal,1,0
+GLH01200.1_1_188,Gamma-glutamylcyclotransferase [Gryllus bimaculatus],-1,#000000,normal,1,0
+KAJ2431705.1_18_203,Cation transport regulator-like protein 2 [Coemansia sp. RSA 2531],-1,#000000,normal,1,0
+KAJ2074893.1_18_203,Cation transport regulator-like protein 2 [Coemansia sp. S155-1],-1,#000000,normal,1,0
+KAJ2017541.1_18_203,Cation transport regulator-like protein 2 [Coemansia sp. S680],-1,#000000,normal,1,0
+KAJ2101119.1_18_203,Cation transport regulator-like protein 2 [Coemansia sp. S100],-1,#000000,normal,1,0
+KAJ2065530.1_18_203,Cation transport regulator-like protein 2 [Coemansia sp. S2],-1,#000000,normal,1,0
+KAJ2824397.1_18_199,Cation transport regulator-like protein 2 [Coemansia furcata],-1,#000000,normal,1,0
+XP_046387377.1_7_207,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Ischnura elegans],-1,#000000,normal,1,0
+KAE8751076.1_9_210,hypothetical protein FOCC_FOCC002161 [Frankliniella occidentalis],-1,#000000,normal,1,0
+XP_034252939.1_1_197,putative glutathione-specific gamma-glutamylcyclotransferase 2 [Thrips palmi],-1,#000000,normal,1,0

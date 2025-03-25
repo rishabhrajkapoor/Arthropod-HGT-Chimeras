@@ -1,0 +1,26 @@
+DATASET_TEXT
+#In text datasets, each ID is associated to text label, which can be displayed directly on the node branch, or outside the tree
+#lines starting with a hash are comments and ignored during parsing
+#=================================================================#
+#                    MANDATORY SETTINGS                           #
+#=================================================================#
+#select the separator which is used to delimit the data below (TAB,SPACE or COMMA).This separator must be used throughout this file.
+
+SEPARATOR COMMA
+
+
+#label is used in the legend table (can be changed later)
+DATASET_LABEL,taxonomic_label
+
+#dataset color (can be changed later)
+COLOR,#ff0000
+
+DATA
+WP_090768014.1_466_574,Pedobacter soli (Bacteroidota_Sphingobacteriales),-1,#000000,normal,1,0
+KIA96608.1_426_534,KACC 16221 (Bacteroidota_Sphingobacteriales),-1,#000000,normal,1,0
+WP_118565414.1_508_611,Eubacterium sp. AF19-12LB (Bacillota_Eubacteriales),-1,#000000,normal,1,0
+WP_117909524.1_513_616,Eubacterium sp. AF17-7 (Bacillota_Eubacteriales),-1,#000000,normal,1,0
+WP_260978757.1_507_610,Eubacterium sp. LFL-14 (Bacillota_Eubacteriales),-1,#000000,normal,1,0
+MBS5652834.1_487_591,Eubacterium sp. (Bacillota_Eubacteriales),-1,#000000,normal,1,0
+MBQ3294568.1_491_555,Candidatus Saccharibacteria bacterium (Candidatus Saccharibacteria_None),-1,#000000,normal,1,0
+XP_035715441.1_346_487,Folsomia candida (Arthropoda_Entomobryomorpha),-1,#000000,normal,1,0

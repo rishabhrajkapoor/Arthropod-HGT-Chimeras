@@ -1,0 +1,378 @@
+DATASET_TEXT
+#In text datasets, each ID is associated to text label, which can be displayed directly on the node branch, or outside the tree
+#lines starting with a hash are comments and ignored during parsing
+#=================================================================#
+#                    MANDATORY SETTINGS                           #
+#=================================================================#
+#select the separator which is used to delimit the data below (TAB,SPACE or COMMA).This separator must be used throughout this file.
+
+SEPARATOR COMMA
+
+
+#label is used in the legend table (can be changed later)
+DATASET_LABEL,description
+
+#dataset color (can be changed later)
+COLOR,#ff0000
+
+DATA
+SCG06312.1_42_150,hypothetical protein GA0115259_110195 [Streptomyces sp. MnatMP-M17],-1,#000000,normal,1,0
+WP_176732749.1_17_125,MULTISPECIES: hypothetical protein [unclassified Streptomyces],-1,#000000,normal,1,0
+MYZ40039.1_16_124,hypothetical protein [Streptomyces sp. SID4917],-1,#000000,normal,1,0
+WP_181011486.1_17_125,hypothetical protein [Streptomyces sp. SM10],-1,#000000,normal,1,0
+WP_192230586.1_16_125,hypothetical protein [Streptomyces sp. H28],-1,#000000,normal,1,0
+WP_260826916.1_16_125,hypothetical protein [Streptomyces sp. 15-116A],-1,#000000,normal,1,0
+GGT62746.1_16_125,hypothetical protein GCM10014713_65160 [Streptomyces purpureus],-1,#000000,normal,1,0
+WP_033284148.1_15_124,hypothetical protein [Streptomyces sp. NRRL F-525],-1,#000000,normal,1,0
+OSC71201.1_16_124,hypothetical protein B5181_07335 [Streptomyces sp. 4F],-1,#000000,normal,1,0
+WP_179350378.1_17_125,hypothetical protein [Streptomyces sp. Alain-F2R5],-1,#000000,normal,1,0
+WP_242578749.1_13_121,hypothetical protein [Streptomyces sp. MST-110588],-1,#000000,normal,1,0
+WP_211273309.1_16_126,hypothetical protein [Streptomyces hirsutus],-1,#000000,normal,1,0
+MCF4136925.1_17_125,hypothetical protein [Streptomyces sp. Tue 6430],-1,#000000,normal,1,0
+WP_190047245.1_17_125,hypothetical protein [Streptomyces galilaeus],-1,#000000,normal,1,0
+AQU71467.1_16_124,hypothetical protein BBN63_34305 [Streptomyces niveus],-1,#000000,normal,1,0
+WP_234849414.1_16_125,hypothetical protein [Streptomyces indiaensis],-1,#000000,normal,1,0
+WP_149181397.1_15_124,hypothetical protein [Streptomyces sp. TRM49041],-1,#000000,normal,1,0
+WP_265648904.1_17_125,hypothetical protein [Streptomyces tauricus],-1,#000000,normal,1,0
+OOQ48487.1_16_124,hypothetical protein AFM16_37315 [Streptomyces antibioticus],-1,#000000,normal,1,0
+MBQ0967463.1_17_125,hypothetical protein [Streptomyces sp. RK74B],-1,#000000,normal,1,0
+WP_145884039.1_17_125,hypothetical protein [Streptomyces sp. BK340],-1,#000000,normal,1,0
+WP_225636771.1_17_125,hypothetical protein [Streptomyces solaniscabiei],-1,#000000,normal,1,0
+ARE79518.1_16_124,hypothetical protein B6R96_36180 [Streptomyces sp. Sge12],-1,#000000,normal,1,0
+KAF3469429.1_16_124,hypothetical protein GL259_01950 [Streptomyces sp. Tu 3180],-1,#000000,normal,1,0
+WP_189829303.1_17_125,MULTISPECIES: hypothetical protein [Streptomyces],-1,#000000,normal,1,0
+WP_206187753.1_17_125,hypothetical protein [Streptomyces neyagawaensis],-1,#000000,normal,1,0
+WP_181362261.1_17_126,hypothetical protein [Streptomyces sp. MA5143a],-1,#000000,normal,1,0
+WP_223838018.1_12_121,hypothetical protein [Streptomyces venezuelae],-1,#000000,normal,1,0
+NBM16862.1_14_124,hypothetical protein [Streptomyces sp. GC420],-1,#000000,normal,1,0
+WP_181652561.1_17_125,hypothetical protein [Streptomyces sp. WAC00263],-1,#000000,normal,1,0
+WP_256976186.1_12_121,hypothetical protein [Streptomyces sp. CS113],-1,#000000,normal,1,0
+WP_267077160.1_13_121,hypothetical protein [Streptomyces sp. NBC_00059],-1,#000000,normal,1,0
+WP_201301745.1_17_126,hypothetical protein [Streptomyces tendae],-1,#000000,normal,1,0
+WP_176741289.1_17_125,hypothetical protein [Streptomyces sp. LUP30],-1,#000000,normal,1,0
+KOU41720.1_16_124,hypothetical protein ADK55_27710 [Streptomyces sp. WM4235],-1,#000000,normal,1,0
+WP_266682098.1_15_125,hypothetical protein [Streptomyces sp. NBC_00063],-1,#000000,normal,1,0
+WP_073721803.1_16_124,hypothetical protein [Streptomyces sp. TSRI0281],-1,#000000,normal,1,0
+QIZ01331.1_16_124,hypothetical protein HEP87_01795 [Streptomyces sp. S1D4-11],-1,#000000,normal,1,0
+WP_257552042.1_14_125,hypothetical protein [Streptomyces sp. NBC_00162],-1,#000000,normal,1,0
+OKK14202.1_16_124,hypothetical protein AMK33_02650 [Streptomyces sp. CB02400],-1,#000000,normal,1,0
+WP_266869822.1_17_125,hypothetical protein [Streptomyces sp. NBC_01381],-1,#000000,normal,1,0
+WP_149563436.1_15_123,hypothetical protein [Streptomyces cacaoi],-1,#000000,normal,1,0
+WP_159789973.1_15_123,hypothetical protein [Streptomyces sp. NHF165],-1,#000000,normal,1,0
+WP_037872427.1_16_124,hypothetical protein [Streptomyces sp. NRRL S-37],-1,#000000,normal,1,0
+GGR83092.1_11_121,hypothetical protein GCM10010205_09620 [Streptomyces nojiriensis],-1,#000000,normal,1,0
+WP_129840848.1_15_120,hypothetical protein [Streptomyces sp. RFCAC02],-1,#000000,normal,1,0
+WP_030244911.1_17_124,hypothetical protein [Streptomyces sp. NRRL S-350],-1,#000000,normal,1,0
+WP_215149224.1_17_125,hypothetical protein [Streptomyces sp. ISL-44],-1,#000000,normal,1,0
+WP_266930508.1_12_121,hypothetical protein [Streptomyces sp. NBC_00654],-1,#000000,normal,1,0
+EDX23558.1_12_120,conserved hypothetical protein [Streptomyces sp. Mg1],-1,#000000,normal,1,0
+WP_266706547.1_16_123,hypothetical protein [Streptomyces sp. NBC_01571],-1,#000000,normal,1,0
+WP_190064398.1_18_125,hypothetical protein [Streptomyces griseocarneus],-1,#000000,normal,1,0
+WP_245699946.1_9_121,hypothetical protein [Streptomyces roseifaciens],-1,#000000,normal,1,0
+WP_250972245.1_11_125,hypothetical protein [Streptomyces sp. RKAG290],-1,#000000,normal,1,0
+WP_274551841.1_17_123,hypothetical protein [Streptomyces sp. ZAF1911],-1,#000000,normal,1,0
+WP_218206112.1_16_126,hypothetical protein [Kitasatospora aureofaciens],-1,#000000,normal,1,0
+GGX76531.1_13_120,hypothetical protein GCM10010515_50470 [Streptomyces fructofermentans],-1,#000000,normal,1,0
+WP_152894162.1_16_124,hypothetical protein [Streptomyces adustus],-1,#000000,normal,1,0
+WP_255310130.1_13_119,hypothetical protein [Streptomyces sp. DI166],-1,#000000,normal,1,0
+WP_261720165.1_14_119,hypothetical protein [Streptomyces lusitanus],-1,#000000,normal,1,0
+WP_031079454.1_18_125,hypothetical protein [Streptomyces sp. NRRL S-118],-1,#000000,normal,1,0
+WP_219672102.1_13_122,hypothetical protein [Streptomyces bambusae],-1,#000000,normal,1,0
+WP_086161946.1_16_124,hypothetical protein [Streptomyces marincola],-1,#000000,normal,1,0
+WP_112442743.1_15_124,hypothetical protein [Streptomyces cadmiisoli],-1,#000000,normal,1,0
+WP_205356202.1_16_125,hypothetical protein [Actinacidiphila acididurans],-1,#000000,normal,1,0
+WP_236719203.1_18_123,hypothetical protein [Wenjunlia vitaminophila],-1,#000000,normal,1,0
+WP_211294855.1_14_124,hypothetical protein [Streptomyces glaucescens],-1,#000000,normal,1,0
+OSZ55977.1_16_123,hypothetical protein OQI_35545 [Streptomyces pharetrae CZA14],-1,#000000,normal,1,0
+WP_263107182.1_13_121,hypothetical protein [Kitasatospora sp. DSM 101779],-1,#000000,normal,1,0
+WP_055706325.1_18_123,hypothetical protein [Streptomyces puniciscabiei],-1,#000000,normal,1,0
+WP_208903338.1_18_124,hypothetical protein [Streptomyces incarnatus],-1,#000000,normal,1,0
+WP_228616858.1_18_123,hypothetical protein [Streptomyces barringtoniae],-1,#000000,normal,1,0
+WP_069783519.1_16_123,hypothetical protein [Streptomyces fodineus],-1,#000000,normal,1,0
+WP_189881330.1_18_123,hypothetical protein [Streptomyces canarius],-1,#000000,normal,1,0
+WP_189813951.1_18_123,hypothetical protein [Streptomyces olivaceoviridis],-1,#000000,normal,1,0
+WP_103814520.1_18_124,hypothetical protein [Streptomyces sp. Ru62],-1,#000000,normal,1,0
+WP_225808266.1_18_125,hypothetical protein [Streptomyces spinosus],-1,#000000,normal,1,0
+WP_171151867.1_18_124,hypothetical protein [Streptomyces sp. Jing01],-1,#000000,normal,1,0
+WP_158930835.1_18_122,hypothetical protein [Streptomyces broussonetiae],-1,#000000,normal,1,0
+WP_263213745.1_15_122,hypothetical protein [Streptomyces sp. HUAS 15-9],-1,#000000,normal,1,0
+WP_093632157.1_16_123,hypothetical protein [Streptomyces sp. 3213.3],-1,#000000,normal,1,0
+WP_026179346.1_17_123,hypothetical protein [Streptomyces hokutonensis],-1,#000000,normal,1,0
+WP_236584983.1_16_123,hypothetical protein [Streptomyces sp. MBT53],-1,#000000,normal,1,0
+WP_200716641.1_17_124,hypothetical protein [Streptomyces sp. MBT62],-1,#000000,normal,1,0
+WP_262062521.1_17_124,hypothetical protein [Streptomyces sp. STR69],-1,#000000,normal,1,0
+WP_189312352.1_18_124,hypothetical protein [Streptomyces brasiliensis],-1,#000000,normal,1,0
+WP_020942868.1_15_122,hypothetical protein [Streptomyces collinus],-1,#000000,normal,1,0
+WP_041819122.1_18_123,hypothetical protein [Streptomyces davaonensis],-1,#000000,normal,1,0
+CCK26775.1_15_120,hypothetical protein BN159_2396 [Streptomyces davaonensis JCM 4913],-1,#000000,normal,1,0
+WP_229911647.1_17_120,hypothetical protein [Streptomyces lanatus],-1,#000000,normal,1,0
+WP_126395797.1_18_124,hypothetical protein [Streptomyces cyaneochromogenes],-1,#000000,normal,1,0
+WP_194080621.1_29_134,hypothetical protein [Streptomyces justiciae],-1,#000000,normal,1,0
+NUR42309.1_16_121,hypothetical protein [Streptomyces sp.],-1,#000000,normal,1,0
+WP_097269994.1_29_134,hypothetical protein [Streptomyces sp. TLI_55],-1,#000000,normal,1,0
+WP_126274857.1_29_134,hypothetical protein [Streptomyces aquilus],-1,#000000,normal,1,0
+WP_017988022.1_5_118,hypothetical protein [Amycolatopsis methanolica],-1,#000000,normal,1,0
+WP_246420240.1_15_122,hypothetical protein [Nocardiopsis metallicus],-1,#000000,normal,1,0
+WP_026116608.1_15_122,hypothetical protein [Nocardiopsis valliformis],-1,#000000,normal,1,0
+WP_254417171.1_15_121,hypothetical protein [Nocardiopsis exhalans],-1,#000000,normal,1,0
+WP_017588671.1_14_120,hypothetical protein [Nocardiopsis ganjiahuensis],-1,#000000,normal,1,0
+WP_093711735.1_15_121,hypothetical protein [Actinacidiphila alni],-1,#000000,normal,1,0
+WP_069465640.1_16_129,hypothetical protein [Actinacidiphila rubida],-1,#000000,normal,1,0
+WP_239118787.1_14_120,hypothetical protein [Planotetraspora thailandica],-1,#000000,normal,1,0
+MCU0425238.1_31_150,hypothetical protein [Candidatus Kapabacteria bacterium],-1,#000000,normal,1,0
+WP_218156102.1_23_121,hypothetical protein [Nonomuraea wenchangensis],-1,#000000,normal,1,0
+WP_192779263.1_14_121,hypothetical protein [Nonomuraea africana],-1,#000000,normal,1,0
+WP_183651951.1_12_120,hypothetical protein [Nonomuraea dietziae],-1,#000000,normal,1,0
+WP_080044608.1_13_120,MULTISPECIES: hypothetical protein [Streptosporangiales],-1,#000000,normal,1,0
+WP_204073582.1_14_118,hypothetical protein [Planotetraspora phitsanulokensis],-1,#000000,normal,1,0
+WP_203973221.1_12_119,hypothetical protein [Planotetraspora silvatica],-1,#000000,normal,1,0
+WP_203954578.1_11_118,hypothetical protein [Planotetraspora mira],-1,#000000,normal,1,0
+WP_056117212.1_14_122,hypothetical protein [Lysobacter sp. Root690],-1,#000000,normal,1,0
+WP_057920905.1_14_122,hypothetical protein [Lysobacter capsici],-1,#000000,normal,1,0
+MBW8810185.1_13_121,hypothetical protein [Lysobacter sp.],-1,#000000,normal,1,0
+WP_212522222.1_43_156,hypothetical protein [Actinospica acidithermotolerans],-1,#000000,normal,1,0
+WP_181373821.1_13_122,MULTISPECIES: hypothetical protein [Micromonospora],-1,#000000,normal,1,0
+NHO80443.1_16_125,hypothetical protein [Micromonospora sp. CMU55-4],-1,#000000,normal,1,0
+RBQ13726.1_16_125,hypothetical protein DQE82_04700 [Micromonospora sp. LHW51205],-1,#000000,normal,1,0
+EWM66102.1_17_126,hypothetical protein MCBG_03235 [Micromonospora sp. M42],-1,#000000,normal,1,0
+WP_184681858.1_15_126,hypothetical protein [Micromonospora echinospora],-1,#000000,normal,1,0
+WP_210884121.1_13_122,hypothetical protein [Micromonospora sp. C41],-1,#000000,normal,1,0
+MBQ1045466.1_14_123,hypothetical protein [Micromonospora sp. C72],-1,#000000,normal,1,0
+WP_247679293.1_18_127,MULTISPECIES: hypothetical protein [unclassified Micromonospora],-1,#000000,normal,1,0
+WP_198937421.1_14_123,hypothetical protein [Micromonospora sp. TSRI0369],-1,#000000,normal,1,0
+WP_225980633.1_12_123,hypothetical protein [Micromonospora sp. B006],-1,#000000,normal,1,0
+WP_197494934.1_16_122,hypothetical protein [Micromonospora sp. NBRC 110037],-1,#000000,normal,1,0
+WP_187693269.1_13_122,hypothetical protein [Micromonospora chalcea],-1,#000000,normal,1,0
+WP_030501131.1_9_123,hypothetical protein [Micromonospora purpureochromogenes],-1,#000000,normal,1,0
+ODB81768.1_19_125,hypothetical protein A8711_14685 [Micromonospora sp. II],-1,#000000,normal,1,0
+WP_210870343.1_13_122,hypothetical protein [Micromonospora sp. D75],-1,#000000,normal,1,0
+WP_262012640.1_13_122,hypothetical protein [Micromonospora sp. Mcm103],-1,#000000,normal,1,0
+WP_207128380.1_13_122,hypothetical protein [Actinocatenispora comari],-1,#000000,normal,1,0
+WP_203964958.1_11_122,hypothetical protein [Actinocatenispora thailandica],-1,#000000,normal,1,0
+PMR57660.1_12_122,hypothetical protein C1A38_28745 [Verrucosispora sp. ts21],-1,#000000,normal,1,0
+WP_203222017.1_12_122,hypothetical protein [Micromonospora fiedleri],-1,#000000,normal,1,0
+RZT77902.1_12_123,hypothetical protein EV382_1077 [Micromonospora violae],-1,#000000,normal,1,0
+WP_216929606.1_13_122,hypothetical protein [Micromonospora sp. WMMB482],-1,#000000,normal,1,0
+WP_252453064.1_13_122,hypothetical protein [Micromonospora sp. CPM1],-1,#000000,normal,1,0
+WP_095567201.1_9_123,hypothetical protein [Plantactinospora sp. KBS50],-1,#000000,normal,1,0
+NEE64926.1_13_122,hypothetical protein [Verrucosispora sioxanthis],-1,#000000,normal,1,0
+WP_204015377.1_12_122,hypothetical protein [Micromonospora andamanensis],-1,#000000,normal,1,0
+SCL67689.1_13_122,hypothetical protein GA0070608_3566 [Micromonospora peucetia],-1,#000000,normal,1,0
+WP_091299728.1_14_122,hypothetical protein [Micromonospora halophytica],-1,#000000,normal,1,0
+WP_208473427.1_13_123,hypothetical protein [Actinoplanes flavus],-1,#000000,normal,1,0
+WP_220148194.1_13_123,hypothetical protein [Actinoplanes hulinensis],-1,#000000,normal,1,0
+WP_278084020.1_15_124,hypothetical protein [Asanoa sp. WMMD1127],-1,#000000,normal,1,0
+WP_090791490.1_12_122,hypothetical protein [Asanoa ishikariensis],-1,#000000,normal,1,0
+WP_211359568.1_12_120,hypothetical protein [Actinocorallia herbida],-1,#000000,normal,1,0
+WP_030442410.1_13_124,hypothetical protein [Actinoplanes subtropicus],-1,#000000,normal,1,0
+WP_263029203.1_13_125,hypothetical protein [Actinoplanes sp. KI2],-1,#000000,normal,1,0
+WP_211216791.1_6_118,hypothetical protein [Actinoplanes globisporus],-1,#000000,normal,1,0
+WP_245931498.1_8_120,hypothetical protein [Actinokineospora auranticolor],-1,#000000,normal,1,0
+WP_189331096.1_9_118,hypothetical protein [Actinoplanes ianthinogenes],-1,#000000,normal,1,0
+WP_179837373.1_9_121,hypothetical protein [Actinomadura citrea],-1,#000000,normal,1,0
+WP_258942064.1_9_121,hypothetical protein [Actinomadura glauciflava],-1,#000000,normal,1,0
+WP_149259280.1_9_121,hypothetical protein [Actinomadura sp. K4S16],-1,#000000,normal,1,0
+WP_185027857.1_10_122,hypothetical protein [Actinomadura coerulea],-1,#000000,normal,1,0
+TDD63881.1_12_124,hypothetical protein E1293_42305 [Actinomadura darangshiensis],-1,#000000,normal,1,0
+WP_024936588.1_9_122,hypothetical protein [Actinomadura madurae],-1,#000000,normal,1,0
+WP_138640626.1_8_122,hypothetical protein [Actinomadura geliboluensis],-1,#000000,normal,1,0
+WP_176199916.1_8_122,hypothetical protein [Actinomadura sp. NAK00032],-1,#000000,normal,1,0
+WP_089326408.1_9_122,hypothetical protein [Actinomadura meyerae],-1,#000000,normal,1,0
+WP_211342917.1_8_121,hypothetical protein [Actinomadura pelletieri],-1,#000000,normal,1,0
+RKS76570.1_19_135,hypothetical protein BZB76_1926 [Actinomadura pelletieri DSM 43383],-1,#000000,normal,1,0
+WP_117398800.1_9_121,hypothetical protein [Actinomadura spongiicola],-1,#000000,normal,1,0
+WP_075903895.1_11_122,hypothetical protein [Actinomadura sp. CNU-125],-1,#000000,normal,1,0
+WP_125616165.1_8_122,hypothetical protein [Actinomadura sp. WAC 06369],-1,#000000,normal,1,0
+WP_026405229.1_9_122,hypothetical protein [Actinomadura rifamycini],-1,#000000,normal,1,0
+WP_218040145.1_12_120,hypothetical protein [Actinomadura sp. WMMB 499],-1,#000000,normal,1,0
+WP_225992852.1_9_120,hypothetical protein [Actinomadura rudentiformis],-1,#000000,normal,1,0
+WP_182708256.1_13_122,hypothetical protein [Thermomonospora cellulosilytica],-1,#000000,normal,1,0
+WP_119731843.1_13_121,hypothetical protein [Thermomonospora amylolytica],-1,#000000,normal,1,0
+WP_206664102.1_13_123,hypothetical protein [Thermomonospora catenispora],-1,#000000,normal,1,0
+WP_116023969.1_13_121,hypothetical protein [Thermomonospora umbrina],-1,#000000,normal,1,0
+WP_197009753.1_9_122,hypothetical protein [Actinomadura viridis],-1,#000000,normal,1,0
+WP_061727800.1_26_139,MULTISPECIES: hypothetical protein [Neisseria],-1,#000000,normal,1,0
+EFH23523.1_26_139,hypothetical protein NEIPOLOT_00705 [Neisseria polysaccharea ATCC 43768],-1,#000000,normal,1,0
+WP_118780201.1_26_139,hypothetical protein [Neisseria lactamica],-1,#000000,normal,1,0
+WP_260335323.1_4_116,hypothetical protein_ partial [Neisseria meningitidis],-1,#000000,normal,1,0
+EGY60796.1_26_139,hypothetical protein HMPREF1028_01200 [Neisseria sp. GT4A_CT1],-1,#000000,normal,1,0
+WP_107843022.1_26_139,hypothetical protein [Neisseria sicca],-1,#000000,normal,1,0
+WP_003778183.1_26_139,hypothetical protein [Neisseria macacae],-1,#000000,normal,1,0
+WP_070493967.1_26_139,hypothetical protein [Neisseria mucosa],-1,#000000,normal,1,0
+WP_212510279.1_23_138,hypothetical protein [Aggregatibacter sp. oral taxon 513],-1,#000000,normal,1,0
+WP_118789277.1_23_138,hypothetical protein [Haemophilus haemolyticus],-1,#000000,normal,1,0
+WP_065246380.1_23_138,MULTISPECIES: hypothetical protein [Haemophilus],-1,#000000,normal,1,0
+WP_005715851.1_24_138,hypothetical protein [Aggregatibacter segnis],-1,#000000,normal,1,0
+MBN1329156.1_11_130,hypothetical protein [Candidatus Heimdallarchaeota archaeon],-1,#000000,normal,1,0
+KAI8749298.1_97_156,hypothetical protein BgiBS90_032728_ partial [Biomphalaria glabrata],-1,#000000,normal,1,0
+MBE0834158.1_1_101,hypothetical protein [Escherichia coli],-1,#000000,normal,1,0
+AEO77177.1_1_101,hypothetical protein PAM18_4697 [Pseudomonas aeruginosa M18],-1,#000000,normal,1,0
+WP_134232381.1_7_124,hypothetical protein [Pseudomonas aeruginosa],-1,#000000,normal,1,0
+WP_004347833.1_7_124,MULTISPECIES: hypothetical protein [Pseudomonas],-1,#000000,normal,1,0
+HCL2715196.1_7_124,hypothetical protein [Pseudomonas aeruginosa EF8E],-1,#000000,normal,1,0
+ERV08887.1_6_121,hypothetical protein Q071_05274 [Pseudomonas aeruginosa BL17],-1,#000000,normal,1,0
+ERX33760.1_5_122,hypothetical protein Q010_04093 [Pseudomonas aeruginosa 19660],-1,#000000,normal,1,0
+RKW31095.1_9_122,MAG: hypothetical protein D8B42_04610 [Kingella sp. (in: b-proteobacteria)],-1,#000000,normal,1,0
+WP_007195654.1_12_121,hypothetical protein_ partial [Thiocapsa marina],-1,#000000,normal,1,0
+MBO6935495.1_7_114,hypothetical protein [Deltaproteobacteria bacterium],-1,#000000,normal,1,0
+NNF43759.1_12_121,hypothetical protein [Phycisphaerales bacterium],-1,#000000,normal,1,0
+OJW10298.1_9_120,MAG: hypothetical protein BGO49_07055 [Planctomycetales bacterium 71-10],-1,#000000,normal,1,0
+RCH98068.1_7_125,hypothetical protein CU097_006923 [Rhizopus azygosporus],-1,#000000,normal,1,0
+CEG68200.1_7_125,hypothetical protein RMATCC62417_04511 [Rhizopus microsporus],-1,#000000,normal,1,0
+XP_023464152.1_7_125,uncharacterized protein RHIMIDRAFT_245540 [Rhizopus microsporus ATCC 52813],-1,#000000,normal,1,0
+KAI8069367.1_53_176,hypothetical protein BC940DRAFT_297564 [Gongronella butleri],-1,#000000,normal,1,0
+KAI9287859.1_13_133,hypothetical protein BC943DRAFT_318978 [Umbelopsis sp. AD052],-1,#000000,normal,1,0
+KAG2173910.1_14_133,hypothetical protein INT44_000023 [Umbelopsis vinacea],-1,#000000,normal,1,0
+KAH8556021.1_12_133,hypothetical protein BGW37DRAFT_479514 [Umbelopsis sp. PMI_123],-1,#000000,normal,1,0
+WP_146817769.1_736_790,gliding motility-associated C-terminal domain-containing protein_ partial [Chitinophaga terrae (ex Kim and Jung 2007)],-1,#000000,normal,1,0
+WP_264752032.1_1215_1266,hypothetical protein_ partial [Chitinophaga sp. PC15],-1,#000000,normal,1,0
+WP_116978455.1_3375_3431,gliding motility-associated C-terminal domain-containing protein [Chitinophaga silvatica],-1,#000000,normal,1,0
+PAV13132.1_109_205,hypothetical protein ASJ81_04310 [Methanosarcina spelaei],-1,#000000,normal,1,0
+KAG7274108.1_35_122,hypothetical protein CRUP_028816_ partial [Coryphaenoides rupestris],-1,#000000,normal,1,0
+XP_035708168.1_264_393,XP_035708168.1 uncharacterized protein LOC110850553 isoform X2 [Folsomia candida],-1,#000000,normal,1,0
+WP_048602969.1_62_175,MULTISPECIES: DeoR/GlpR family DNA-binding transcription regulator [Enterococcus],-1,#000000,normal,1,0
+MCA9710988.1_24_140,hypothetical protein [Myxococcales bacterium],-1,#000000,normal,1,0
+WP_033337704.1_11_123,hypothetical protein [Catenuloplanes japonicus],-1,#000000,normal,1,0
+MBK7828872.1_29_151,hypothetical protein [Nannocystis sp.],-1,#000000,normal,1,0
+MCP4129405.1_26_143,hypothetical protein [bacterium],-1,#000000,normal,1,0
+HAS47180.1_27_141,hypothetical protein [Microscillaceae bacterium],-1,#000000,normal,1,0
+KAJ3054645.1_23_145,hypothetical protein HK097_001201 [Rhizophlyctis rosea],-1,#000000,normal,1,0
+KAJ3282201.1_14_153,hypothetical protein HK104_011043 [Borealophlyctis nickersoniae],-1,#000000,normal,1,0
+KAJ3316821.1_5_128,hypothetical protein HDV06_002814 [Boothiomyces sp. JEL0866],-1,#000000,normal,1,0
+WP_105483495.1_9_121,hypothetical protein [Abditibacterium utsteinense],-1,#000000,normal,1,0
+EDO46147.1_39_84,predicted protein [Nematostella vectensis],-1,#000000,normal,1,0
+XP_031376056.1_1402_1453,TMV resistance protein N-like [Punica granatum],-1,#000000,normal,1,0
+KAJ1481090.1_15_66,hypothetical protein T484DRAFT_1626227_ partial [Cryptophyta sp. CCMP2293],-1,#000000,normal,1,0
+CDW53030.1_31_151,hypothetical protein TTRE_0000129301 [Trichuris trichiura],-1,#000000,normal,1,0
+KHJ41004.1_91_210,hypothetical protein D918_08891_ partial [Trichuris suis],-1,#000000,normal,1,0
+GGJ44883.1_7_57,hypothetical protein GCM10011320_60400 [Neoroseomonas lacus],-1,#000000,normal,1,0
+WP_086909523.1_70_185,response regulator transcription factor [Paraburkholderia hospita],-1,#000000,normal,1,0
+WP_222210763.1_273_304,hypothetical protein [Pantoea sp. DY-5],-1,#000000,normal,1,0
+TMC85620.1_14_119,hypothetical protein E6J06_03230 [Chloroflexota bacterium],-1,#000000,normal,1,0
+WP_074833872.1_10_100,DUF4176 domain-containing protein [Ruminococcus albus],-1,#000000,normal,1,0
+MBP6876224.1_17_126,hypothetical protein [Candidatus Eisenbacteria bacterium],-1,#000000,normal,1,0
+MBN4077230.1_6_122,hypothetical protein [Mariprofundus ferrooxydans],-1,#000000,normal,1,0
+MCK5264601.1_10_125,hypothetical protein [Candidatus Thorarchaeota archaeon],-1,#000000,normal,1,0
+NHI94756.1_8_125,hypothetical protein [Candidatus Lokiarchaeota archaeon],-1,#000000,normal,1,0
+NHJ38414.1_7_130,hypothetical protein [Asgard group archaeon],-1,#000000,normal,1,0
+MBD1831496.1_15_126,hypothetical protein [Cyanobacteria bacterium FACHB-472],-1,#000000,normal,1,0
+WP_190444662.1_15_126,hypothetical protein [Trichocoleus sp. FACHB-90],-1,#000000,normal,1,0
+WP_190456937.1_15_126,hypothetical protein [Trichocoleus sp. FACHB-69],-1,#000000,normal,1,0
+WP_190635740.1_15_126,hypothetical protein [Trichocoleus sp. FACHB-40],-1,#000000,normal,1,0
+WP_190422798.1_15_126,MULTISPECIES: hypothetical protein [unclassified Trichocoleus],-1,#000000,normal,1,0
+MBC7811844.1_10_126,hypothetical protein [Burkholderiales bacterium],-1,#000000,normal,1,0
+MCU0495976.1_11_120,hypothetical protein [Anaerolineae bacterium],-1,#000000,normal,1,0
+PJC32533.1_4_120,hypothetical protein CO051_03010 [Candidatus Roizmanbacteria bacterium CG_4_9_14_0_2_um_filter_39_13],-1,#000000,normal,1,0
+OGG30026.1_4_119,hypothetical protein A2973_05265 [Candidatus Gottesmanbacteria bacterium RIFCSPLOWO2_01_FULL_49_10],-1,#000000,normal,1,0
+OGE64167.1_13_128,hypothetical protein A3J13_00070 [Candidatus Daviesbacteria bacterium RIFCSPLOWO2_02_FULL_36_8],-1,#000000,normal,1,0
+OGH39218.1_11_124,hypothetical protein A2905_06540 [Candidatus Levybacteria bacterium RIFCSPLOWO2_01_FULL_36_10],-1,#000000,normal,1,0
+OGH11967.1_9_119,hypothetical protein A2857_05975 [Candidatus Levybacteria bacterium RIFCSPHIGHO2_01_FULL_36_15],-1,#000000,normal,1,0
+OGG15235.1_5_120,hypothetical protein A2773_04895 [Candidatus Gottesmanbacteria bacterium RIFCSPHIGHO2_01_FULL_39_10],-1,#000000,normal,1,0
+MBI2593945.1_7_122,hypothetical protein [Candidatus Daviesbacteria bacterium],-1,#000000,normal,1,0
+CAH2092671.1_357_394,unnamed protein product [Euphydryas editha],-1,#000000,normal,1,0
+WP_126597512.1_17_129,hypothetical protein [Dictyobacter aurantiacus],-1,#000000,normal,1,0
+WP_126628340.1_17_129,hypothetical protein [Dictyobacter alpinus],-1,#000000,normal,1,0
+BCL83045.1_17_129,hypothetical protein ccbrp13_55100 [Ktedonobacteria bacterium brp13],-1,#000000,normal,1,0
+WP_207679623.1_106_140,hypothetical protein [Desulfonema magnum],-1,#000000,normal,1,0
+XP_046068151.1_16_132,uncharacterized protein BGW36DRAFT_464706 [Talaromyces proteolyticus],-1,#000000,normal,1,0
+CRG91070.1_17_131,hypothetical protein PISL3812_08118 [Talaromyces islandicus],-1,#000000,normal,1,0
+THC92309.1_15_129,hypothetical protein EYZ11_008229 [Aspergillus tanneri],-1,#000000,normal,1,0
+XP_040756917.1_18_131,uncharacterized protein P175DRAFT_0498632 [Aspergillus ochraceoroseus IBT 24754],-1,#000000,normal,1,0
+KKK17758.1_18_131,hypothetical protein ARAM_001342 [Aspergillus rambellii],-1,#000000,normal,1,0
+XP_040697161.1_12_131,uncharacterized protein ASPSYDRAFT_36298 [Aspergillus sydowii CBS 593.65],-1,#000000,normal,1,0
+XP_041553662.1_14_130,uncharacterized protein APUU_21900A [Aspergillus puulaauensis],-1,#000000,normal,1,0
+XP_040674148.1_11_129,uncharacterized protein ASPVEDRAFT_47533 [Aspergillus versicolor CBS 583.65],-1,#000000,normal,1,0
+KAJ6184776.1_22_131,hypothetical protein N7519_006077 [Penicillium mononematosum],-1,#000000,normal,1,0
+KAJ5456873.1_22_132,hypothetical protein N7530_012147 [Penicillium desertorum],-1,#000000,normal,1,0
+OQE32466.1_22_131,hypothetical protein PENFLA_c001G07921 [Penicillium flavigenum],-1,#000000,normal,1,0
+OQE85819.1_22_131,hypothetical protein PENNAL_c0023G07399 [Penicillium nalgiovense],-1,#000000,normal,1,0
+CEN62699.1_18_131,hypothetical protein ASPCAL09331 [Aspergillus calidoustus],-1,#000000,normal,1,0
+KAJ0415220.1_23_136,hypothetical protein BJY00DRAFT_266741 [Aspergillus carlsbadensis],-1,#000000,normal,1,0
+KAI9375030.1_18_131,hypothetical protein BJX61DRAFT_540179 [Aspergillus egyptiacus],-1,#000000,normal,1,0
+WP_044252211.1_17_128,hypothetical protein [Chondromyces apiculatus],-1,#000000,normal,1,0
+RMX38835.1_13_131,hypothetical protein pdam_00013973 [Pocillopora damicornis],-1,#000000,normal,1,0
+REC53880.1_10_127,hypothetical protein DRF62_11920 [Chryseobacterium piscium],-1,#000000,normal,1,0
+REC43745.1_10_127,hypothetical protein DRF69_07755 [Chryseobacterium sp. 5_R23647],-1,#000000,normal,1,0
+WP_230652042.1_54_169,hypothetical protein [Chryseobacterium sp. LC2016-27],-1,#000000,normal,1,0
+WP_230636982.1_52_169,hypothetical protein [Chryseobacterium sp. LC2016-29],-1,#000000,normal,1,0
+WP_228448871.1_52_169,hypothetical protein [Chryseobacterium mulctrae],-1,#000000,normal,1,0
+MBW3523535.1_10_127,hypothetical protein [Chryseobacterium sp. NKUCC03_KSP],-1,#000000,normal,1,0
+WP_267280818.1_10_127,hypothetical protein [Chryseobacterium sp. KC 927],-1,#000000,normal,1,0
+WP_191735587.1_10_127,hypothetical protein [Chryseobacterium caseinilyticum],-1,#000000,normal,1,0
+KQM20589.1_9_126,hypothetical protein ASE55_06270 [Chryseobacterium sp. Leaf201],-1,#000000,normal,1,0
+WP_228372210.1_61_178,hypothetical protein [Chryseobacterium gregarium],-1,#000000,normal,1,0
+WP_228433659.1_5_119,hypothetical protein [Chryseobacterium polytrichastri],-1,#000000,normal,1,0
+WP_241775047.1_10_124,hypothetical protein [Chryseobacterium sp. ERMR1:04],-1,#000000,normal,1,0
+WP_076351606.1_42_160,hypothetical protein [Chryseobacterium joostei],-1,#000000,normal,1,0
+WP_109617661.1_44_161,hypothetical protein [Chryseobacterium oncorhynchi],-1,#000000,normal,1,0
+WP_228422403.1_44_153,hypothetical protein [Chryseobacterium aurantiacum],-1,#000000,normal,1,0
+WP_099767528.1_43_159,hypothetical protein [Chryseobacterium sp. 52],-1,#000000,normal,1,0
+WP_034711506.1_9_121,hypothetical protein [Chryseobacterium soli],-1,#000000,normal,1,0
+WP_007843538.1_44_160,hypothetical protein [Chryseobacterium populi],-1,#000000,normal,1,0
+WP_172278603.1_10_126,hypothetical protein [Chryseobacterium sp. LAM-KRS1],-1,#000000,normal,1,0
+ASK32691.1_12_127,hypothetical protein CEY12_05300 [Chryseobacterium sp. T16E-39],-1,#000000,normal,1,0
+PZU91661.1_37_154,hypothetical protein DI529_00400 [Chryseobacterium sp.],-1,#000000,normal,1,0
+WP_246022183.1_8_126,hypothetical protein [Epilithonimonas xixisoli],-1,#000000,normal,1,0
+WP_232707008.1_36_153,hypothetical protein [Epilithonimonas sp. JDS],-1,#000000,normal,1,0
+WP_274250606.1_23_137,hypothetical protein [Flavobacterium sp. KACC 22758],-1,#000000,normal,1,0
+WP_276172752.1_22_138,hypothetical protein [Flavobacterium sp. YJ01],-1,#000000,normal,1,0
+WP_091493255.1_25_138,hypothetical protein [Flavobacterium phragmitis],-1,#000000,normal,1,0
+WP_198857952.1_26_135,hypothetical protein [Flavobacterium sp. IB48],-1,#000000,normal,1,0
+WP_144219404.1_25_137,MULTISPECIES: hypothetical protein [Flavobacterium],-1,#000000,normal,1,0
+WP_007805570.1_27_143,hypothetical protein [Flavobacterium sp. CF136],-1,#000000,normal,1,0
+KFF02231.1_34_149,hypothetical protein IW20_25285 [Flavobacterium hydatis],-1,#000000,normal,1,0
+PUU68750.1_25_145,hypothetical protein DBB36_17290 [Flavobacterium sp. WLB],-1,#000000,normal,1,0
+CAC9973185.1_52_172,hypothetical protein FLAPXU55_00864 [Flavobacterium panici],-1,#000000,normal,1,0
+WP_274783380.1_36_152,hypothetical protein [Flavobacterium sp. SUN046],-1,#000000,normal,1,0
+MBO9583685.1_10_125,hypothetical protein [Flavobacterium sp.],-1,#000000,normal,1,0
+WP_071638732.1_11_126,hypothetical protein [Flavobacterium johnsoniae],-1,#000000,normal,1,0
+WP_223704484.1_10_124,hypothetical protein [Flavobacterium potami],-1,#000000,normal,1,0
+WP_248727492.1_9_124,hypothetical protein [Flavobacterium humidisoli],-1,#000000,normal,1,0
+NOQ73612.1_12_125,hypothetical protein [Crocinitomix sp.],-1,#000000,normal,1,0
+MAN04785.1_10_121,hypothetical protein [Owenweeksia sp.],-1,#000000,normal,1,0
+MBL7945015.1_47_159,hypothetical protein [Flavobacteriales bacterium],-1,#000000,normal,1,0
+MBI3218675.1_13_128,hypothetical protein [Bacteroidota bacterium],-1,#000000,normal,1,0
+WP_107037380.1_46_161,hypothetical protein [Brumimicrobium mesophilum],-1,#000000,normal,1,0
+WP_185146548.1_6_127,hypothetical protein [Chryseobacterium bernardetii],-1,#000000,normal,1,0
+WP_185147660.1_9_127,MULTISPECIES: hypothetical protein [Chryseobacterium],-1,#000000,normal,1,0
+WP_228401584.1_7_128,hypothetical protein [Chryseobacterium sp. PMSZPI],-1,#000000,normal,1,0
+WP_228452184.1_7_127,hypothetical protein [Chryseobacterium sp. c4a],-1,#000000,normal,1,0
+WP_045497693.1_10_127,hypothetical protein [Chryseobacterium sp. StRB126],-1,#000000,normal,1,0
+WP_209912945.1_9_127,hypothetical protein [Chryseobacterium jejuense],-1,#000000,normal,1,0
+WP_250255750.1_9_127,hypothetical protein [Chryseobacterium sp. Marseille-Q3244],-1,#000000,normal,1,0
+WP_123911228.1_9_127,hypothetical protein [Chryseobacterium sp. G0162],-1,#000000,normal,1,0
+WP_123856136.1_10_127,hypothetical protein [Chryseobacterium nakagawai],-1,#000000,normal,1,0
+WP_065393296.1_7_128,hypothetical protein [Chryseobacterium artocarpi],-1,#000000,normal,1,0
+WP_076550124.1_8_128,hypothetical protein [Chryseobacterium ureilyticum],-1,#000000,normal,1,0
+WP_202269974.1_6_69,hypothetical protein [Chryseobacterium sp. KMC2],-1,#000000,normal,1,0
+WP_115919849.1_9_124,hypothetical protein [Chryseobacterium rhizosphaerae],-1,#000000,normal,1,0
+WP_115925933.1_6_121,hypothetical protein [Chryseobacterium pennipullorum],-1,#000000,normal,1,0
+WP_253317926.1_6_122,hypothetical protein [Chryseobacterium sp. S0630],-1,#000000,normal,1,0
+WP_079241912.1_6_122,hypothetical protein [Chryseobacterium indologenes],-1,#000000,normal,1,0
+WP_228411997.1_7_122,hypothetical protein [Chryseobacterium sp. KLBC 52],-1,#000000,normal,1,0
+WP_228436685.1_6_122,hypothetical protein [Chryseobacterium sp. AG363],-1,#000000,normal,1,0
+WP_124531931.1_6_122,hypothetical protein [Chryseobacterium sp. KBW03],-1,#000000,normal,1,0
+WP_142016651.1_6_122,hypothetical protein [Chryseobacterium aquifrigidense],-1,#000000,normal,1,0
+WP_228437657.1_6_122,hypothetical protein [Chryseobacterium sp. 7],-1,#000000,normal,1,0
+WP_129039928.1_6_123,hypothetical protein [Chryseobacterium sp. CH21],-1,#000000,normal,1,0
+WP_228406885.1_6_123,hypothetical protein [Chryseobacterium sp. MYb7],-1,#000000,normal,1,0
+WP_126651060.1_6_123,hypothetical protein [Chryseobacterium aureum],-1,#000000,normal,1,0
+WP_193544945.1_6_122,hypothetical protein [Chryseobacterium culicis],-1,#000000,normal,1,0
+MCP4442384.1_17_130,hypothetical protein [Aureispira sp.],-1,#000000,normal,1,0
+WP_197043906.1_16_130,hypothetical protein [Aureispira sp. CCB-QB1],-1,#000000,normal,1,0
+AFM02747.1_43_161,hypothetical protein Fleli_0258 [Bernardetia litoralis DSM 6794],-1,#000000,normal,1,0
+WP_179314781.1_43_161,MULTISPECIES: hypothetical protein [Winogradskyella],-1,#000000,normal,1,0
+WP_235275505.1_46_161,MULTISPECIES: hypothetical protein [unclassified Tenacibaculum],-1,#000000,normal,1,0
+SFT50356.1_34_150,hypothetical protein SAMN05216474_0929 [Lishizhenia tianjinensis],-1,#000000,normal,1,0
+WP_229746881.1_48_163,hypothetical protein [Dokdonia pacifica],-1,#000000,normal,1,0
+WP_051473697.1_47_162,hypothetical protein [Aquimarina macrocephali],-1,#000000,normal,1,0
+MCH2034192.1_42_158,hypothetical protein [Tenacibaculum sp.],-1,#000000,normal,1,0
+KAJ5066093.1_444_562,hypothetical protein M0811_03426 [Anaeramoeba ignava],-1,#000000,normal,1,0
+BAZ32184.1_13_126,hypothetical protein NIES4074_46860 [Cylindrospermum sp. NIES-4074],-1,#000000,normal,1,0
+WP_080058748.1_11_124,hypothetical protein [Spirosoma aerolatum],-1,#000000,normal,1,0
+TLX95196.1_12_127,hypothetical protein E6K91_03740 [Nitrososphaerota archaeon],-1,#000000,normal,1,0
+KXJ22686.1_164_283,hypothetical protein AC249_AIPGENE10859 [Exaiptasia diaphana],-1,#000000,normal,1,0
+XP_050509021.1_567_619,zinc finger protein 91-like [Diabrotica virgifera virgifera],-1,#000000,normal,1,0
+XP_002671270.1_566_619,uncharacterized protein NAEGRDRAFT_73793 [Naegleria gruberi],-1,#000000,normal,1,0
+MBQ6220192.1_1786_1853,hypothetical protein [Methanosphaera sp.],-1,#000000,normal,1,0
+CAG0987878.1_26_98,partial Tryptophan decarboxylase_ partial [Methanosarcinales archaeon],-1,#000000,normal,1,0

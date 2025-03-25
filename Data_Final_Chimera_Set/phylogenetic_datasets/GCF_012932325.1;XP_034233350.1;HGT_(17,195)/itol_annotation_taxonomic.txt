@@ -1,0 +1,1015 @@
+DATASET_TEXT
+#In text datasets, each ID is associated to text label, which can be displayed directly on the node branch, or outside the tree
+#lines starting with a hash are comments and ignored during parsing
+#=================================================================#
+#                    MANDATORY SETTINGS                           #
+#=================================================================#
+#select the separator which is used to delimit the data below (TAB,SPACE or COMMA).This separator must be used throughout this file.
+
+SEPARATOR COMMA
+
+
+#label is used in the legend table (can be changed later)
+DATASET_LABEL,taxonomic_label
+
+#dataset color (can be changed later)
+COLOR,#ff0000
+
+DATA
+KAF4833260.1_5_188,Colletotrichum tropicale (Ascomycota_Glomerellales),-1,#000000,normal,1,0
+KAF4926019.1_5_188,Colletotrichum viniferum (Ascomycota_Glomerellales),-1,#000000,normal,1,0
+KAI8220360.1_5_188,Colletotrichum sp. SAR 10_96 (Ascomycota_Glomerellales),-1,#000000,normal,1,0
+KAF4879042.1_5_188,Colletotrichum siamense (Ascomycota_Glomerellales),-1,#000000,normal,1,0
+XP_045264447.1_5_189,Colletotrichum gloeosporioides (Ascomycota_Glomerellales),-1,#000000,normal,1,0
+EQB52129.1_5_188,Colletotrichum gloeosporioides (Ascomycota_Glomerellales),-1,#000000,normal,1,0
+KAI8263611.1_5_188,Colletotrichum sp. SAR11_239 (Ascomycota_Glomerellales),-1,#000000,normal,1,0
+XP_031890628.1_8_188,Colletotrichum fructicola (Ascomycota_Glomerellales),-1,#000000,normal,1,0
+KAI8156890.1_839_1019,Colletotrichum sp. SAR 10_71 (Ascomycota_Glomerellales),-1,#000000,normal,1,0
+KAJ0342687.1_6_188,Colletotrichum nupharicola (Ascomycota_Glomerellales),-1,#000000,normal,1,0
+XP_053040510.1_6_188,Colletotrichum chrysophilum (Ascomycota_Glomerellales),-1,#000000,normal,1,0
+KAJ0287549.1_6_188,Colletotrichum noveboracense (Ascomycota_Glomerellales),-1,#000000,normal,1,0
+KAH9230064.1_6_188,Colletotrichum gloeosporioides (Ascomycota_Glomerellales),-1,#000000,normal,1,0
+KAF0322012.1_6_188,BPDI4 (Ascomycota_Glomerellales),-1,#000000,normal,1,0
+KAI8305655.1_864_1046,Colletotrichum sp. SAR11_59 (Ascomycota_Glomerellales),-1,#000000,normal,1,0
+XP_037176599.1_6_188,Colletotrichum aenigma (Ascomycota_Glomerellales),-1,#000000,normal,1,0
+KAH0444263.1_6_188,Colletotrichum camelliae (Ascomycota_Glomerellales),-1,#000000,normal,1,0
+PNH32430.1_7_189,Verticillium dahliae (Ascomycota_Glomerellales),-1,#000000,normal,1,0
+XP_028490491.1_7_189,CBS 130339 (Ascomycota_Glomerellales),-1,#000000,normal,1,0
+KAG7108607.1_7_189,Verticillium longisporum (Ascomycota_Glomerellales),-1,#000000,normal,1,0
+XP_028471417.1_9_193,Sodiomyces alkalinus (Ascomycota_Glomerellales),-1,#000000,normal,1,0
+XP_038745304.1_5_188,Colletotrichum karsti (Ascomycota_Glomerellales),-1,#000000,normal,1,0
+XP_049149760.1_8_193,Colletotrichum lupini (Ascomycota_Glomerellales),-1,#000000,normal,1,0
+KAI3538091.1_8_193,Colletotrichum abscissum (Ascomycota_Glomerellales),-1,#000000,normal,1,0
+KAI3530656.1_8_193,Colletotrichum filicis (Ascomycota_Glomerellales),-1,#000000,normal,1,0
+KXH44598.1_8_194,Colletotrichum nymphaeae (Ascomycota_Glomerellales),-1,#000000,normal,1,0
+XP_035337772.1_8_193,Colletotrichum scovillei (Ascomycota_Glomerellales),-1,#000000,normal,1,0
+KXH53573.1_7_193,Colletotrichum simmondsii (Ascomycota_Glomerellales),-1,#000000,normal,1,0
+EXF85230.1_11_157,Colletotrichum fioriniae (Ascomycota_Glomerellales),-1,#000000,normal,1,0
+XP_053049060.1_10_196,Colletotrichum fioriniae (Ascomycota_Glomerellales),-1,#000000,normal,1,0
+TDZ20505.1_7_189,Colletotrichum orbiculare (Ascomycota_Glomerellales),-1,#000000,normal,1,0
+TDZ66175.1_7_189,Colletotrichum trifolii (Ascomycota_Glomerellales),-1,#000000,normal,1,0
+TEA22462.1_7_189,Colletotrichum sidae (Ascomycota_Glomerellales),-1,#000000,normal,1,0
+TDZ40277.1_7_189,CBS 515.97 (Ascomycota_Glomerellales),-1,#000000,normal,1,0
+KXH61645.1_9_192,CBS 607.94 (Ascomycota_Glomerellales),-1,#000000,normal,1,0
+KAF6833389.1_6_190,Colletotrichum plurivorum (Ascomycota_Glomerellales),-1,#000000,normal,1,0
+KAF6820780.1_7_190,Colletotrichum sojae (Ascomycota_Glomerellales),-1,#000000,normal,1,0
+KAF6841894.1_8_190,CBS 132885 (Ascomycota_Glomerellales),-1,#000000,normal,1,0
+XP_036587533.1_15_198,Colletotrichum truncatum (Ascomycota_Glomerellales),-1,#000000,normal,1,0
+GJC85052.1_6_156,Colletotrichum liriopes (Ascomycota_Glomerellales),-1,#000000,normal,1,0
+GKT74534.1_9_192,Colletotrichum tofieldiae (Ascomycota_Glomerellales),-1,#000000,normal,1,0
+XP_049125541.1_8_191,Colletotrichum spaethianum (Ascomycota_Glomerellales),-1,#000000,normal,1,0
+XP_016642124.1_6_189,Scedosporium apiospermum (Ascomycota_Microascales),-1,#000000,normal,1,0
+PKS12821.1_3_189,CBS 467.74 (Ascomycota_Microascales),-1,#000000,normal,1,0
+SPO02240.1_5_188,Cephalotrichum gorgonifer (Ascomycota_Microascales),-1,#000000,normal,1,0
+TLD26385.1_5_196,Pyricularia sp. CBS 133598 (Ascomycota_Magnaporthales),-1,#000000,normal,1,0
+XP_029752612.1_5_191,Pyricularia pennisetigena (Ascomycota_Magnaporthales),-1,#000000,normal,1,0
+XP_003714252.1_5_187,BPI 841383 [[Magnaporthe oryzae]] (Ascomycota_Magnaporthales),-1,#000000,normal,1,0
+ELQ36484.1_5_177,BPI 841383 [[Magnaporthe oryzae]] (Ascomycota_Magnaporthales),-1,#000000,normal,1,0
+KAI6386942.1_5_187,BPI 841383 [[Magnaporthe oryzae]] (Ascomycota_Magnaporthales),-1,#000000,normal,1,0
+XP_030984604.1_5_187,BPI 625033 [[Magnaporthe grisea]] (Ascomycota_Magnaporthales),-1,#000000,normal,1,0
+KLU88048.1_10_192,Magnaporthiopsis poae (Ascomycota_Magnaporthales),-1,#000000,normal,1,0
+XP_030998748.1_8_195,Thyridium curvatum (Ascomycota_None),-1,#000000,normal,1,0
+OTA97052.1_4_179,Hypoxylon sp. CO27-5 (Ascomycota_Xylariales),-1,#000000,normal,1,0
+OTA68808.1_1_173,Hypoxylon sp. EC38 (Ascomycota_Xylariales),-1,#000000,normal,1,0
+KAI0150019.1_6_189,Hypoxylon sp. NC0597 (Ascomycota_Xylariales),-1,#000000,normal,1,0
+XP_051309616.1_9_190,Hypoxylon trugodes (Ascomycota_Xylariales),-1,#000000,normal,1,0
+KAI1136016.1_7_189,Hypoxylon sp. FL0543 (Ascomycota_Xylariales),-1,#000000,normal,1,0
+KAI0837125.1_6_189,Hypoxylon sp. FL0890 (Ascomycota_Xylariales),-1,#000000,normal,1,0
+KAI1413189.1_7_189,Hypoxylon sp. FL1857 (Ascomycota_Xylariales),-1,#000000,normal,1,0
+KAI0003132.1_8_190,Xylariaceae sp. FL0662B (Ascomycota_Xylariales),-1,#000000,normal,1,0
+KAI1079075.1_10_192,Whalleya microplaca (Ascomycota_Xylariales),-1,#000000,normal,1,0
+KAI1097642.1_7_189,Jackrogersella minutella (Ascomycota_Xylariales),-1,#000000,normal,1,0
+XP_047816121.1_8_189,Annulohypoxylon maeteangense (Ascomycota_Xylariales),-1,#000000,normal,1,0
+KAI1405434.1_6_188,CBS 113049 (Ascomycota_Xylariales),-1,#000000,normal,1,0
+KAI0893730.1_8_189,Annulohypoxylon nitens (Ascomycota_Xylariales),-1,#000000,normal,1,0
+KAI1440722.1_8_189,Annulohypoxylon stygium (Ascomycota_Xylariales),-1,#000000,normal,1,0
+KAI1455754.1_6_189,Annulohypoxylon moriforme (Ascomycota_Xylariales),-1,#000000,normal,1,0
+XP_047853764.1_6_189,Annulohypoxylon truncatum (Ascomycota_Xylariales),-1,#000000,normal,1,0
+KAI2469772.1_6_189,Annulohypoxylon bovei (Ascomycota_Xylariales),-1,#000000,normal,1,0
+KAI1378521.1_82_264,Hypoxylon crocopeplum (Ascomycota_Xylariales),-1,#000000,normal,1,0
+KAI2776644.1_7_188,Daldinia loculata (Ascomycota_Xylariales),-1,#000000,normal,1,0
+KAI0106774.1_7_188,Daldinia grandis (Ascomycota_Xylariales),-1,#000000,normal,1,0
+XP_033433912.1_7_188,Daldinia childiae (Ascomycota_Xylariales),-1,#000000,normal,1,0
+XP_049099703.1_7_188,Daldinia decipiens (Ascomycota_Xylariales),-1,#000000,normal,1,0
+XP_047863069.1_7_188,Daldinia vernicosa (Ascomycota_Xylariales),-1,#000000,normal,1,0
+KAI8963641.1_8_189,Daldinia sp. FL1419 (Ascomycota_Xylariales),-1,#000000,normal,1,0
+KAI1477109.1_7_189,Daldinia eschscholtzii (Ascomycota_Xylariales),-1,#000000,normal,1,0
+XP_047786357.1_7_189,Daldinia caldariorum (Ascomycota_Xylariales),-1,#000000,normal,1,0
+KAI1807107.1_7_189,Daldinia bambusicola (Ascomycota_Xylariales),-1,#000000,normal,1,0
+KAI0384010.1_9_190,Hypomontagnella monticulosa (Ascomycota_Xylariales),-1,#000000,normal,1,0
+KAI2630254.1_9_190,Hypomontagnella submonticulosa (Ascomycota_Xylariales),-1,#000000,normal,1,0
+TGJ87827.1_7_202,Xylaria hypoxylon (Ascomycota_Xylariales),-1,#000000,normal,1,0
+XP_051373616.1_10_192,Durotheca rogersii (Ascomycota_Xylariales),-1,#000000,normal,1,0
+XP_047829285.1_8_188,Xylaria bambusicola (Ascomycota_Xylariales),-1,#000000,normal,1,0
+KAH8166282.1_8_188,Xylaria polymorpha (Ascomycota_Xylariales),-1,#000000,normal,1,0
+KAI0198573.1_8_188,Astrocystis sublimbata (Ascomycota_Xylariales),-1,#000000,normal,1,0
+KAI0158080.1_7_188,Xylariaceae sp. FL1272 (Ascomycota_Xylariales),-1,#000000,normal,1,0
+KAI1267728.1_7_187,Xylariaceae sp. FL1019 (Ascomycota_Xylariales),-1,#000000,normal,1,0
+KAF3023480.1_24_206,Neopestalotiopsis sp. 37M (Ascomycota_Xylariales),-1,#000000,normal,1,0
+KAI6081890.1_6_189,Hypoxylon rubiginosum (Ascomycota_Xylariales),-1,#000000,normal,1,0
+KAI1759442.1_7_189,Hypoxylon sp. FL1150 (Ascomycota_Xylariales),-1,#000000,normal,1,0
+KAI0169117.1_7_189,Hypoxylon sp. FL1284 (Ascomycota_Xylariales),-1,#000000,normal,1,0
+XP_049112906.1_8_189,Hypoxylon fragiforme (Ascomycota_Xylariales),-1,#000000,normal,1,0
+KAI1091563.1_5_187,Rostrohypoxylon terebratum (Ascomycota_Xylariales),-1,#000000,normal,1,0
+KAI2614928.1_2_139,Hypoxylon sp. NC1633 (Ascomycota_Xylariales),-1,#000000,normal,1,0
+OTA98895.1_7_189,Hypoxylon sp. CI-4A (Ascomycota_Xylariales),-1,#000000,normal,1,0
+PGH19110.1_9_189,Helicocarpus griseus (Ascomycota_Onygenales),-1,#000000,normal,1,0
+PGH00786.1_10_189,Polytolypa hystricis (Ascomycota_Onygenales),-1,#000000,normal,1,0
+KAB5578511.1_9_190,Coniochaeta sp. 2T2.1 (Ascomycota_Coniochaetales),-1,#000000,normal,1,0
+KAH8905986.1_8_189,Coniochaeta sp. PMI_546 (Ascomycota_Coniochaetales),-1,#000000,normal,1,0
+OIW24112.1_8_189,Coniochaeta ligniaria (Ascomycota_Coniochaetales),-1,#000000,normal,1,0
+KAH8899383.1_8_189,Thozetella sp. PMI_491 (Ascomycota_Chaetosphaeriales),-1,#000000,normal,1,0
+ADZ99360.1_9_188,Phialophora sp. CGMCC 3328 (Ascomycota_Chaetothyriales),-1,#000000,normal,1,0
+RKU43683.1_6_155,Coniochaeta pulveracea (Ascomycota_Coniochaetales),-1,#000000,normal,1,0
+EPE06017.1_9_190,Ophiostoma piceae (Ascomycota_Ophiostomatales),-1,#000000,normal,1,0
+OAA62666.1_6_185,Sporothrix insectorum (Ascomycota_Ophiostomatales),-1,#000000,normal,1,0
+XP_016584462.1_8_191,Sporothrix schenckii (Ascomycota_Ophiostomatales),-1,#000000,normal,1,0
+XP_007916894.1_9_192,Phaeoacremonium minimum (Ascomycota_Togniniales),-1,#000000,normal,1,0
+XP_006696369.1_6_187,Thermochaetoides thermophila (Ascomycota_Sordariales),-1,#000000,normal,1,0
+AGY80100.1_1_169,Thermochaetoides thermophila (Ascomycota_Sordariales),-1,#000000,normal,1,0
+XP_001908770.1_4_185,Podospora anserina (Ascomycota_Sordariales),-1,#000000,normal,1,0
+VBB72572.1_4_185,Podospora comata (Ascomycota_Sordariales),-1,#000000,normal,1,0
+KXX82926.1_7_189,Madurella mycetomatis (Ascomycota_Sordariales),-1,#000000,normal,1,0
+APQ40634.1_9_189,Canariomyces arenarius (Ascomycota_Sordariales),-1,#000000,normal,1,0
+KAG7292457.1_5_185,Staphylotrichum longicolle (Ascomycota_Sordariales),-1,#000000,normal,1,0
+BAA74957.1_6_183,Trichocladium griseum (Ascomycota_Sordariales),-1,#000000,normal,1,0
+KAH6845296.1_5_185,Chaetomium sp. MPI-CAGE-AT-0009 (Ascomycota_Sordariales),-1,#000000,normal,1,0
+KAH6650074.1_5_185,CBS 160.62 (Ascomycota_Sordariales),-1,#000000,normal,1,0
+XP_003659323.1_7_185,Thermothelomyces thermophilus (Ascomycota_Sordariales),-1,#000000,normal,1,0
+AHW52295.1_1_114,Chaetomium sp. Ch-1 (Ascomycota_Sordariales),-1,#000000,normal,1,0
+KAH6619755.1_6_186,Chaetomium sp. MPI-SDFR-AT-0129 (Ascomycota_Sordariales),-1,#000000,normal,1,0
+KAI1331041.1_1_110,Xylariaceae sp. FL0255 (Ascomycota_Xylariales),-1,#000000,normal,1,0
+KAF9729102.1_4_201,Paraphaeosphaeria minitans (Ascomycota_Pleosporales),-1,#000000,normal,1,0
+XP_018031233.1_4_185,Paraphaeosphaeria sporulosa (Ascomycota_Pleosporales),-1,#000000,normal,1,0
+KAF2450550.1_5_185,Karstenula rhodostoma (Ascomycota_Pleosporales),-1,#000000,normal,1,0
+KAJ4358374.1_5_185,Didymosphaeria variabile (Ascomycota_Pleosporales),-1,#000000,normal,1,0
+XP_033522283.1_5_184,Dothidotthia symphoricarpi (Ascomycota_Pleosporales),-1,#000000,normal,1,0
+KAF2681064.1_6_186,Lentithecium fluviatile (Ascomycota_Pleosporales),-1,#000000,normal,1,0
+KAF1974198.1_4_185,Bimuria novae-zelandiae (Ascomycota_Pleosporales),-1,#000000,normal,1,0
+KAJ4292707.1_7_188,Kalmusia sp. IMI 367209 (Ascomycota_Pleosporales),-1,#000000,normal,1,0
+AHW52287.1_1_113,Stagonospora sp. TK-2014 (Ascomycota_Pleosporales),-1,#000000,normal,1,0
+KAF1955222.1_8_189,Byssothecium circinans (Ascomycota_Pleosporales),-1,#000000,normal,1,0
+KAF2638354.1_8_188,Massarina eburnea (Ascomycota_Pleosporales),-1,#000000,normal,1,0
+AHW52260.1_1_113,Corynespora cassiicola (Ascomycota_Pleosporales),-1,#000000,normal,1,0
+PSN66660.1_1_178,Corynespora cassiicola (Ascomycota_Pleosporales),-1,#000000,normal,1,0
+CAI6267321.1_6_186,Periconia digitata (Ascomycota_Pleosporales),-1,#000000,normal,1,0
+PVH94368.1_7_187,Periconia macrospinosa (Ascomycota_Pleosporales),-1,#000000,normal,1,0
+KAF2839203.1_1_158,Patellaria atrata (Ascomycota_Patellariales),-1,#000000,normal,1,0
+KAF2203331.1_8_188,Delitschia confertaspora (Ascomycota_Pleosporales),-1,#000000,normal,1,0
+XP_033650977.1_8_187,Westerdykella ornata (Ascomycota_Pleosporales),-1,#000000,normal,1,0
+KAH7112477.1_7_187,Dendryphion nanum (Ascomycota_Pleosporales),-1,#000000,normal,1,0
+XP_033386011.1_6_187,Aaosphaeria arxii (Ascomycota_Pleosporales),-1,#000000,normal,1,0
+KAF2751371.1_8_188,Sporormia fimetaria (Ascomycota_Pleosporales),-1,#000000,normal,1,0
+KAF2260232.1_8_188,Didymosphaeria enalia (Ascomycota_Pleosporales),-1,#000000,normal,1,0
+XP_033552960.1_7_187,Lindgomyces ingoldianus (Ascomycota_Pleosporales),-1,#000000,normal,1,0
+KAF2656927.1_8_188,Lophiostoma macrostomum (Ascomycota_Pleosporales),-1,#000000,normal,1,0
+KAF2182549.1_8_188,Zopfia rhizophila (Ascomycota_None),-1,#000000,normal,1,0
+KAF2736522.1_8_188,Polyplosphaeria fusca (Ascomycota_Pleosporales),-1,#000000,normal,1,0
+ORY14162.1_7_187,Clohesyomyces aquaticus (Ascomycota_Pleosporales),-1,#000000,normal,1,0
+KAF2112053.1_8_188,Lophiotrema nucula (Ascomycota_Pleosporales),-1,#000000,normal,1,0
+AHW52251.1_1_113,Dothidea sp. D5-2 (Ascomycota_Dothideales),-1,#000000,normal,1,0
+KAF1998630.1_8_188,Amniculicola lignicola (Ascomycota_Pleosporales),-1,#000000,normal,1,0
+KAH7357557.1_6_185,Pyrenochaeta sp. MPI-SDFR-AT-0127 (Ascomycota_Pleosporales),-1,#000000,normal,1,0
+OAL47336.1_6_185,Pyrenochaeta sp. DS3sAY3a (Ascomycota_Pleosporales),-1,#000000,normal,1,0
+AHW52296.1_1_113,Phyllosticta alcides (Ascomycota_Botryosphaeriales),-1,#000000,normal,1,0
+KAH7086380.1_6_185,CBS 522.66 (Ascomycota_Pleosporales),-1,#000000,normal,1,0
+AHW52294.1_1_113,Paraphoma sp. Z-1 (Ascomycota_Pleosporales),-1,#000000,normal,1,0
+KAF2820458.1_7_187,Ophiobolus disseminans (Ascomycota_Pleosporales),-1,#000000,normal,1,0
+XP_040793850.1_7_187,Cucurbitaria berberidis (Ascomycota_Pleosporales),-1,#000000,normal,1,0
+KAF1914366.1_7_187,Ampelomyces quisqualis Cesati_ 1852 (Ascomycota_Pleosporales),-1,#000000,normal,1,0
+AGU16532.1_6_187,Phaeosphaeria sp. LH21 (Ascomycota_Pleosporales),-1,#000000,normal,1,0
+KAH3949312.1_7_187,Parastagonospora nodorum (Ascomycota_Pleosporales),-1,#000000,normal,1,0
+XP_001801548.1_7_187,Parastagonospora nodorum (Ascomycota_Pleosporales),-1,#000000,normal,1,0
+KAH8728353.1_3_182,Phaeosphaeriaceae sp. PMI808 (Ascomycota_Pleosporales),-1,#000000,normal,1,0
+KAF2798963.1_8_187,Melanomma pulvis-pyrius (Ascomycota_Pleosporales),-1,#000000,normal,1,0
+KAF2713630.1_8_187,Pleomassaria siparia (Ascomycota_Pleosporales),-1,#000000,normal,1,0
+AHW52271.1_1_113,Xenostigmina sp. B4-1 (Ascomycota_Mycosphaerellales),-1,#000000,normal,1,0
+KAF2865109.1_6_187,Massariosphaeria phaeospora (Ascomycota_Pleosporales),-1,#000000,normal,1,0
+KAF1937656.1_7_186,Clathrospora elynae (Ascomycota_Pleosporales),-1,#000000,normal,1,0
+KAF2032927.1_7_186,Setomelanomma holmii (Ascomycota_Pleosporales),-1,#000000,normal,1,0
+KAJ4366478.1_7_186,Neocucurbitaria cava (Ascomycota_Pleosporales),-1,#000000,normal,1,0
+AHW52270.1_1_113,Pyrenochaeta sp. H1-3 (Ascomycota_Pleosporales),-1,#000000,normal,1,0
+OAK97630.1_7_186,Stagonospora sp. SRC1lsM3a (Ascomycota_Pleosporales),-1,#000000,normal,1,0
+KAH7390901.1_7_186,Phaeosphaeria sp. MPI-PUGE-AT-0046c (Ascomycota_Pleosporales),-1,#000000,normal,1,0
+KAF1831599.1_7_186,Decorospora gaudefroyi (Ascomycota_Pleosporales),-1,#000000,normal,1,0
+KAI4688991.1_7_187,Alternaria sp. BMP 2799 (Ascomycota_Pleosporales),-1,#000000,normal,1,0
+XP_051303466.1_7_187,Alternaria arbusti (Ascomycota_Pleosporales),-1,#000000,normal,1,0
+XP_049241644.1_7_187,Alternaria hordeiaustralica (Ascomycota_Pleosporales),-1,#000000,normal,1,0
+XP_049218945.1_7_187,Alternaria triticimaculans (Ascomycota_Pleosporales),-1,#000000,normal,1,0
+XP_049252253.1_7_187,Alternaria novae-zelandiae (Ascomycota_Pleosporales),-1,#000000,normal,1,0
+XP_049205667.1_7_187,Alternaria viburni (Ascomycota_Pleosporales),-1,#000000,normal,1,0
+XP_049185787.1_7_187,Alternaria metachromatica (Ascomycota_Pleosporales),-1,#000000,normal,1,0
+XP_051350688.1_7_187,Alternaria infectoria (Ascomycota_Pleosporales),-1,#000000,normal,1,0
+XP_046020208.1_7_187,Alternaria rosae (Ascomycota_Pleosporales),-1,#000000,normal,1,0
+XP_038781901.1_7_185,Alternaria burnsii (Ascomycota_Pleosporales),-1,#000000,normal,1,0
+XP_028508459.1_7_185,Alternaria arborescens (Ascomycota_Pleosporales),-1,#000000,normal,1,0
+XP_018381386.1_7_185,Alternaria alternata (Ascomycota_Pleosporales),-1,#000000,normal,1,0
+XP_043170698.1_7_185,Alternaria atra (Ascomycota_Pleosporales),-1,#000000,normal,1,0
+XP_007704481.1_7_186,Bipolaris sorokiniana (Ascomycota_Pleosporales),-1,#000000,normal,1,0
+KAF5846148.1_7_186,Bipolaris sorokiniana (Ascomycota_Pleosporales),-1,#000000,normal,1,0
+XP_007686761.1_7_186,Bipolaris oryzae (Ascomycota_Pleosporales),-1,#000000,normal,1,0
+XP_007714177.1_7_186,Bipolaris zeicola (Ascomycota_Pleosporales),-1,#000000,normal,1,0
+KAH7559887.1_7_186,Bipolaris maydis (Ascomycota_Pleosporales),-1,#000000,normal,1,0
+XP_014078046.1_7_186,Bipolaris maydis (Ascomycota_Pleosporales),-1,#000000,normal,1,0
+AHW52277.1_1_113,Curvularia lunata (Ascomycota_Pleosporales),-1,#000000,normal,1,0
+USP79281.1_7_186,Curvularia clavata (Ascomycota_Pleosporales),-1,#000000,normal,1,0
+RMZ73747.1_54_233,Angiopoma campanulatum (Ascomycota_Pleosporales),-1,#000000,normal,1,0
+XP_001935162.1_7_186,Pyrenophora tritici-repentis (Ascomycota_Pleosporales),-1,#000000,normal,1,0
+EFQ87548.1_7_186,Pyrenophora teres (Ascomycota_Pleosporales),-1,#000000,normal,1,0
+KNG47900.1_7_186,Stemphylium lycopersici (Ascomycota_Pleosporales),-1,#000000,normal,1,0
+XP_008020030.1_7_186,Exserohilum turcicum (Ascomycota_Pleosporales),-1,#000000,normal,1,0
+KAF2853651.1_7_186,Plenodomus tracheiphilus (Ascomycota_Pleosporales),-1,#000000,normal,1,0
+XP_003841026.1_7_186,Plenodomus lingam (Ascomycota_Pleosporales),-1,#000000,normal,1,0
+KAJ4331567.1_5_185,CBS 528.66 (Ascomycota_Pleosporales),-1,#000000,normal,1,0
+KAJ4407717.1_5_185,Didymella pomorum (Ascomycota_Pleosporales),-1,#000000,normal,1,0
+KAF3049563.1_5_185,CBS 143032 (Ascomycota_Pleosporales),-1,#000000,normal,1,0
+AHW52266.1_1_113,Ascochyta pisi (Ascomycota_Pleosporales),-1,#000000,normal,1,0
+KAG9205522.1_5_185,Epicoccum nigrum (Ascomycota_Pleosporales),-1,#000000,normal,1,0
+AHW52257.1_1_113,Epicoccum sp. E1-3 (Ascomycota_Pleosporales),-1,#000000,normal,1,0
+KAJ4375471.1_5_185,Didymella sp. IMI 355093 (Ascomycota_Pleosporales),-1,#000000,normal,1,0
+XP_033445043.1_5_185,CBS 183.55 (Ascomycota_Pleosporales),-1,#000000,normal,1,0
+KAF3032050.1_5_185,Didymella heteroderae (Ascomycota_Pleosporales),-1,#000000,normal,1,0
+KAJ4988121.1_7_187,Stagonosporopsis vannaccii (Ascomycota_Pleosporales),-1,#000000,normal,1,0
+AHW52310.1_1_113,Mycosphaerella sojae (Ascomycota_Mycosphaerellales),-1,#000000,normal,1,0
+XP_046001975.1_7_186,Boeremia exigua (Ascomycota_Pleosporales),-1,#000000,normal,1,0
+AHW52291.1_1_113,Epicoccum sp. P2-20 (Ascomycota_Pleosporales),-1,#000000,normal,1,0
+KAF3002433.1_7_187,Curvularia kusanoi (Ascomycota_Pleosporales),-1,#000000,normal,1,0
+XP_033561862.1_7_187,Macroventuria anomochaeta (Ascomycota_Pleosporales),-1,#000000,normal,1,0
+KAJ4316227.1_7_187,Neodidymelliopsis sp. IMI 364377 (Ascomycota_Pleosporales),-1,#000000,normal,1,0
+KAF1349467.1_7_187,Lizonia empirigonia (Ascomycota_None),-1,#000000,normal,1,0
+AHW52272.1_1_113,Leptosphaerulina sp. D12-1 (Ascomycota_Pleosporales),-1,#000000,normal,1,0
+KAF9692094.1_7_187,Ascochyta lentis (Ascomycota_Pleosporales),-1,#000000,normal,1,0
+XP_038800493.1_7_176,Ascochyta rabiei (Ascomycota_Pleosporales),-1,#000000,normal,1,0
+KAG8630147.1_6_188,Elsinoe batatas (Ascomycota_Myriangiales),-1,#000000,normal,1,0
+KAF2219472.1_6_188,Elsinoe ampelina (Ascomycota_Myriangiales),-1,#000000,normal,1,0
+KAF4556070.1_6_188,Elsinoe fawcettii (Ascomycota_Myriangiales),-1,#000000,normal,1,0
+PNS21579.1_5_185,Sphaceloma murrayae (Ascomycota_Myriangiales),-1,#000000,normal,1,0
+PSK53818.1_6_185,Elsinoe australis (Ascomycota_Myriangiales),-1,#000000,normal,1,0
+KAF2494012.1_5_189,Lophium mytilinum (Ascomycota_Mytilinidiales),-1,#000000,normal,1,0
+OCK78297.1_9_190,Lepidopterella palustris (Ascomycota_Mytilinidiales),-1,#000000,normal,1,0
+OCL12781.1_4_187,Glonium stellatum (Ascomycota_None),-1,#000000,normal,1,0
+CAG8975004.1_6_187,Hymenoscyphus albidus (Ascomycota_Helotiales),-1,#000000,normal,1,0
+CAG8953758.1_5_187,Chalara fraxinea (Ascomycota_Helotiales),-1,#000000,normal,1,0
+XP_008077238.1_5_187,Glarea lozoyensis (Ascomycota_Helotiales),-1,#000000,normal,1,0
+XP_018065598.1_9_193,Mollisia scopiformis (Ascomycota_Helotiales),-1,#000000,normal,1,0
+KAF4617074.1_8_191,Cudoniella acicularis (Ascomycota_Helotiales),-1,#000000,normal,1,0
+XP_031871257.1_6_189,Venustampulla echinocandica (Ascomycota_Helotiales),-1,#000000,normal,1,0
+TVY71483.1_7_189,Lachnellula suecica (Ascomycota_Helotiales),-1,#000000,normal,1,0
+AHW52317.1_1_115,Lachnellula sp. 01G12_L52 (Ascomycota_Helotiales),-1,#000000,normal,1,0
+TVY40757.1_7_131,Lachnellula subtilissima (Ascomycota_Helotiales),-1,#000000,normal,1,0
+TVY46961.1_6_189,Lachnellula occidentalis (Ascomycota_Helotiales),-1,#000000,normal,1,0
+XP_031001151.1_7_189,Lachnellula hyalina (Ascomycota_Helotiales),-1,#000000,normal,1,0
+TVY56066.1_7_189,Lachnellula cervina (Ascomycota_Helotiales),-1,#000000,normal,1,0
+TVY13372.1_7_189,Lachnellula arida (Ascomycota_Helotiales),-1,#000000,normal,1,0
+TVY85817.1_3_130,Lachnellula willkommii (Ascomycota_Helotiales),-1,#000000,normal,1,0
+KAI9647590.1_12_197,Ciborinia camelliae (Ascomycota_Helotiales),-1,#000000,normal,1,0
+AHW52261.1_1_116,Cryptosporiopsis sp. C27-16 (Ascomycota_Helotiales),-1,#000000,normal,1,0
+KIM97776.1_4_178,Oidiodendron maius (Ascomycota_None),-1,#000000,normal,1,0
+KAG9244716.1_5_188,Calycina marina (Ascomycota_Helotiales),-1,#000000,normal,1,0
+AHW52300.1_1_115,Patellina sp. P10-1 (Ascomycota_None),-1,#000000,normal,1,0
+RFU30056.1_9_192,CBS 233.57 (Ascomycota_None),-1,#000000,normal,1,0
+KAH8820387.1_9_192,Xylogone sp. PMI_703 (Ascomycota_None),-1,#000000,normal,1,0
+KAG0647809.1_7_189,Hyphodiscus hymeniophilus (Ascomycota_Helotiales),-1,#000000,normal,1,0
+KAG4414371.1_7_190,Cadophora malorum (Kidd & Beaumont) W. Gams_ 2000 (Ascomycota_Helotiales),-1,#000000,normal,1,0
+PVH68757.1_7_190,Cadophora sp. DSE1049 (Ascomycota_Helotiales),-1,#000000,normal,1,0
+KAH7398013.1_7_190,Leotiomycetes sp. MPI-SDFR-AT-0126 (Ascomycota_None),-1,#000000,normal,1,0
+KAH9214542.1_2_184,Leptodontidium sp. 2 PMI_412 (Ascomycota_Helotiales),-1,#000000,normal,1,0
+KAJ5042143.1_8_192,BPI 402970 (Ascomycota_Helotiales),-1,#000000,normal,1,0
+XP_007289348.1_1_167,BPI 402970 (Ascomycota_Helotiales),-1,#000000,normal,1,0
+KAI9052819.1_8_192,BPI 402970 (Ascomycota_Helotiales),-1,#000000,normal,1,0
+OWP03006.1_7_190,Marssonina coronariae (Ascomycota_Helotiales),-1,#000000,normal,1,0
+KAI6709736.1_13_148,Diplocarpon mali (Ascomycota_Helotiales),-1,#000000,normal,1,0
+ELR03609.1_8_136,Pseudogymnoascus destructans (Ascomycota_None),-1,#000000,normal,1,0
+OBT78652.1_8_189,Pseudogymnoascus sp. 05NY08 (Ascomycota_None),-1,#000000,normal,1,0
+OBT81851.1_8_189,Pseudogymnoascus sp. 03VT05 (Ascomycota_None),-1,#000000,normal,1,0
+OBT41744.1_8_189,Pseudogymnoascus sp. WSF 3629 (Ascomycota_None),-1,#000000,normal,1,0
+KFY73326.1_8_189,Pseudogymnoascus sp. VKM F-103 (Ascomycota_None),-1,#000000,normal,1,0
+XP_018129577.1_8_189,Pseudogymnoascus verrucosus (Ascomycota_None),-1,#000000,normal,1,0
+OBT54179.1_8_189,Pseudogymnoascus sp. 24MN13 (Ascomycota_None),-1,#000000,normal,1,0
+KFY46015.1_19_199,Pseudogymnoascus sp. VKM F-4514 (FW-929) (Ascomycota_None),-1,#000000,normal,1,0
+KFY59844.1_9_189,Pseudogymnoascus sp. VKM F-4516 (FW-969) (Ascomycota_None),-1,#000000,normal,1,0
+KFX99036.1_9_172,Pseudogymnoascus sp. VKM F-3557 (Ascomycota_None),-1,#000000,normal,1,0
+KFZ16307.1_8_189,Pseudogymnoascus sp. VKM F-4520 (FW-2644) (Ascomycota_None),-1,#000000,normal,1,0
+OBT68825.1_8_189,Pseudogymnoascus sp. 23342-1-I1 (Ascomycota_None),-1,#000000,normal,1,0
+KFY39737.1_8_168,Pseudogymnoascus sp. VKM F-4513 (FW-928) (Ascomycota_None),-1,#000000,normal,1,0
+KFY56256.1_8_189,Pseudogymnoascus sp. VKM F-4515 (FW-2607) (Ascomycota_None),-1,#000000,normal,1,0
+KFY31178.1_24_205,Pseudogymnoascus sp. VKM F-4281 (FW-2241) (Ascomycota_None),-1,#000000,normal,1,0
+KFY25809.1_7_147,Pseudogymnoascus sp. VKM F-3775 (Ascomycota_None),-1,#000000,normal,1,0
+CZS89171.1_5_186,Rhynchosporium commune (Ascomycota_Helotiales),-1,#000000,normal,1,0
+CZT00466.1_5_186,Rhynchosporium agropyri (Ascomycota_Helotiales),-1,#000000,normal,1,0
+CZT45755.1_5_186,Rhynchosporium secalis (Ascomycota_Helotiales),-1,#000000,normal,1,0
+KAH6665446.1_5_188,Halenospora varia (Ascomycota_Helotiales),-1,#000000,normal,1,0
+KAH8655049.1_6_188,Hymenoscyphus varicosporioides (Ascomycota_Helotiales),-1,#000000,normal,1,0
+KAJ3115693.1_4_188,Physocladia obscura (Chytridiomycota_Chytridiales),-1,#000000,normal,1,0
+EMR88707.1_7_191,Botryotinia fuckeliana (Ascomycota_Helotiales),-1,#000000,normal,1,0
+XP_001547700.1_7_191,Botryotinia fuckeliana (Ascomycota_Helotiales),-1,#000000,normal,1,0
+AHW52314.1_1_117,Botryotinia fuckeliana (Ascomycota_Helotiales),-1,#000000,normal,1,0
+TEY65574.1_7_191,Botryotinia calthae (Ascomycota_Helotiales),-1,#000000,normal,1,0
+KAF7948037.1_7_191,Botrytis aclada (Ascomycota_Helotiales),-1,#000000,normal,1,0
+XP_038804554.1_7_191,Botrytis deweyae (Ascomycota_Helotiales),-1,#000000,normal,1,0
+KAF7915141.1_7_191,Botrytis elliptica (Ascomycota_Helotiales),-1,#000000,normal,1,0
+XP_038754221.1_7_191,Botrytis sinoallii (Ascomycota_Helotiales),-1,#000000,normal,1,0
+TGO22587.1_7_191,Botrytis paeoniae (Ascomycota_Helotiales),-1,#000000,normal,1,0
+XP_037191774.1_7_191,Botrytis fragariae (Ascomycota_Helotiales),-1,#000000,normal,1,0
+ESZ97378.1_7_191,Sclerotinia borealis (Ascomycota_Helotiales),-1,#000000,normal,1,0
+TGO56172.1_7_191,Botryotinia convoluta (Ascomycota_Helotiales),-1,#000000,normal,1,0
+THV48093.1_7_191,Botrytis galanthina (Ascomycota_Helotiales),-1,#000000,normal,1,0
+TGO33806.1_7_191,Botrytis hyacinthi (Ascomycota_Helotiales),-1,#000000,normal,1,0
+XP_038727737.1_7_191,Botrytis byssoidea (Ascomycota_Helotiales),-1,#000000,normal,1,0
+TGO08363.1_7_191,Botrytis tulipae (Ascomycota_Helotiales),-1,#000000,normal,1,0
+TGO50713.1_7_191,Botryotinia narcissicola (Ascomycota_Helotiales),-1,#000000,normal,1,0
+TGO81021.1_7_191,Botrytis porri (Ascomycota_Helotiales),-1,#000000,normal,1,0
+KAF7886014.1_7_191,Botryotinia globosa (Ascomycota_Helotiales),-1,#000000,normal,1,0
+KAB8298213.1_3_187,Monilinia laxa (Ascomycota_Helotiales),-1,#000000,normal,1,0
+KAG4026005.1_7_191,Monilinia fructicola (Ascomycota_Helotiales),-1,#000000,normal,1,0
+RAL58687.1_7_191,Monilinia fructigena (Ascomycota_Helotiales),-1,#000000,normal,1,0
+XP_001585291.1_6_191,Sclerotinia sclerotiorum (Ascomycota_Helotiales),-1,#000000,normal,1,0
+AHW52298.1_1_117,Sclerotinia sclerotiorum (Ascomycota_Helotiales),-1,#000000,normal,1,0
+KAJ8060144.1_7_191,Sclerotinia nivalis (Ascomycota_Helotiales),-1,#000000,normal,1,0
+QSZ34435.1_7_190,Monilinia vaccinii-corymbosi (Ascomycota_Helotiales),-1,#000000,normal,1,0
+KAF7870017.1_7_191,Stromatinia cepivora (Ascomycota_Helotiales),-1,#000000,normal,1,0
+CAD6446395.1_7_191,Sclerotinia trifoliorum (Ascomycota_Helotiales),-1,#000000,normal,1,0
+PQE03595.1_6_189,Rutstroemia sp. NJR-2017a BBW (Ascomycota_Helotiales),-1,#000000,normal,1,0
+PQE16309.1_6_189,Rutstroemia sp. NJR-2017a WRK4 (Ascomycota_Helotiales),-1,#000000,normal,1,0
+PQE26611.1_101_284,Rutstroemia sp. NJR-2017a BVV2 (Ascomycota_Helotiales),-1,#000000,normal,1,0
+KAH8789529.1_7_189,Hyaloscypha sp. PMI_1271 (Ascomycota_Helotiales),-1,#000000,normal,1,0
+XP_024727214.1_7_189,Hyaloscypha bicolor (Ascomycota_Helotiales),-1,#000000,normal,1,0
+KAE9363500.1_6_189,Chalara longipes (Preuss) Cooke_ 1881 (Ascomycota_Helotiales),-1,#000000,normal,1,0
+PMD47389.1_7_189,Hyaloscypha variabilis (Ascomycota_Helotiales),-1,#000000,normal,1,0
+PMD23167.1_7_189,Hyaloscypha hepaticicola (Ascomycota_Helotiales),-1,#000000,normal,1,0
+KAG4443746.1_7_189,Cadophora sp. M221 (Ascomycota_Helotiales),-1,#000000,normal,1,0
+KAH6716909.1_7_189,Leptodontidium sp. MPI-SDFR-AT-0119 (Ascomycota_Helotiales),-1,#000000,normal,1,0
+KAH7314077.1_7_189,Rhexocercosporidium sp. MPI-PUGE-AT-0058 (Ascomycota_Helotiales),-1,#000000,normal,1,0
+AHW52313.1_1_115,Cryptosporiopsis sp. T6-1 (Ascomycota_Helotiales),-1,#000000,normal,1,0
+RDW82314.1_6_188,Coleophoma cylindrospora (Desm.) Hohn._ 1919 (Ascomycota_Helotiales),-1,#000000,normal,1,0
+RDW75644.1_6_188,Coleophoma crateriformis (Ascomycota_Helotiales),-1,#000000,normal,1,0
+AHW52265.1_1_115,Cylindrosporium sp. C14-3 (Ascomycota_Helotiales),-1,#000000,normal,1,0
+CZR62396.1_7_189,Phialocephala subalpina (Ascomycota_Helotiales),-1,#000000,normal,1,0
+KAF8863220.1_1_172,Acephala macrosclerotiorum (Ascomycota_Helotiales),-1,#000000,normal,1,0
+KAE8450566.1_7_189,Helotiales sp. DMI_Dod_QoI (Ascomycota_Helotiales),-1,#000000,normal,1,0
+AHW52304.1_1_115,Gremmeniella pinicola (Ascomycota_Helotiales),-1,#000000,normal,1,0
+KAH8758866.1_9_190,Hyaloscypha finlandica (Ascomycota_Helotiales),-1,#000000,normal,1,0
+KAE9980778.1_10_189,CBS 120627 (Ascomycota_Venturiales),-1,#000000,normal,1,0
+QDS72490.1_10_189,Venturia effusa (Ascomycota_Venturiales),-1,#000000,normal,1,0
+TID13246.1_10_189,Venturia nashicola (Ascomycota_Venturiales),-1,#000000,normal,1,0
+AHW52297.1_1_112,Rhizina undulata (Ascomycota_Pezizales),-1,#000000,normal,1,0
+KAI4734370.1_7_185,Aureobasidium sp. EXF-12298 (Ascomycota_Dothideales),-1,#000000,normal,1,0
+KAI4752270.1_7_185,Aureobasidium sp. EXF-12344 (Ascomycota_Dothideales),-1,#000000,normal,1,0
+KAH0004496.1_7_185,Aureobasidium melanogenum (Ascomycota_Dothideales),-1,#000000,normal,1,0
+XP_040877192.1_7_185,Aureobasidium melanogenum (Ascomycota_Dothideales),-1,#000000,normal,1,0
+CAD0101116.1_7_185,Aureobasidium mustum (Ascomycota_Dothideales),-1,#000000,normal,1,0
+KAI4715426.1_7_204,Aureobasidium sp. EXF-10727 (Ascomycota_Dothideales),-1,#000000,normal,1,0
+KAI4731297.1_7_204,Aureobasidium sp. EXF-10728 (Ascomycota_Dothideales),-1,#000000,normal,1,0
+CAD0115322.1_11_189,Aureobasidium uvarum (Ascomycota_Dothideales),-1,#000000,normal,1,0
+CAD0087914.1_27_186,Aureobasidium vineae (Ascomycota_Dothideales),-1,#000000,normal,1,0
+XP_013428725.1_7_185,Aureobasidium namibiae (Ascomycota_Dothideales),-1,#000000,normal,1,0
+KAI5248054.1_7_185,Aureobasidium subglaciale (Ascomycota_Dothideales),-1,#000000,normal,1,0
+XP_013346692.1_7_185,Aureobasidium subglaciale (Ascomycota_Dothideales),-1,#000000,normal,1,0
+KAI4849004.1_7_184,Aureobasidium sp. EXF-8845 (Ascomycota_Dothideales),-1,#000000,normal,1,0
+THW16684.1_7_185,Aureobasidium pullulans (Ascomycota_Dothideales),-1,#000000,normal,1,0
+XP_029763121.1_7_185,Aureobasidium pullulans (Ascomycota_Dothideales),-1,#000000,normal,1,0
+AHW52269.1_1_111,Davidiella sp. C7-7 (Ascomycota_Cladosporiales),-1,#000000,normal,1,0
+OQO02058.1_8_188,Rachicladosporium antarcticum (Ascomycota_Cladosporiales),-1,#000000,normal,1,0
+EME46279.1_3_181,Dothistroma septosporum (Ascomycota_Mycosphaerellales),-1,#000000,normal,1,0
+AQA29337.1_6_184,Fulvia fulva (Ascomycota_Mycosphaerellales),-1,#000000,normal,1,0
+TKA77936.1_8_188,Friedmanniomyces simplex (Ascomycota_Mycosphaerellales),-1,#000000,normal,1,0
+TKA46793.1_8_189,Friedmanniomyces endolithicus (Ascomycota_Mycosphaerellales),-1,#000000,normal,1,0
+KAI9729268.1_9_189,Cirrosporium novae-zelandiae (Ascomycota_Xylobotryales),-1,#000000,normal,1,0
+TKA33350.1_7_187,Salinomyces thailandica (Ascomycota_Mycosphaerellales),-1,#000000,normal,1,0
+KXL46237.1_7_187,Acidomyces sp. 'richmondensis' (Ascomycota_Mycosphaerellales),-1,#000000,normal,1,0
+KAI7085291.1_7_187,Hortaea werneckii (Ascomycota_Mycosphaerellales),-1,#000000,normal,1,0
+KAF2770202.1_7_187,Teratosphaeria nubilosa (Ascomycota_Mycosphaerellales),-1,#000000,normal,1,0
+KAH9826284.1_7_187,Teratosphaeria destructans (Ascomycota_Mycosphaerellales),-1,#000000,normal,1,0
+KAI9787368.1_9_189,Candelina submexicana (Ascomycota_Candelariales),-1,#000000,normal,1,0
+KAI9705943.1_9_189,Candelina mexicana (Ascomycota_Candelariales),-1,#000000,normal,1,0
+KAI9719454.1_9_189,Candelaria pacifica (Ascomycota_Candelariales),-1,#000000,normal,1,0
+MCJ1361767.1_9_188,Acarospora aff. strigata (Ascomycota_Acarosporales),-1,#000000,normal,1,0
+KAI9879153.1_9_192,Pleopsidium flavum (Ascomycota_Acarosporales),-1,#000000,normal,1,0
+KAI9682265.1_6_186,Caeruleum heppii (Ascomycota_Acarosporales),-1,#000000,normal,1,0
+KAI9892692.1_1_134,Vezdaea aestivalis (Ascomycota_Vezdaeales),-1,#000000,normal,1,0
+KAI9752226.1_3_185,Chaenotheca gracillima (Ascomycota_Coniocybales),-1,#000000,normal,1,0
+GAM83105.1_6_190,fungal sp. No.11243 (Opisthokonta_None),-1,#000000,normal,1,0
+KAF2155268.1_6_189,Myriangium duriaei (Ascomycota_Myriangiales),-1,#000000,normal,1,0
+KAI9855875.1_10_190,Vezdaea acicularis (Ascomycota_Vezdaeales),-1,#000000,normal,1,0
+KAI4280053.1_11_175,Caloplaca aegaea (Ascomycota_Teloschistales),-1,#000000,normal,1,0
+KAI4143620.1_11_175,Variospora aurantia (Ascomycota_Teloschistales),-1,#000000,normal,1,0
+KAI4088262.1_1_137,Seirophora lacunosa (Ascomycota_Teloschistales),-1,#000000,normal,1,0
+KAI4113001.1_8_186,Seirophora villosa (Ascomycota_Teloschistales),-1,#000000,normal,1,0
+KAI4161181.1_1_105,Letrouitia transgressa (Ascomycota_Teloschistales),-1,#000000,normal,1,0
+KAI4259410.1_14_162,Xanthoria sp. 1 TBL-2021 (Ascomycota_Teloschistales),-1,#000000,normal,1,0
+KAI4098462.1_10_187,Xanthoria mediterranea (Ascomycota_Teloschistales),-1,#000000,normal,1,0
+KAI4225403.1_10_187,Xanthoria steineri (Ascomycota_Teloschistales),-1,#000000,normal,1,0
+KAI4240206.1_10_186,Xanthomendoza cf. fulva (Ascomycota_Teloschistales),-1,#000000,normal,1,0
+KAI4187138.1_2_139,Letrouitia leprolyta (Ascomycota_Teloschistales),-1,#000000,normal,1,0
+KAI4096778.1_178_349,Teloschistes peruensis (Ascomycota_Teloschistales),-1,#000000,normal,1,0
+KAI4119250.1_3_156,Usnochroma carphineum (Ascomycota_Teloschistales),-1,#000000,normal,1,0
+XP_037164375.1_1_138,Letharia columbiana (Ascomycota_Lecanorales),-1,#000000,normal,1,0
+XP_037155118.1_1_138,Letharia lupina (Ascomycota_Lecanorales),-1,#000000,normal,1,0
+CAF9911012.1_7_182,Alectoria fallacina (Ascomycota_Lecanorales),-1,#000000,normal,1,0
+CAF9919285.1_8_181,Imshaugia aleurites (Ascomycota_Lecanorales),-1,#000000,normal,1,0
+MCJ1452051.1_9_182,Mycoblastus sanguinarius (Ascomycota_Lecanorales),-1,#000000,normal,1,0
+MCJ1330022.1_5_180,Thelotrema lepadinum (Ascomycota_Ostropales),-1,#000000,normal,1,0
+MCJ1309773.1_9_186,Agyrium rufum (Ascomycota_Pertusariales),-1,#000000,normal,1,0
+MCJ1237816.1_9_186,Varicellaria rhodocarpa (Ascomycota_Pertusariales),-1,#000000,normal,1,0
+MCJ1253684.1_9_184,Lignoscripta atroalba (Ascomycota_Trapeliales),-1,#000000,normal,1,0
+MCJ1372683.1_8_182,Loxospora ochrophaea (Ascomycota_Sarrameanales),-1,#000000,normal,1,0
+MCJ1300738.1_9_184,Hypocenomyce scalaris (Ascomycota_Umbilicariales),-1,#000000,normal,1,0
+MCJ1484261.1_9_183,Schaereria dolodes (Ascomycota_Sarrameanales),-1,#000000,normal,1,0
+MCJ1339278.1_8_184,Bachmanniomyces sp. S44760 (Ascomycota_None),-1,#000000,normal,1,0
+MCJ1245963.1_8_185,Trapelia coarctata (Ascomycota_Trapeliales),-1,#000000,normal,1,0
+CAF9925014.1_9_183,Heterodermia speciosa (Ascomycota_Caliciales),-1,#000000,normal,1,0
+KAG7001494.1_6_181,Physcia stellaris (Ascomycota_Caliciales),-1,#000000,normal,1,0
+SMY28618.1_10_190,Zymoseptoria tritici (Ascomycota_Mycosphaerellales),-1,#000000,normal,1,0
+SMQ54963.1_10_190,Zymoseptoria tritici (Ascomycota_Mycosphaerellales),-1,#000000,normal,1,0
+XP_003849012.1_9_190,Zymoseptoria tritici (Ascomycota_Mycosphaerellales),-1,#000000,normal,1,0
+SMR63238.1_9_190,Zymoseptoria tritici (Ascomycota_Mycosphaerellales),-1,#000000,normal,1,0
+KJX97449.1_13_193,Zymoseptoria brevis (Ascomycota_Mycosphaerellales),-1,#000000,normal,1,0
+XP_023626840.1_14_197,Ramularia collo-cygni (Ascomycota_Mycosphaerellales),-1,#000000,normal,1,0
+KAI5367782.1_9_190,Septoria linicola (Ascomycota_Mycosphaerellales),-1,#000000,normal,1,0
+KAI0321542.1_2_184,Amylostereum chailletii (Basidiomycota_Russulales),-1,#000000,normal,1,0
+TDL17211.1_6_185,Rickenella mellea (Basidiomycota_Hymenochaetales),-1,#000000,normal,1,0
+KAH8105881.1_12_191,Cristinia sonorae (Basidiomycota_Agaricales),-1,#000000,normal,1,0
+KAF8888248.1_4_183,Infundibulicybe gibba (Basidiomycota_Agaricales),-1,#000000,normal,1,0
+GLB35625.1_4_182,Lyophyllum shimeji (Basidiomycota_Agaricales),-1,#000000,normal,1,0
+QYY49566.1_10_189,Athelia rolfsii (Basidiomycota_Atheliales),-1,#000000,normal,1,0
+XP_013329502.1_4_181,Rasamsonia emersonii (Ascomycota_Eurotiales),-1,#000000,normal,1,0
+KAF2454712.1_8_192,Lineolata rhizophorae (Ascomycota_Lineolatales),-1,#000000,normal,1,0
+KAI9835488.1_5_185,Sclerophora amabilis (Ascomycota_Coniocybales),-1,#000000,normal,1,0
+KAH6983901.1_7_187,Ilyonectria destructans (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+RFU80609.1_8_188,Trichoderma arundinaceum (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+KAJ4855438.1_20_161,Trichoderma breve (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+OPB46594.1_7_187,Trichoderma guizhouense (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+XP_024767819.1_8_188,Trichoderma harzianum (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+KAF3076039.1_694_874,Trichoderma lentiforme (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+QYT02752.1_6_187,Trichoderma simmonsii (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+KKP03437.1_6_187,Trichoderma harzianum (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+KAH0526197.1_10_187,Trichoderma semiorbis (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+PHH59629.1_8_188,Ophiocordyceps australis (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+PHH89453.1_6_184,Cordyceps sp. RAO-2017 (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+KZL70579.1_6_187,Colletotrichum incanum (Ascomycota_Glomerellales),-1,#000000,normal,1,0
+XP_008091820.1_7_188,Colletotrichum graminicola (Ascomycota_Glomerellales),-1,#000000,normal,1,0
+KDN71112.1_7_188,Colletotrichum sublineola (Ascomycota_Glomerellales),-1,#000000,normal,1,0
+KAG9232436.1_6_185,Amylocarpus encephaloides (Ascomycota_Helotiales),-1,#000000,normal,1,0
+KAH8588515.1_1_166,Bisporella sp. PMI_857 (Ascomycota_Helotiales),-1,#000000,normal,1,0
+KAH8778524.1_10_190,Diaporthaceae sp. PMI_573 (Ascomycota_Diaporthales),-1,#000000,normal,1,0
+XP_014552470.1_5_185,Bipolaris victoriae (Ascomycota_Pleosporales),-1,#000000,normal,1,0
+AHW52273.1_1_114,Bipolaris oryzae (Ascomycota_Pleosporales),-1,#000000,normal,1,0
+XP_033684425.1_4_185,Trematosphaeria pertusa (Ascomycota_Pleosporales),-1,#000000,normal,1,0
+XP_009229329.1_3_184,Gaeumannomyces tritici (Ascomycota_Magnaporthales),-1,#000000,normal,1,0
+KAF4302414.1_4_181,Botryosphaeria dothidea (Moug. ex Fr.) Ces. & De Not._ 1863 (Ascomycota_Botryosphaeriales),-1,#000000,normal,1,0
+EKG14016.1_5_181,Macrophomina phaseolina (Ascomycota_Botryosphaeriales),-1,#000000,normal,1,0
+EOD48274.1_5_180,Neofusicoccum parvum (Ascomycota_Botryosphaeriales),-1,#000000,normal,1,0
+XP_020130632.1_10_184,Diplodia corticola (Ascomycota_Botryosphaeriales),-1,#000000,normal,1,0
+KKY23095.1_10_197,Diplodia seriata (Ascomycota_Botryosphaeriales),-1,#000000,normal,1,0
+KAB2576271.1_6_179,Lasiodiplodia theobromae (Ascomycota_Botryosphaeriales),-1,#000000,normal,1,0
+AHW52267.1_1_113,Botryosphaeria sp. B1-16 (Ascomycota_Botryosphaeriales),-1,#000000,normal,1,0
+KAI4193649.1_10_188,Caloplaca aetnensis (Ascomycota_Teloschistales),-1,#000000,normal,1,0
+KAF2431620.1_8_190,Tothia fuscella (Ascomycota_Venturiales),-1,#000000,normal,1,0
+CDF76464.1_1_150,Malbranchea cinnamomea (Ascomycota_Onygenales),-1,#000000,normal,1,0
+XP_044696358.1_10_188,Morchella sextelata (Ascomycota_Pezizales),-1,#000000,normal,1,0
+XP_045968785.1_10_188,Morchella importuna (Ascomycota_Pezizales),-1,#000000,normal,1,0
+KAI5840509.1_10_188,Morchella snyderi (Ascomycota_Pezizales),-1,#000000,normal,1,0
+KAF8467319.1_77_251,Kalaharituber pfeilii (Ascomycota_Pezizales),-1,#000000,normal,1,0
+RPA81050.1_57_234,Ascobolus immersus (Ascomycota_Pezizales),-1,#000000,normal,1,0
+XP_002841750.1_3_177,Tuber melanosporum (Ascomycota_Pezizales),-1,#000000,normal,1,0
+KAG0129309.1_3_182,Tuber indicum (Ascomycota_Pezizales),-1,#000000,normal,1,0
+KAG0643345.1_3_182,Tuber brumale (Ascomycota_Pezizales),-1,#000000,normal,1,0
+RPA93060.1_4_184,Choiromyces venosus (Ascomycota_Pezizales),-1,#000000,normal,1,0
+KAF8251019.1_1_110,Wilcoxina mikolae (Ascomycota_Pezizales),-1,#000000,normal,1,0
+KAA8912010.1_3_195,Sphaerosporella brunnea (Ascomycota_Pezizales),-1,#000000,normal,1,0
+KAF5231364.1_4_181,Fusarium austroamericanum (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+XP_011318609.1_4_181,CBS 136009 (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+QPC68268.1_4_181,Fusarium culmorum (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+AAR02399.1_4_181,CBS 136009 (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+KAF0641168.1_4_181,Fusarium pseudograminearum (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+XP_009251760.1_4_181,Fusarium pseudograminearum (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+XP_044713277.1_4_181,Fusarium poae (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+CAG7556305.1_4_181,Fusarium equiseti (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+KAJ4022147.1_4_181,Fusarium irregulare (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+KAI1071298.1_2_173,Fusarium sp. FIESC RH6 (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+XP_031011127.1_4_181,Fusarium coffeatum (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+XP_045987255.1_4_181,Fusarium flagelliforme (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+RGP78062.1_4_181,Fusarium longipes (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+KAG8351746.1_4_181,Fusarium venenatum (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+RGP62338.1_4_181,Fusarium sporotrichioides (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+KPA44294.1_4_181,Fusarium langsethiae (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+KAF4335093.1_4_181,Fusarium beomiforme (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+EGU73994.1_4_181,Fusarium oxysporum (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+KAF9766769.1_4_181,Fusarium sp. DS 682 (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+KAF4450652.1_4_181,Fusarium austroafricanum (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+XP_046047613.1_4_181,Fusarium redolens (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+KAH7480192.1_4_181,Fusarium oxysporum (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+EMT70567.1_4_181,Foc TR4 (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+XP_031061175.1_50_227,Foc TR4 (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+EWY91908.1_50_227,Fusarium oxysporum (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+KAF6517237.1_4_181,Fusarium oxysporum (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+PCD35903.1_4_181,Fusarium oxysporum (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+XP_031040825.2_4_181,Fusarium oxysporum (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+TVY66822.1_4_181,Fusarium oxysporum (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+XP_018248487.1_50_227,Fusarium oxysporum (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+KAI3584366.1_4_181,Fusarium oxysporum (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+EXA46150.1_50_227,Fusarium oxysporum (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+RKK85689.1_4_181,Fusarium oxysporum (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+KAF4956654.1_4_181,Fusarium gaditjirri (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+KAF4499260.1_4_181,Fusarium agapanthi (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+KAF5724376.1_4_181,Fusarium mundagurra (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+KAF5634618.1_4_181,Fusarium sp. NRRL 52700 (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+KAF5241761.1_4_181,CBS 222.76 (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+KAF5679290.1_4_181,Fusarium circinatum (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+XP_036544226.1_4_181,Fusarium subglutinans (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+KAF5698486.1_35_211,Fusarium globosum (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+XP_041687339.1_4_181,Fusarium mangiferae (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+KLO98617.1_4_181,Fusarium fujikuroi (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+XP_023431139.1_4_181,Fusarium fujikuroi (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+KAI1017213.1_4_181,Fusarium chuoi (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+KAF5626756.1_4_181,Fusarium sp. NRRL 25303 (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+XP_031087737.1_4_181,Fusarium proliferatum (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+XP_037212176.1_4_181,Fusarium tjaetaba (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+KAF5575978.1_4_181,Fusarium pseudoanthophilum (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+XP_044681294.1_4_181,Fusarium musae (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+XP_018756127.1_4_181,Fusarium moniliforme J. Sheld._ 1904 (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+KAF5531732.1_4_181,Fusarium napiforme (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+PNP61128.1_4_181,Fusarium nygamai (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+KAF5971198.1_4_181,Fusarium coicis (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+KAF4436349.1_4_181,CBS 402.97 (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+KAI1060422.1_4_181,BBA 63629 (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+RKL37157.1_4_181,Fusarium proliferatum (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+KAF5576731.1_4_181,Fusarium pseudocircinatum (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+KAF5544454.1_4_181,Fusarium mexicanum (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+KAG5749828.1_4_181,Fusarium xylarioides (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+KAF5667366.1_4_181,Fusarium denticulatum (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+KAF5564896.1_4_181,Fusarium phyllophilum (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+KAF5978936.1_4_181,Fusarium bulbicola (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+KAH6969181.1_4_181,Fusarium avenaceum (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+KAH7262738.1_4_181,Fusarium tricinctum (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+KAF5679792.1_4_181,Fusarium heterosporum (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+KAF4995370.1_4_181,Fusarium graminum (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+KAJ4247153.1_4_181,Fusarium torreyae (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+KAF4959798.1_4_181,BBA 63714 (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+KAF5026375.1_4_182,Fusarium sp. NRRL 66182 (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+XP_046132090.1_4_181,Fusarium solani (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+KAJ4175147.1_4_181,Fusarium falciforme (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+XP_052912587.1_4_181,Fusarium keratoplasticum (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+AHW52258.1_1_112,Fusarium lateritium (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+KAI8667474.1_4_181,Fusarium sp. Ph1 (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+UPL04152.1_4_181,Fusarium solani-melongenae (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+XP_003044915.1_4_181,Fusarium vanettenii (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+KAI8717995.1_4_181,Fusarium sp. LHS14.1 (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+RSL72289.1_4_181,Fusarium duplospermum (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+KAJ4317684.1_4_181,Fusarium piperis (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+AHW52290.1_1_112,[Neocosmospora] sp. N1-4 (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+RSL81353.1_4_181,Fusarium floridanum (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+RSL63967.1_4_181,Fusarium sp. AF-6 (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+RMJ11951.1_4_181,Fusarium kuroshium (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+RTE75727.1_4_181,Fusarium euwallaceae (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+KAH6962295.1_4_181,Ilyonectria sp. MPI-CAGE-AT-0026 (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+XP_046102115.1_4_181,Ilyonectria robusta (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+KAH7121317.1_4_181,Dactylonectria macrodidyma (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+KAF7543811.1_5_181,Cylindrodendrum hubeiense (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+KAH7142611.1_4_181,Dactylonectria estremocensis (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+AHW52278.1_1_112,Calonectria kyotensis (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+KPM37745.1_4_181,Neonectria ditissima (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+KAF4462900.1_4_179,Fusarium albosuccineum (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+KAF5008016.1_4_179,Fusarium decemcellulare (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+KAH6879884.1_4_180,Thelonectria olida (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+KAF4976437.1_4_179,Fusarium zealandicum (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+CDF76466.1_8_182,Scytalidium indonesiacum (Ascomycota_None),-1,#000000,normal,1,0
+1HD5_A_1_170,Humicola insolens (Ascomycota_Sordariales),-1,#000000,normal,1,0
+CDF76465.1_2_138,Remersonia thermophila (Ascomycota_Sordariales),-1,#000000,normal,1,0
+XP_001226436.1_6_181,CBS 160.62 (Ascomycota_Sordariales),-1,#000000,normal,1,0
+KAJ4294714.1_6_181,Collariella sp. IMI 366227 (Ascomycota_Sordariales),-1,#000000,normal,1,0
+BAG69187.1_6_181,CBS 364.58 (Ascomycota_Sordariales),-1,#000000,normal,1,0
+QCO31627.1_6_181,ATCC 16460 (Ascomycota_Sordariales),-1,#000000,normal,1,0
+CDF76460.1_1_138,Ovatospora senegalensis (Ascomycota_Sordariales),-1,#000000,normal,1,0
+XP_003651003.1_6_183,Thermothielavioides terrestris (Ascomycota_Sordariales),-1,#000000,normal,1,0
+AHW52250.1_1_112,Coniochaeta sp. C31-1 (Ascomycota_Coniochaetales),-1,#000000,normal,1,0
+KAH7635359.1_5_183,Sordaria sp. MPI-SDFR-AT-0083 (Ascomycota_Sordariales),-1,#000000,normal,1,0
+KAJ4392548.1_5_183,Neurospora sp. IMI 360204 (Ascomycota_Sordariales),-1,#000000,normal,1,0
+XP_009853913.1_6_183,Neurospora tetrasperma (Ascomycota_Sordariales),-1,#000000,normal,1,0
+XP_957107.1_6_183,Neurospora crassa (Ascomycota_Sordariales),-1,#000000,normal,1,0
+KAH8177793.1_5_182,Sarocladium implicatum (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+KAH7367677.1_5_181,Plectosphaerella cucumerina (Ascomycota_Glomerellales),-1,#000000,normal,1,0
+KAH6695055.1_5_183,Plectosphaerella plurivora (Ascomycota_Glomerellales),-1,#000000,normal,1,0
+XP_009657563.1_6_183,Verticillium dahliae (Ascomycota_Glomerellales),-1,#000000,normal,1,0
+KAF3359111.1_6_183,Verticillium dahliae (Ascomycota_Glomerellales),-1,#000000,normal,1,0
+KFA46847.1_494_669,Stachybotrys chartarum (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+KFA71932.1_535_710,Stachybotrys chartarum (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+KEY70131.1_9_184,Stachybotrys chartarum (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+KFA60769.1_9_184,Stachybotrys chlorohalonata (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+KAI9162925.1_5_186,Paramyrothecium foliicola (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+KAI9901055.1_6_184,Trichothecium roseum (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+KFH43153.1_4_183,Acremonium chrysogenum (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+XP_051358902.1_7_183,Emericellopsis cladophorae (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+XP_046122691.1_7_183,Emericellopsis atlantica (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+KAH7313760.1_7_158,Stachybotrys elegans (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+KAJ1325916.1_5_183,Microdochium nivale (Ascomycota_Xylariales),-1,#000000,normal,1,0
+KXJ90156.1_5_184,Microdochium bolleyi (Ascomycota_Xylariales),-1,#000000,normal,1,0
+XP_046005894.1_9_187,Microdochium trichocladiopsis (Ascomycota_Xylariales),-1,#000000,normal,1,0
+OAA81489.1_5_183,Akanthomyces lecanii (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+KAJ4164584.1_42_220,Akanthomyces muscarius (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+OAR01515.1_5_178,Akanthomyces lecanii (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+KAJ6785507.1_5_183,Aphanocladium album (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+KAJ3499175.1_5_183,Lecanicillium saksenae (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+XP_008593736.1_42_209,Beauveria bassiana (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+KGQ12157.1_5_183,Beauveria bassiana (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+KAH8717715.1_40_218,Beauveria bassiana (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+OAA45756.1_5_173,Beauveria brongniartii (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+CAH0045141.1_5_182,Clonostachys solani (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+VUC31384.1_4_183,Clonostachys rosea (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+CAG9984071.1_6_183,Clonostachys byssicola (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+CAI6094486.1_5_182,Clonostachys chloroleuca (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+AHW52263.1_1_112,Gliocladium sp. G3-1 (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+CAG9952277.1_6_183,Clonostachys rosea (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+CAH0040990.1_6_183,Clonostachys rhizophaga (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+KAJ6443552.1_4_179,Purpureocillium lavendulum (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+XP_047838798.1_9_186,Purpureocillium takamizusanense (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+XP_018173442.1_4_182,Purpureocillium lilacinum (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+XP_044720225.1_5_182,Hirsutella rhossiliensis (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+XP_018141317.1_23_200,Pochonia chlamydosporia (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+AHW52285.1_1_112,Nectria sp. N24 (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+AHW52279.1_1_112,Nectria cinnabarina (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+KAF7552359.1_6_182,Stylonectria norvegica (Ascomycota_Hypocreales),-1,#000000,normal,1,0
+XP_043022141.1_5_182,Diaporthe citri (Ascomycota_Diaporthales),-1,#000000,normal,1,0
+KAI7788284.1_5_182,Diaporthe eres (Ascomycota_Diaporthales),-1,#000000,normal,1,0
+XP_052996681.1_78_234,Diaporthe amygdali (Ascomycota_Diaporthales),-1,#000000,normal,1,0
+XP_044649131.1_5_183,Diaporthe batatas (Ascomycota_Diaporthales),-1,#000000,normal,1,0
+POS75322.1_5_183,Diaporthe helianthi (Ascomycota_Diaporthales),-1,#000000,normal,1,0
+XP_018156417.1_7_184,Colletotrichum higginsianum (Ascomycota_Glomerellales),-1,#000000,normal,1,0
+KAJ0166483.1_7_184,Colletotrichum tanaceti (Ascomycota_Glomerellales),-1,#000000,normal,1,0
+KKA28018.1_4_179,Thielaviopsis punctulata (Ascomycota_Microascales),-1,#000000,normal,1,0
+KAJ2904499.1_4_181,Zalerion maritima (Ascomycota_Lulworthiales),-1,#000000,normal,1,0
+KAI0189137.1_6_184,Xylaria flabelliformis (Ascomycota_Xylariales),-1,#000000,normal,1,0
+KAI0862048.1_6_184,Xylaria cubensis (Ascomycota_Xylariales),-1,#000000,normal,1,0
+KAI1744974.1_6_183,Xylaria scruposa (Ascomycota_Xylariales),-1,#000000,normal,1,0
+KAI0554375.1_6_183,Xylaria curta (Ascomycota_Xylariales),-1,#000000,normal,1,0
+KAI0453494.1_6_185,Xylaria acuta (Ascomycota_Xylariales),-1,#000000,normal,1,0
+KAI8945307.1_9_186,Xylaria longipes (Ascomycota_Xylariales),-1,#000000,normal,1,0
+KAI1756278.1_7_184,Xylaria castorea (Ascomycota_Xylariales),-1,#000000,normal,1,0
+KAI0446895.1_6_184,Xylaria telfairii (Ascomycota_Xylariales),-1,#000000,normal,1,0
+KAI0468121.1_9_187,Xylaria cf. heliscus (Ascomycota_Xylariales),-1,#000000,normal,1,0
+RWA14015.1_6_186,Xylaria grammica (Ascomycota_Xylariales),-1,#000000,normal,1,0
+GAW13373.1_6_185,Xylariales sp. No.14919 (Ascomycota_Xylariales),-1,#000000,normal,1,0
+KAI0409197.1_7_184,Xylaria palmicola (Ascomycota_Xylariales),-1,#000000,normal,1,0
+KAI0534727.1_6_185,Xylaria digitata (Ascomycota_Xylariales),-1,#000000,normal,1,0
+KAF2964139.1_6_185,Xylaria multiplex (Ascomycota_Xylariales),-1,#000000,normal,1,0
+KAI0388885.1_5_183,Xylariaceae sp. FL0594 (Ascomycota_Xylariales),-1,#000000,normal,1,0
+KAI1813671.1_5_183,Poronia punctata (Ascomycota_Xylariales),-1,#000000,normal,1,0
+KAI1108163.1_6_186,Nemania sp. NC0429 (Ascomycota_Xylariales),-1,#000000,normal,1,0
+KAI1186780.1_8_187,Nemania serpens (Ascomycota_Xylariales),-1,#000000,normal,1,0
+GAP85004.1_7_186,Rosellinia necatrix (Ascomycota_Xylariales),-1,#000000,normal,1,0
+KAI1350010.1_6_186,Xylaria sp. FL0043 (Ascomycota_Xylariales),-1,#000000,normal,1,0
+KAI1274217.1_6_187,Xylaria sp. FL0933 (Ascomycota_Xylariales),-1,#000000,normal,1,0
+KAI0813711.1_6_185,Xylaria sp. FL0064 (Ascomycota_Xylariales),-1,#000000,normal,1,0
+KAI1359798.1_6_187,Xylaria arbuscula (Ascomycota_Xylariales),-1,#000000,normal,1,0
+KAI0427468.1_5_182,Xylaria sp. FL1042 (Ascomycota_Xylariales),-1,#000000,normal,1,0
+KAI1424229.1_6_185,Xylaria sp. FL1777 (Ascomycota_Xylariales),-1,#000000,normal,1,0
+KAI1129786.1_8_187,Nemania abortiva (Ascomycota_Xylariales),-1,#000000,normal,1,0
+KAI0116541.1_9_188,Nemania sp. FL0031 (Ascomycota_Xylariales),-1,#000000,normal,1,0
+KAI0876162.1_7_186,Hypoxylon argillaceum (Ascomycota_Xylariales),-1,#000000,normal,1,0
+KAI3331024.1_7_185,Kretzschmaria deusta (Hoffm.) P.M.D. Martin_ 1970 (Ascomycota_Xylariales),-1,#000000,normal,1,0
+KAI1174793.1_9_187,Nemania sp. FL0916 (Ascomycota_Xylariales),-1,#000000,normal,1,0
+KAI1302869.1_6_186,Xylaria venustula (Ascomycota_Xylariales),-1,#000000,normal,1,0
+KAI1819551.1_6_185,Xylaria intraflava (Ascomycota_Xylariales),-1,#000000,normal,1,0
+KAI2631277.1_7_185,Xylaria nigripes (Ascomycota_Xylariales),-1,#000000,normal,1,0
+KAH9904352.1_10_188,Xylariomycetidae sp. FL2044 (Ascomycota_None),-1,#000000,normal,1,0
+KAI3318595.1_7_185,Xylariaceae sp. AK1471 (Ascomycota_Xylariales),-1,#000000,normal,1,0
+KAI1438071.1_6_185,Xylaria sp. CBS 124048 (Ascomycota_Xylariales),-1,#000000,normal,1,0
+KAI8631565.1_6_185,Xylariaceae sp. FL1651 (Ascomycota_Xylariales),-1,#000000,normal,1,0
+KAI0602494.1_8_185,Biscogniauxia sp. FL1348 (Ascomycota_Xylariales),-1,#000000,normal,1,0
+KAI1494230.1_12_191,Biscogniauxia mediterranea (Ascomycota_Xylariales),-1,#000000,normal,1,0
+KAI5923034.1_5_181,Camillea tinctor (Ascomycota_Xylariales),-1,#000000,normal,1,0
+KAI1498025.1_8_186,Biscogniauxia marginata (Ascomycota_Xylariales),-1,#000000,normal,1,0
+KAI1344544.1_4_182,Xylariaceae sp. FL0016 (Ascomycota_Xylariales),-1,#000000,normal,1,0
+KAI0024050.1_5_183,Xylariomycetidae sp. FL0641 (Ascomycota_None),-1,#000000,normal,1,0
+KAI0475274.1_7_191,Xylariaceae sp. FL0804 (Ascomycota_Xylariales),-1,#000000,normal,1,0
+AHW52289.1_1_112,Monochaetia monochaeta (Ascomycota_Xylariales),-1,#000000,normal,1,0
+KAH8194660.1_7_184,Truncatella angustata (Ascomycota_Xylariales),-1,#000000,normal,1,0
+AHW52282.1_1_112,Bartalinia robillardoides (Ascomycota_Xylariales),-1,#000000,normal,1,0
+KAI0134192.1_7_184,Xylariales sp. AK1849 (Ascomycota_Xylariales),-1,#000000,normal,1,0
+CAI4215018.1_5_185,Parascedosporium putredinis (Ascomycota_Microascales),-1,#000000,normal,1,0
+XP_049169938.1_6_184,Neoarthrinium moseri (Ascomycota_None),-1,#000000,normal,1,0
+AHW52293.1_1_112,Truncatella sp. T10-3 (Ascomycota_Xylariales),-1,#000000,normal,1,0
+KAF7542110.1_6_190,Neopestalotiopsis clavispora (Ascomycota_Xylariales),-1,#000000,normal,1,0
+AHW52312.1_1_112,Pestalotiopsis glandicola (Ascomycota_Xylariales),-1,#000000,normal,1,0
+XP_007840161.1_6_184,Pestalotiopsis fici (Ascomycota_Xylariales),-1,#000000,normal,1,0
+KAI4595903.1_6_184,Pestalotiopsis sp. 9143b (Ascomycota_Xylariales),-1,#000000,normal,1,0
+KAI0170599.1_6_184,Pestalotiopsis sp. NC0098 (Ascomycota_Xylariales),-1,#000000,normal,1,0
+AHW52276.1_1_112,Pestalotiopsis sp. L4-1 (Ascomycota_Xylariales),-1,#000000,normal,1,0
+XP_040710679.1_5_184,Pseudomassariella vexata (Ascomycota_Xylariales),-1,#000000,normal,1,0
+KUI72492.1_7_188,Valsa mali (Ascomycota_Diaporthales),-1,#000000,normal,1,0
+ROV93494.1_6_188,Valsa sordida (Ascomycota_Diaporthales),-1,#000000,normal,1,0
+RYO84965.1_5_183,Monosporascus cannonballus (Ascomycota_Xylariales),-1,#000000,normal,1,0
+RYP12251.1_5_183,Monosporascus sp. GIB2 (Ascomycota_Xylariales),-1,#000000,normal,1,0
+RYP74908.1_5_183,Monosporascus sp. 5C6A (Ascomycota_Xylariales),-1,#000000,normal,1,0
+RYP40824.1_6_183,Monosporascus sp. CRB-8-3 (Ascomycota_Xylariales),-1,#000000,normal,1,0
+RYP39275.1_6_183,Monosporascus sp. MG133 (Ascomycota_Xylariales),-1,#000000,normal,1,0
+RYP04828.1_6_183,Monosporascus ibericus (Ascomycota_Xylariales),-1,#000000,normal,1,0
+RYP68385.1_6_183,Monosporascus sp. CRB-9-2 (Ascomycota_Xylariales),-1,#000000,normal,1,0
+RYP51326.1_6_183,Monosporascus sp. mg162 (Ascomycota_Xylariales),-1,#000000,normal,1,0
+EMR62673.1_5_181,Eutypa lata (Ascomycota_Xylariales),-1,#000000,normal,1,0
+KAF5367134.1_2_179,Tetrapyrgos nigripes (Basidiomycota_Agaricales),-1,#000000,normal,1,0
+TFK99649.1_6_184,Pterula gracilis (Basidiomycota_Agaricales),-1,#000000,normal,1,0
+THU84955.1_2_179,Dendrothele bispora (Basidiomycota_Agaricales),-1,#000000,normal,1,0
+EEB93859.1_1_153,Moniliophthora perniciosa (Basidiomycota_Agaricales),-1,#000000,normal,1,0
+ESK85518.1_3_179,Moniliophthora roreri (Basidiomycota_Agaricales),-1,#000000,normal,1,0
+KAI3610865.1_4_156,Moniliophthora roreri (Basidiomycota_Agaricales),-1,#000000,normal,1,0
+KAJ8088809.1_4_180,Marasmius tenuissimus (Basidiomycota_Agaricales),-1,#000000,normal,1,0
+KAF9261977.1_4_180,Marasmius fiardii (Basidiomycota_Agaricales),-1,#000000,normal,1,0
+XP_043007043.1_14_190,Marasmius oreades (Basidiomycota_Agaricales),-1,#000000,normal,1,0
+KAI4517086.1_4_182,Schizophyllum commune (Basidiomycota_Agaricales),-1,#000000,normal,1,0
+XP_003028771.1_5_182,Schizophyllum commune (Basidiomycota_Agaricales),-1,#000000,normal,1,0
+TRM59540.1_1_160,Auriculariopsis ampla (Basidiomycota_Agaricales),-1,#000000,normal,1,0
+KAF9024241.1_7_183,Hymenopellis radicata (Basidiomycota_Agaricales),-1,#000000,normal,1,0
+KAF8918588.1_4_182,Mucidula mucida (Basidiomycota_Agaricales),-1,#000000,normal,1,0
+KAJ8453483.1_4_180,Pleurotus djamor (Basidiomycota_Agaricales),-1,#000000,normal,1,0
+KDQ31420.1_4_189,Agaricus ostreatus Jacq._ 1774 (Basidiomycota_Agaricales),-1,#000000,normal,1,0
+KAG9222219.1_4_184,Pleurotus cornucopiae (Basidiomycota_Agaricales),-1,#000000,normal,1,0
+XP_036634094.1_4_184,Agaricus ostreatus Jacq._ 1774 (Basidiomycota_Agaricales),-1,#000000,normal,1,0
+KAF9488663.1_4_180,Pleurotus eryngii (Basidiomycota_Agaricales),-1,#000000,normal,1,0
+KAF4573503.1_4_180,Agaricus pulmonarius Fr._ 1821 (Basidiomycota_Agaricales),-1,#000000,normal,1,0
+KAH8822753.1_3_180,Flagelloscypha sp. PMI_526 (Basidiomycota_Agaricales),-1,#000000,normal,1,0
+EJD43894.1_4_183,Auricularia subglabra (Basidiomycota_Auriculariales),-1,#000000,normal,1,0
+KZW03707.1_8_187,Exidia glandulosa (Basidiomycota_Auriculariales),-1,#000000,normal,1,0
+KAH7100005.1_3_181,Auriculariales sp. MPI-PUGE-AT-0066 (Basidiomycota_Auriculariales),-1,#000000,normal,1,0
+KAG8778112.1_3_181,Serendipita sp. 397 (Basidiomycota_Sebacinales),-1,#000000,normal,1,0
+KAG9052898.1_49_227,Serendipita sp. 407 (Basidiomycota_Sebacinales),-1,#000000,normal,1,0
+KAG8812632.1_3_181,Serendipita sp. 400 (Basidiomycota_Sebacinales),-1,#000000,normal,1,0
+KAG8752271.1_3_181,Serendipita sp. 396 (Basidiomycota_Sebacinales),-1,#000000,normal,1,0
+KAG8799220.1_1_140,Serendipita sp. 399 (Basidiomycota_Sebacinales),-1,#000000,normal,1,0
+KAG8794664.1_5_180,Serendipita sp. 398 (Basidiomycota_Sebacinales),-1,#000000,normal,1,0
+KAG8819364.1_5_180,Serendipita sp. 401 (Basidiomycota_Sebacinales),-1,#000000,normal,1,0
+KAG8849485.1_1_126,Serendipita sp. 411 (Basidiomycota_Sebacinales),-1,#000000,normal,1,0
+CAG7852763.1_8_184,Serendipita indica (Basidiomycota_Sebacinales),-1,#000000,normal,1,0
+PVF93133.1_8_186,Serendipita vermifera (Basidiomycota_Sebacinales),-1,#000000,normal,1,0
+KIM33299.1_10_188,Serendipita vermifera (Basidiomycota_Sebacinales),-1,#000000,normal,1,0
+KIY72938.1_5_181,Cylindrobasidium torrendii (Basidiomycota_Agaricales),-1,#000000,normal,1,0
+KAG9087047.1_7_186,Ceratobasidium sp. UAMH 11750 (Basidiomycota_Cantharellales),-1,#000000,normal,1,0
+KAG8708833.1_7_186,Ceratobasidium sp. 394 (Basidiomycota_Cantharellales),-1,#000000,normal,1,0
+KAG8736581.1_7_186,Ceratobasidium sp. 414 (Basidiomycota_Cantharellales),-1,#000000,normal,1,0
+KAG9085410.1_7_195,Ceratobasidium sp. 370 (Basidiomycota_Cantharellales),-1,#000000,normal,1,0
+KAG8682751.1_7_186,Ceratobasidium sp. 395 (Basidiomycota_Cantharellales),-1,#000000,normal,1,0
+KAG8791365.1_37_216,Ceratobasidium sp. 428 (Basidiomycota_Cantharellales),-1,#000000,normal,1,0
+QRV85206.1_7_185,Ceratobasidium sp. AG-Ba (Basidiomycota_Cantharellales),-1,#000000,normal,1,0
+KAG9120762.1_7_184,Ceratobasidium sp. 392 (Basidiomycota_Cantharellales),-1,#000000,normal,1,0
+ELU42759.1_14_124,Rhizoctonia solani (Basidiomycota_Cantharellales),-1,#000000,normal,1,0
+EUC59305.1_6_186,Rhizoctonia solani (Basidiomycota_Cantharellales),-1,#000000,normal,1,0
+KAG8713224.1_6_147,Ceratobasidium sp. 423 (Basidiomycota_Cantharellales),-1,#000000,normal,1,0
+CEL58598.1_18_198,Rhizoctonia solani (Basidiomycota_Cantharellales),-1,#000000,normal,1,0
+CUA71157.1_27_204,Rhizoctonia solani (Basidiomycota_Cantharellales),-1,#000000,normal,1,0
+KEP48349.1_4_184,Rhizoctonia solani (Basidiomycota_Cantharellales),-1,#000000,normal,1,0
+KAF8597452.1_4_184,Ceratobasidium sp. AG-I (Basidiomycota_Cantharellales),-1,#000000,normal,1,0
+KAB5589689.1_4_186,Ceratobasidium theobromae (Basidiomycota_Cantharellales),-1,#000000,normal,1,0
+KIO34078.1_5_186,Tulasnella calospora (Basidiomycota_Cantharellales),-1,#000000,normal,1,0
+KAG8932837.1_6_186,Tulasnella sp. 417 (Basidiomycota_Cantharellales),-1,#000000,normal,1,0
+KAG8951825.1_5_186,Tulasnella sp. 424 (Basidiomycota_Cantharellales),-1,#000000,normal,1,0
+KAG8895533.1_5_186,Tulasnella sp. 408 (Basidiomycota_Cantharellales),-1,#000000,normal,1,0
+KAG9045766.1_6_186,Tulasnella sp. UAMH 9824 (Basidiomycota_Cantharellales),-1,#000000,normal,1,0
+KAG8902470.1_7_187,Tulasnella sp. 403 (Basidiomycota_Cantharellales),-1,#000000,normal,1,0
+KAG9019021.1_3_182,Tulasnella sp. 427 (Basidiomycota_Cantharellales),-1,#000000,normal,1,0
+KAG8974745.1_3_182,Tulasnella sp. 425 (Basidiomycota_Cantharellales),-1,#000000,normal,1,0
+KAG8992837.1_5_186,Tulasnella sp. JGI-2019a (Basidiomycota_Cantharellales),-1,#000000,normal,1,0
+KAG8930067.1_6_186,Tulasnella sp. 418 (Basidiomycota_Cantharellales),-1,#000000,normal,1,0
+KAG8967308.1_6_186,Tulasnella sp. 419 (Basidiomycota_Cantharellales),-1,#000000,normal,1,0
+KAI4708064.1_6_188,Alternaria sp. Ai002NY15 (Ascomycota_Pleosporales),-1,#000000,normal,1,0
+KAI4621990.1_6_188,Alternaria sp. BMP 0032 (Ascomycota_Pleosporales),-1,#000000,normal,1,0
+XP_051288999.1_6_188,Alternaria incomplexa (Ascomycota_Pleosporales),-1,#000000,normal,1,0
+XP_049238546.1_6_188,Alternaria ethzedia E.G. Simmons_ 1986 (Ascomycota_Pleosporales),-1,#000000,normal,1,0
+XP_051323854.1_6_188,Alternaria conjuncta (Ascomycota_Pleosporales),-1,#000000,normal,1,0
+XP_049201084.1_7_188,Alternaria ventricosa (Ascomycota_Pleosporales),-1,#000000,normal,1,0
+KAE8845626.1_6_187,Pyrenophora teres (Ascomycota_Pleosporales),-1,#000000,normal,1,0
+CAA9960480.1_6_187,Pyrenophora teres (Ascomycota_Pleosporales),-1,#000000,normal,1,0
+PWO26395.1_5_187,Pyrenophora tritici-repentis (Ascomycota_Pleosporales),-1,#000000,normal,1,0
+RYN98945.1_5_188,Alternaria tenuissima (Ascomycota_Pleosporales),-1,#000000,normal,1,0
+RII24549.1_5_188,Alternaria sp. MG1 (Ascomycota_Pleosporales),-1,#000000,normal,1,0
+KAB2104855.1_5_188,Alternaria gaisen (Ascomycota_Pleosporales),-1,#000000,normal,1,0
+AHW52255.1_1_113,Coniothyrium concentricum (Ascomycota_Pleosporales),-1,#000000,normal,1,0
+KAI9806494.1_3_184,Piccolia ochrophora (Ascomycota_None),-1,#000000,normal,1,0
+KAH9875026.1_12_163,Plenodomus biglobosus (Ascomycota_Pleosporales),-1,#000000,normal,1,0
+KAI8934872.1_12_196,Plenodomus lindquistii (Ascomycota_Pleosporales),-1,#000000,normal,1,0
+KAG9185165.1_9_195,Alternaria panax (Ascomycota_Pleosporales),-1,#000000,normal,1,0
+KAH9864852.1_205_390,Plenodomus lingam (Ascomycota_Pleosporales),-1,#000000,normal,1,0
+XP_033598859.1_18_201,Pseudovirgaria hyperparasitica (Ascomycota_Acrospermales),-1,#000000,normal,1,0
+KFY97224.1_20_205,Pseudogymnoascus sp. VKM F-4517 (FW-2822) (Ascomycota_None),-1,#000000,normal,1,0
+KFY15642.1_19_206,Pseudogymnoascus sp. VKM F-4246 (Ascomycota_None),-1,#000000,normal,1,0
+KFY00153.1_21_205,Pseudogymnoascus sp. VKM F-3808 (Ascomycota_None),-1,#000000,normal,1,0
+KFZ10249.1_9_190,Pseudogymnoascus sp. VKM F-4519 (FW-2642) (Ascomycota_None),-1,#000000,normal,1,0
+KFY86598.1_5_185,Pseudogymnoascus sp. VKM F-4518 (FW-2643) (Ascomycota_None),-1,#000000,normal,1,0
+KAF3924806.1_6_189,Drechslerella brochopaga (Ascomycota_Orbiliales),-1,#000000,normal,1,0
+AHW52327.1_1_114,Bursaphelenchus luxuriosae (Nemata_Rhabditida),-1,#000000,normal,1,0
+AHW52344.1_1_114,Bursaphelenchus parvispicularis (Nemata_Rhabditida),-1,#000000,normal,1,0
+ALS87671.1_3_181,Bursaphelenchus mucronatus (Nemata_Rhabditida),-1,#000000,normal,1,0
+BAD34543.1_2_180,Bursaphelenchus xylophilus (Nemata_Rhabditida),-1,#000000,normal,1,0
+AHW52334.1_1_113,Bursaphelenchus yongensis (Nemata_Rhabditida),-1,#000000,normal,1,0
+CAD5223375.1_2_181,Bursaphelenchus okinawaensis (Nemata_Rhabditida),-1,#000000,normal,1,0
+AHW52340.1_1_114,Bursaphelenchus kiyoharai (Nemata_Rhabditida),-1,#000000,normal,1,0
+AHW52330.1_1_114,Bursaphelenchus sp. NK206 (Nemata_Rhabditida),-1,#000000,normal,1,0
+AHW52352.1_1_114,Bursaphelenchus poligraphi (Nemata_Rhabditida),-1,#000000,normal,1,0
+ALL62703.1_5_185,Aphelenchoides besseyi (Nemata_Rhabditida),-1,#000000,normal,1,0
+AHW52331.1_1_114,Bursaphelenchus niphades (Nemata_Rhabditida),-1,#000000,normal,1,0
+AHW52322.1_1_114,Bursaphelenchus doui (Nemata_Rhabditida),-1,#000000,normal,1,0
+AHW52354.1_1_114,Bursaphelenchus conicaudatus (Nemata_Rhabditida),-1,#000000,normal,1,0
+XP_011127483.1_95_267,Orbilia oligospora (Ascomycota_Orbiliales),-1,#000000,normal,1,0
+KAF3079191.1_95_267,Orbilia oligospora (Ascomycota_Orbiliales),-1,#000000,normal,1,0
+RVD89488.1_92_262,Arthrobotrys flagrans (Ascomycota_Orbiliales),-1,#000000,normal,1,0
+KAF3931614.1_111_284,Dactylellina cionopaga (Ascomycota_Orbiliales),-1,#000000,normal,1,0
+EPS44931.1_103_278,Dactylellina haptotyla (Ascomycota_Orbiliales),-1,#000000,normal,1,0
+KAF3942437.1_94_270,Dactylella cylindrospora (Ascomycota_Orbiliales),-1,#000000,normal,1,0
+KAJ6256242.1_94_270,Drechslerella dactyloides (Ascomycota_Orbiliales),-1,#000000,normal,1,0
+EWC46368.1_121_296,Drechslerella stenobrocha (Ascomycota_Orbiliales),-1,#000000,normal,1,0
+KAF3903048.1_91_267,Arthrobotrys entomopaga (Ascomycota_Orbiliales),-1,#000000,normal,1,0
+KAI4219235.1_6_187,Xanthoria aureola (Ascomycota_Teloschistales),-1,#000000,normal,1,0
+KAH8550433.1_163_340,Umbelopsis sp. PMI_123 (Mucoromycota_Umbelopsidales),-1,#000000,normal,1,0
+XP_051440551.1_191_368,Umbelopsis ramanniana (Mucoromycota_Umbelopsidales),-1,#000000,normal,1,0
+KAI9285223.1_111_292,Umbelopsis sp. AD052 (Mucoromycota_Umbelopsidales),-1,#000000,normal,1,0
+KAG2172547.1_125_306,Umbelopsis vinacea (Mucoromycota_Umbelopsidales),-1,#000000,normal,1,0
+KAJ2958807.1_112_289,Umbelopsis isabellina (Mucoromycota_Umbelopsidales),-1,#000000,normal,1,0
+XP_018298953.1_136_316,Phycomyces blakesleeanus (Mucoromycota_Mucorales),-1,#000000,normal,1,0
+KAI9025034.1_110_284,Phycomyces nitens (Mucoromycota_Mucorales),-1,#000000,normal,1,0
+EIE86317.1_139_319,Rhizopus delemar (Mucoromycota_Mucorales),-1,#000000,normal,1,0
+KAG0767729.1_143_323,Rhizopus arrhizus (Mucoromycota_Mucorales),-1,#000000,normal,1,0
+KAI9243291.1_122_301,Sporodiniella umbellata (Mucoromycota_Mucorales),-1,#000000,normal,1,0
+KAG1469285.1_120_300,Rhizopus delemar (Mucoromycota_Mucorales),-1,#000000,normal,1,0
+CDF76459.1_112_241,Thermomucor indicae-seudaticae (Mucoromycota_Mucorales),-1,#000000,normal,1,0
+CDH59676.1_195_371,Lichtheimia corymbifera (Mucoromycota_Mucorales),-1,#000000,normal,1,0
+KAJ8663728.1_193_370,Absidia ornata A.K. Sarbhoy_ 1965 (Mucoromycota_Mucorales),-1,#000000,normal,1,0
+KAI7876840.1_182_359,Lichtheimia hyalospora (Mucoromycota_Mucorales),-1,#000000,normal,1,0
+CDS09500.1_191_369,Lichtheimia ramosa (Mucoromycota_Mucorales),-1,#000000,normal,1,0
+ABU49185.2_126_298,Syncephalastrum racemosum (Mucoromycota_Mucorales),-1,#000000,normal,1,0
+KAI8145809.1_122_294,Fennellomyces sp. T-0311 (Mucoromycota_Mucorales),-1,#000000,normal,1,0
+KAI7858177.1_200_376,Circinella umbellata (Mucoromycota_Mucorales),-1,#000000,normal,1,0
+KAG2220707.1_200_376,Circinella minor (Mucoromycota_Mucorales),-1,#000000,normal,1,0
+KAI9274431.1_115_289,Phascolomyces articulosus (Mucoromycota_Mucorales),-1,#000000,normal,1,0
+XP_052974061.1_197_372,ATCC 32887 (Mucoromycota_Mucorales),-1,#000000,normal,1,0
+KAI9318689.1_188_360,ATCC 32874 (Mucoromycota_Mucorales),-1,#000000,normal,1,0
+KAG2191390.1_179_350,Mucor plumbeus (Mucoromycota_Mucorales),-1,#000000,normal,1,0
+CEP15980.1_174_352,Parasitella parasitica (Mucoromycota_Mucorales),-1,#000000,normal,1,0
+XP_051385732.1_109_290,Cokeromyces recurvatus (Mucoromycota_Mucorales),-1,#000000,normal,1,0
+KAI9468917.1_72_249,Benjaminiella poitrasii (Mucoromycota_Mucorales),-1,#000000,normal,1,0
+EPB87943.1_175_354,Mucor circinelloides (Mucoromycota_Mucorales),-1,#000000,normal,1,0
+BAD95808.1_118_297,Mucor circinelloides (Mucoromycota_Mucorales),-1,#000000,normal,1,0
+KAF1799615.1_174_349,CBS 108.17 (Mucoromycota_Mucorales),-1,#000000,normal,1,0
+GAN02818.1_127_305,Mucor ambiguus (Mucoromycota_Mucorales),-1,#000000,normal,1,0
+KAI8980912.1_121_292,Pilobolus umbonatus (Mucoromycota_Mucorales),-1,#000000,normal,1,0
+KAG2207218.1_145_321,Mucor saturninus (Mucoromycota_Mucorales),-1,#000000,normal,1,0
+XP_051460139.1_138_315,Mucor mucedo (Mucoromycota_Mucorales),-1,#000000,normal,1,0
+KAI9265548.1_114_286,Helicostylum pulchrum (Mucoromycota_Mucorales),-1,#000000,normal,1,0
+KAI8058886.1_122_294,Thamnidium elegans (Mucoromycota_Mucorales),-1,#000000,normal,1,0
+KAI9338866.1_132_304,Pilaira anomala (Mucoromycota_Mucorales),-1,#000000,normal,1,0
+KAI8373633.1_122_295,Choanephora cucurbitarum (Mucoromycota_Mucorales),-1,#000000,normal,1,0
+KAI8387371.1_114_285,Blakeslea trispora (Mucoromycota_Mucorales),-1,#000000,normal,1,0
+XP_051433525.1_120_293,Gilbertella persicaria (Mucoromycota_Mucorales),-1,#000000,normal,1,0
+ORE01467.1_4_177,Rhizopus microsporus (Mucoromycota_Mucorales),-1,#000000,normal,1,0
+XP_023462805.1_117_291,Rhizopus microsporus (Mucoromycota_Mucorales),-1,#000000,normal,1,0
+KAG1174255.1_108_283,Rhizopus microsporus (Mucoromycota_Mucorales),-1,#000000,normal,1,0
+RCH89711.1_14_200,Rhizopus azygosporus (Mucoromycota_Mucorales),-1,#000000,normal,1,0
+KAI8877461.1_128_310,Backusella circina (Mucoromycota_Mucorales),-1,#000000,normal,1,0
+KAI8074066.1_108_288,Gongronella butleri (Mucoromycota_Mucorales),-1,#000000,normal,1,0
+WP_217446514.1_5_189,32 (Myxococcota_Myxococcales),-1,#000000,normal,1,0
+TQF16774.1_21_205,Myxococcus llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogochensis Chambers et al. 2020 (Myxococcota_Myxococcales),-1,#000000,normal,1,0
+WP_174478218.1_21_205,Myxococcus sp. CA033 (Myxococcota_Myxococcales),-1,#000000,normal,1,0
+WP_174466079.1_6_189,Myxococcus sp. CA039A (Myxococcota_Myxococcales),-1,#000000,normal,1,0
+WP_174458039.1_36_217,2648731 (Myxococcota_Myxococcales),-1,#000000,normal,1,0
+WP_206719153.1_11_189,Myxococcus sp. SCHIC003 (Myxococcota_Myxococcales),-1,#000000,normal,1,0
+WP_015347659.1_11_189,DSM 14675 (Myxococcota_Myxococcales),-1,#000000,normal,1,0
+WP_257455648.1_10_197,Archangium sp. CY-1 (Myxococcota_Myxococcales),-1,#000000,normal,1,0
+RKH43530.1_8_142,Corallococcus sicarius (Myxococcota_Myxococcales),-1,#000000,normal,1,0
+RKH35274.1_16_196,Corallococcus sp. CA031C (Myxococcota_Myxococcales),-1,#000000,normal,1,0
+WP_158620276.1_1_174,83461 (Myxococcota_Myxococcales),-1,#000000,normal,1,0
+RKH17878.1_16_196,Corallococcus sp. CA047B (Myxococcota_Myxococcales),-1,#000000,normal,1,0
+MCP3162182.1_1_180,Myxococcus qinghaiensis (Myxococcota_Myxococcales),-1,#000000,normal,1,0
+WP_204222098.1_1_180,Archangium violaceum (Myxococcota_Myxococcales),-1,#000000,normal,1,0
+WP_158623233.1_1_180,Corallococcus sp. CA053C (Myxococcota_Myxococcales),-1,#000000,normal,1,0
+MCP3140206.1_1_180,Pyxidicoccus xibeiensis (Myxococcota_Myxococcales),-1,#000000,normal,1,0
+XP_037027558.1_2_184,Bradysia coprophila (Arthropoda_Diptera),-1,#000000,normal,1,0
+KAJ6649674.1_2_183,Pseudolycoriella hygida (Arthropoda_Diptera),-1,#000000,normal,1,0
+KAG4079071.1_2_184,Bradysia odoriphaga (Arthropoda_Diptera),-1,#000000,normal,1,0
+ODM90131.1_2_182,Orchesella cincta (Arthropoda_Entomobryomorpha),-1,#000000,normal,1,0
+CAD7251807.1_1_179,Darwinula stevensoni (Arthropoda_Podocopida),-1,#000000,normal,1,0
+PAA63531.1_95_280,Macrostomum lignano (Platyhelminthes_Macrostomida),-1,#000000,normal,1,0
+NDC96230.1_6_181,bacterium (None_None),-1,#000000,normal,1,0
+NBO98903.1_5_182,Pseudomonadota bacterium (Pseudomonadota_None),-1,#000000,normal,1,0
+ADI24132.1_9_195,Oncideres albomarginata (Arthropoda_Coleoptera),-1,#000000,normal,1,0
+AAR22385.1_16_198,Apriona germarii (Arthropoda_Coleoptera),-1,#000000,normal,1,0
+ALE71518.1_17_197,Psacothea hilaris (Arthropoda_Coleoptera),-1,#000000,normal,1,0
+XP_018561275.1_19_197,Anoplophora glabripennis (Arthropoda_Coleoptera),-1,#000000,normal,1,0
+AFN89565.1_20_197,Anoplophora chinensis (Arthropoda_Coleoptera),-1,#000000,normal,1,0
+AHI15752.1_16_197,Apriona japonica (Arthropoda_Coleoptera),-1,#000000,normal,1,0
+AKH90729.1_16_197,Batocera horsfieldi (Arthropoda_Coleoptera),-1,#000000,normal,1,0
+UZH44861.1_16_197,Glenea cantor (Arthropoda_Coleoptera),-1,#000000,normal,1,0
+AMA76413.1_14_194,Mesosa myops (Arthropoda_Coleoptera),-1,#000000,normal,1,0
+ADV57513.1_1_125,uncultured bacterium (None_None),-1,#000000,normal,1,0
+CAG9830087.1_9_196,Diabrotica balteata (Arthropoda_Coleoptera),-1,#000000,normal,1,0
+XP_050500135.1_8_196,Diabrotica virgifera (Arthropoda_Coleoptera),-1,#000000,normal,1,0
+CAH1115089.1_8_194,Psylliodes chrysocephala (Arthropoda_Coleoptera),-1,#000000,normal,1,0
+CAG9862503.1_8_196,Phyllotreta striolata (Arthropoda_Coleoptera),-1,#000000,normal,1,0
+ADU33350.1_22_196,Leptinotarsa decemlineata (Arthropoda_Coleoptera),-1,#000000,normal,1,0
+KAG5878795.1_14_195,Gonioctena quinquepunctata (Arthropoda_Coleoptera),-1,#000000,normal,1,0
+AZH23718.1_25_199,Gastrophysa viridula (Arthropoda_Coleoptera),-1,#000000,normal,1,0
+CAG9818178.1_28_202,Phaedon cochleariae (Arthropoda_Coleoptera),-1,#000000,normal,1,0
+ADU33285.1_24_203,Chrysomela tremula (Arthropoda_Coleoptera),-1,#000000,normal,1,0
+XP_048522169.1_4_187,Dendroctonus ponderosae (Arthropoda_Coleoptera),-1,#000000,normal,1,0
+XP_050300231.1_5_185,Anthonomus grandis (Arthropoda_Coleoptera),-1,#000000,normal,1,0
+CAG9766605.1_6_186,Ceutorhynchus assimilis (Arthropoda_Coleoptera),-1,#000000,normal,1,0
+ANU06045.1_8_191,Rhynchophorus ferrugineus (Arthropoda_Coleoptera),-1,#000000,normal,1,0
+XP_030751361.1_10_193,Sitophilus oryzae (Arthropoda_Coleoptera),-1,#000000,normal,1,0
+XP_026289264.1_9_193,Frankliniella occidentalis (Arthropoda_Thysanoptera),-1,#000000,normal,1,0
+KAJ1518777.1_1_177,Megalurothrips usitatus (Arthropoda_Thysanoptera),-1,#000000,normal,1,0
+XP_034233350.1_7_205,Thrips palmi (Arthropoda_Thysanoptera),-1,#000000,normal,1,0
+KAJ3000063.1_3_202,Globomyces sp. JEL0801 (Chytridiomycota_Rhizophydiales),-1,#000000,normal,1,0
+KAI8899555.1_3_202,ARG 068 (Chytridiomycota_Rhizophydiales),-1,#000000,normal,1,0
+KAG9511144.1_2_142,Fragariocoptes setiger (Arthropoda_Trombidiformes),-1,#000000,normal,1,0
+D3GDK4.1_1_181,Cryptopygus antarcticus (Arthropoda_Entomobryomorpha),-1,#000000,normal,1,0
+KAJ1024459.1_7_196,Ustilago tritici (Basidiomycota_Ustilaginales),-1,#000000,normal,1,0
+SOV05259.1_7_196,Ustilago sp. UG-2017a (Basidiomycota_Ustilaginales),-1,#000000,normal,1,0
+SPC61645.1_7_196,Ustilago sp. UG-2017b (Basidiomycota_Ustilaginales),-1,#000000,normal,1,0
+XP_041414883.1_7_196,Ustilago hordei (Basidiomycota_Ustilaginales),-1,#000000,normal,1,0
+KAJ1025804.1_7_196,Ustilago nuda (Basidiomycota_Ustilaginales),-1,#000000,normal,1,0
+SAM81574.1_7_196,Ustilago bromivora (Basidiomycota_Ustilaginales),-1,#000000,normal,1,0
+KAJ1020617.1_7_196,Ustilago loliicola (Basidiomycota_Ustilaginales),-1,#000000,normal,1,0
+GAC71627.1_7_196,Moesziomyces antarcticus (Basidiomycota_Ustilaginales),-1,#000000,normal,1,0
+XP_014654034.1_7_196,Moesziomyces antarcticus (Basidiomycota_Ustilaginales),-1,#000000,normal,1,0
+ETS59875.1_7_196,Moesziomyces aphidis (Basidiomycota_Ustilaginales),-1,#000000,normal,1,0
+XP_016292070.1_7_196,Kalmanozyma brasiliensis (Basidiomycota_Ustilaginales),-1,#000000,normal,1,0
+CDI53090.1_8_196,Melanopsichium pennsylvanicum (Basidiomycota_Ustilaginales),-1,#000000,normal,1,0
+UZS00525.1_7_196,Ustilago esculenta (Basidiomycota_Ustilaginales),-1,#000000,normal,1,0
+XP_012191708.1_11_166,Pseudozyma hubeiensis (Basidiomycota_Ustilaginales),-1,#000000,normal,1,0
+CBQ72520.1_7_196,Sporisorium reilianum (Basidiomycota_Ustilaginales),-1,#000000,normal,1,0
+SJX62381.1_7_197,Sporisorium reilianum (Basidiomycota_Ustilaginales),-1,#000000,normal,1,0
+CDW98292.1_7_196,Sporisorium scitamineum (Basidiomycota_Ustilaginales),-1,#000000,normal,1,0
+XP_011388317.1_7_196,Ustilago maydis (Basidiomycota_Ustilaginales),-1,#000000,normal,1,0
+PWY99840.1_2_194,Testicularia cyperi (Basidiomycota_Ustilaginales),-1,#000000,normal,1,0
+XP_029737623.1_9_199,Sporisorium graminicola (Basidiomycota_Ustilaginales),-1,#000000,normal,1,0
+SPO25971.1_9_198,Ustilago trichophora (Basidiomycota_Ustilaginales),-1,#000000,normal,1,0
+SPO41573.1_5_187,Pseudozyma flocculosa (Basidiomycota_Ustilaginales),-1,#000000,normal,1,0
+XP_007880076.1_5_187,Pseudozyma flocculosa (Basidiomycota_Ustilaginales),-1,#000000,normal,1,0
+KAE8219064.1_9_185,Tilletia indica (Basidiomycota_Tilletiales),-1,#000000,normal,1,0
+KAE8214737.1_9_185,Tilletia walkeri (Basidiomycota_Tilletiales),-1,#000000,normal,1,0
+CAD6937907.1_10_186,Tilletia caries (Basidiomycota_Tilletiales),-1,#000000,normal,1,0
+CAD6935625.1_10_186,Tilletia controversa (Basidiomycota_Tilletiales),-1,#000000,normal,1,0
+KAE8182089.1_1_156,Tilletia laevis (Basidiomycota_Tilletiales),-1,#000000,normal,1,0
+KAJ3206031.1_22_218,Entophlyctis luteolus (Chytridiomycota_Chytridiales),-1,#000000,normal,1,0
+OZJ04288.1_5_184,Bifiguratus adelaidae (Mucoromycota_Endogonales),-1,#000000,normal,1,0
+PWN49311.1_2_186,Violaceomyces palustris (Basidiomycota_Violaceomycetales),-1,#000000,normal,1,0
+KAJ3038346.1_86_262,Rhizophlyctis rosea (Chytridiomycota_Rhizophlyctidales),-1,#000000,normal,1,0
+XP_055356994.1_110_284,Paramacrobiotus metropolitanus (Tardigrada_Parachela),-1,#000000,normal,1,0
+OWA52637.1_101_283,Hypsibius exemplaris (Tardigrada_Parachela),-1,#000000,normal,1,0
+XP_021948187.1_94_273,Folsomia candida (Arthropoda_Entomobryomorpha),-1,#000000,normal,1,0
+CAF3742553.1_173_347,Rotaria sp. Silwood1 (Rotifera_None),-1,#000000,normal,1,0
+CAF4717566.1_1_173,Rotaria sp. Silwood2 (Rotifera_None),-1,#000000,normal,1,0
+CAF1428095.1_71_246,Rotaria sordida (Rotifera_None),-1,#000000,normal,1,0
+CAF4804797.1_69_243,Rotaria socialis (Rotifera_None),-1,#000000,normal,1,0
+CAF3811113.1_69_243,Rotaria magnacalcarata (Rotifera_None),-1,#000000,normal,1,0
+CAF3993541.1_76_253,Adineta steineri (Rotifera_Adinetida),-1,#000000,normal,1,0
+UJR25708.1_146_323,Adineta vaga (Rotifera_Adinetida),-1,#000000,normal,1,0
+CAF1333794.1_141_321,Adineta ricciae (Rotifera_Adinetida),-1,#000000,normal,1,0
+ADJ38254.1_1_123,uncultured fungus (Opisthokonta_None),-1,#000000,normal,1,0
+CAF0907758.1_73_253,Didymodactylos carnosus (Rotifera_Philodinida),-1,#000000,normal,1,0
+KAH7043281.1_100_290,Macrophomina phaseolina (Ascomycota_Botryosphaeriales),-1,#000000,normal,1,0
+BAF57325.1_1_178,uncultured symbiotic protist of Reticulitermes speratus (None_None),-1,#000000,normal,1,0
+BAA98036.1_1_179,Reticulitermes speratus hindgut protist 130484 (Parabasalia_None),-1,#000000,normal,1,0
+BAF57358.1_13_191,uncultured symbiotic protist of Hodotermopsis sjoestedti (None_None),-1,#000000,normal,1,0
+BAF57479.1_5_184,uncultured symbiotic protist of Cryptocercus punctulatus (None_None),-1,#000000,normal,1,0
+XP_002494081.1_399_571,CBS 2612 (Ascomycota_Saccharomycetales),-1,#000000,normal,1,0
+KAI0463332.1_397_571,Komagataella kurtzmanii (Ascomycota_Saccharomycetales),-1,#000000,normal,1,0
+ANZ77964.1_467_639,Komagataella pastoris (Ascomycota_Saccharomycetales),-1,#000000,normal,1,0
+KAH3674221.1_436_614,Wickerhamomyces mucosus (Ascomycota_Saccharomycetales),-1,#000000,normal,1,0
+KAH3674874.1_251_435,Wickerhamomyces pijperi (Ascomycota_Saccharomycetales),-1,#000000,normal,1,0
+XP_020050299.1_158_332,Ascoidea rubescens (Ascomycota_Saccharomycetales),-1,#000000,normal,1,0
+KAE9547468.1_16_194,Halicephalobus sp. NKZ332 (Nemata_Rhabditida),-1,#000000,normal,1,0
+KAF5103374.1_192_366,Galactomyces reessii (Ascomycota_Saccharomycetales),-1,#000000,normal,1,0
+KAF5102768.1_261_436,Geotrichum candidum (Ascomycota_Saccharomycetales),-1,#000000,normal,1,0
+CAB92325.1_189_359,Piromyces sp. 'equi' (Chytridiomycota_Neocallimastigales),-1,#000000,normal,1,0
+ORY72501.1_111_287,Neocallimastix californiae (Chytridiomycota_Neocallimastigales),-1,#000000,normal,1,0
+KAG4093127.1_111_287,Neocallimastix sp. JGI-2020a (Chytridiomycota_Neocallimastigales),-1,#000000,normal,1,0
+OUM67787.1_1_168,Piromyces sp. E2 (Chytridiomycota_Neocallimastigales),-1,#000000,normal,1,0
+ORX52602.1_154_332,Piromyces finnis (Chytridiomycota_Neocallimastigales),-1,#000000,normal,1,0
+ORX87199.1_26_208,Anaeromyces robustus (Chytridiomycota_Neocallimastigales),-1,#000000,normal,1,0
+KAJ3339894.1_417_593,Gonapodya sp. JEL0774 (Chytridiomycota_Monoblepharidales),-1,#000000,normal,1,0
+KXS15255.1_181_359,Gonapodya prolifera (Chytridiomycota_Monoblepharidales),-1,#000000,normal,1,0
+KAI9024662.1_169_346,Hyaloraphidium curvatum (Chytridiomycota_Monoblepharidales),-1,#000000,normal,1,0
+KAI8802993.1_122_304,Cladochytrium replicatum (Chytridiomycota_Cladochytriales),-1,#000000,normal,1,0
+KAJ1560197.1_175_366,Nowakowskiella sp. JEL0078 (Chytridiomycota_Cladochytriales),-1,#000000,normal,1,0
+KAJ3121391.1_31_214,Nowakowskiella sp. JEL0407 (Chytridiomycota_Cladochytriales),-1,#000000,normal,1,0
+CAD39198.1_1_178,Mastotermes darwiniensis hindgut symbiont sp. (Parabasalia_None),-1,#000000,normal,1,0
+BAF57441.1_1_178,uncultured symbiotic protist of Mastotermes darwiniensis (None_None),-1,#000000,normal,1,0
+QDZ22956.1_327_518,Chloropicon primus (algae_Chloropicales),-1,#000000,normal,1,0
+XP_009034765.1_1_178,Aureococcus anophagefferens (Sar_Pelagomonadales),-1,#000000,normal,1,0
+KAJ8607407.1_13_210,Chrysophaeum taylorii (Sar_Pelagomonadales),-1,#000000,normal,1,0
+CAH0376317.1_76_261,Pelagomonas calceolata (Sar_Pelagomonadales),-1,#000000,normal,1,0
+RYY76086.1_276_458,Gammaproteobacteria bacterium (Pseudomonadota_None),-1,#000000,normal,1,0
+WP_012486056.1_254_434,Cellvibrio japonicus (Pseudomonadota_Cellvibrionales),-1,#000000,normal,1,0
+MCE3252048.1_251_427,Cellvibrio sp. (Pseudomonadota_Cellvibrionales),-1,#000000,normal,1,0
+WP_188149568.1_264_447,Teredinibacter waterburyi (Pseudomonadota_Cellvibrionales),-1,#000000,normal,1,0
+WP_087465538.1_241_425,Cellvibrio sp. PSBB006 (Pseudomonadota_Cellvibrionales),-1,#000000,normal,1,0
+WP_084645509.1_248_444,Marinimicrobium agarilyticum (Pseudomonadota_Cellvibrionales),-1,#000000,normal,1,0
+MBN2444975.1_177_354,Spirochaetales bacterium (Spirochaetaeota Oren et al. 2015_Spirochaetales),-1,#000000,normal,1,0
+MBN1600994.1_224_378,Chitinispirillaceae bacterium (Fibrobacterota_Chitinispirillales),-1,#000000,normal,1,0
+MBN2718552.1_1_162,Deltaproteobacteria bacterium (delta/epsilon subdivisions_None),-1,#000000,normal,1,0
+WP_078776548.1_384_564,832 (Fibrobacterota_Fibrobacterales),-1,#000000,normal,1,0
+WP_233126452.1_53_235,Fibrobacter sp. UWS1 (Fibrobacterota_Fibrobacterales),-1,#000000,normal,1,0
+WP_233244646.1_382_559,Hallerella porci (Fibrobacterota_Fibrobacterales),-1,#000000,normal,1,0
+MCI6873899.1_367_551,Hallerella sp. (Fibrobacterota_Fibrobacterales),-1,#000000,normal,1,0
+WP_277001990.1_367_551,Hallerella succinigenes (Fibrobacterota_Fibrobacterales),-1,#000000,normal,1,0
+MCK9181780.1_310_497,Fibrobacteraceae bacterium (Fibrobacterota_Fibrobacterales),-1,#000000,normal,1,0
+NLO23412.1_218_392,Fibrobacter sp. (Fibrobacterota_Fibrobacterales),-1,#000000,normal,1,0
+MCL2183812.1_7_191,Chitinispirillia bacterium (Fibrobacterota_None),-1,#000000,normal,1,0
