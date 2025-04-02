@@ -3,7 +3,7 @@
 scripts to download nr and associated taxonomic information, and make an indexed diamond blast database
 ## tax_pkg
 scripts to make a sql database for efficient lookup of taxonomic information from nr protein accessions
-## HGT chimera inference pipeline scripts and outputs
+## HGT chimera inference pipeline scripts 
 ### chromosome_scaffold_level.csv
 genome assembly refseq accessions, genome quality data and taxonomic info
 ### download_genomes.sh
