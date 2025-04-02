@@ -48,9 +48,10 @@ runs MUSCLE on the fasta file of HMMER hits to an interval, followed by MSA trim
 roots iQ-tree ML trees with minimum ancestor deviation (Dagan et al. Nature ecology and evolution, 2017 https://doi.org/10.1038/s41559-017-0193) and uploads to iTOL with appropriate tree annotation files (colorstrip, taxonomic information, and sequence descriptions).
 ### species_distribution.ipynb
 Consolidate final list of chimeric HGT candidates from manual tree annotation; makes a dataframe storing data (accession, description, taxonomic distribution) for each chimera; determines the taxonomic span of each HGT-chimera; clusters HGT-Chimeras into orthologous groups using a network approach. Outputs cluster_info.tsv, which contains data for each orthologous cluster, and protein_info.csv, which contains data for each protein.
-### protein_info.csv
+### protein_info.csv 
 Information on the taxonomic range  of each hgt-chimera 
-### cluster_info.csv
+## downstream_analysis_and_figures
+Contains scripts to analyze the evolutionary history and molecular features of identified HGT-chimeras (duplication, gc content, codon bias, dn/ds, taxonomic distribution, HGT origins,etc.). Also contains plotting scripts for figures in the publication.
 Information on the taxonomic range of each orthologous cluster of hgt-chimeras
 ### within_genome_blast
 Scripts to perform chimera interval vs. proteome blasts to look for and characterize non-chimeric parents
