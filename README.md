@@ -3,6 +3,7 @@
 scripts to download nr and associated taxonomic information, and make an indexed diamond blast database
 ## tax_pkg
 scripts to make a sql database for efficient lookup of taxonomic information from nr protein accessions
+
 ## HGT chimera inference pipeline scripts 
 ### chromosome_scaffold_level.csv
 genome assembly refseq accessions, genome quality data and taxonomic info
@@ -53,7 +54,7 @@ Information on the taxonomic range  of each hgt-chimera
 ## downstream_analysis_and_figures
 Contains scripts to analyze the evolutionary history and molecular features of identified HGT-chimeras (duplication, gc content, codon bias, dn/ds, taxonomic distribution, HGT origins,etc.). Also contains plotting scripts for figures in the publication.
 Information on the taxonomic range of each orthologous cluster of hgt-chimeras
-### within_genome_blast
-Scripts to perform chimera interval vs. proteome blasts to look for and characterize non-chimeric parents
-
-
+### blastplot1.py
+Python script to generate plots visualizing the taxomic distribution of blast hits from the first round of blast (with whole protein sequences as queries). Accesses chimera interval annotations stored in "chimera_intervals_final.pickle" and DIAMOND blast results in .tsv format stored in "blast_round_one_data." Blast results are available on the Dryad repository. Used to generate Figure 1A, SI figure 2A, SI figure 3B, and supplementary pdf 1. 
+### blastplot2.py
+Python script to generate plots visualizing the taxomic distribution of blast hits from the second round of blast (with separated HGT/metazoan intervals as queries).  Accesses chimera interval annotations stored in "chimera_intervals_final.pickle" and DIAMOND blast results in .tsv format stored in "blast_round_two_data." last results are available on the Dryad repository. Used to generate Figure 1A,SI figure 3B, and supplementary pdf 1. 
