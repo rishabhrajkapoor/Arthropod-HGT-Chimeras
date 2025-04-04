@@ -35,7 +35,7 @@ splits diamond output table by query value. Takes output_dir, input_file as para
 ### interval_blast_annot.py
 checks the output of round2 blast, reannotates intervals as “HGT”, “Meta” or None and outputs confirmed HGT and Meta intervals to “meta_incl.txt” and “hgt_incl.txt”
 ### build_inter_hmms.py
-uses arthropod blast hits from round 2 blast to build MSAs and profile HMMs for each interval confirmed in step 14. Profiles and MSAs stored in “hmmer_results”
+Uses arthropod blast hits from round 2 blast to build MSAs and profile HMMs for each interval confirmed in step 14. Profiles and MSAs stored in “hmmer_results.” Calls scripts in the "hmmer_pipe" directory to remove redundant sequences from fastas ("hmmer_pipe/remove_redundant_seqs.awk"), produce MSAs ("hmmer_pipe/muscle.sh"), and build profile HMMs ("hmmer_pipe/hmmbuild.sh").
 ### concat_hmms.sh
 concatenate profile HMMs from “hmmer_results” into a 50 files (such that each concatenated file runs in less than 1 day with hmmsearch)
 ### hmmer_array.sh
