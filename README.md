@@ -76,7 +76,7 @@ Tabulates and plots information on the number of HGT-chimeras/genome (figure 2A)
 Tabulate and plot information related to the taxonomic origin of HGT intervals and their putative origins in symbionts (Figure 3 and supplementary table IV). 
 
 ### within_genome_parent_v2.ipynb
-Run within-genome blastp searches for parent genes and perform analysis for tandem duplicates/retroduplicates (Figure 4). Outputs in supplementary table VIII. 
+Run within-genome DIAMOND blastp searches for parent genes and perform analysis for tandem duplicates/retroduplicates (Figure 4). Calls the scripts "make_genome_db.sh" and "run_diamond_query.sh" for within-genome DIAMOND search. Outputs in supplementary table VIII. 
 
 ### codon_and_gc_content_analysis.ipynb
 Compare the GC content and codon use of HGT and metazoan regions (Figure 5A). Outputs in supplementary table IX. 
