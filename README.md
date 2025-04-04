@@ -5,6 +5,11 @@ scripts to download nr and associated taxonomic information, and make an indexed
 scripts to make a sql database for efficient lookup of taxonomic information from nr protein accessions
 
 ## HGT chimera inference pipeline scripts 
+### nr_dbs
+Scripts to download NCBI NR and associated taxonomic information, and make an indexed diamond blast database as well as standard blast (version 2.2.29) database. Call scripts in this order: download_nr.sh, download_tax.sh, diamond_db.sh, makeblastdb.sh. The standard blast database is solely used for efficient sequence lookup using the script query_nr_protein.sh, which takes takes two inputs: 1. a protein accession, 2. a fasta output file to append to protein fasta to. 
+### tax_pkg 
+Scripts to make ("make_sql_tax.py", called by "make_sql.sh") a sql database for efficient lookup of taxonomic information from nr protein accessions. "accession2taxid.py" can be imported into other notebooks to access the function "get_taxid", which takes as an NCBI NR protein accession and returns a taxid. "taxid.py" contains a function get_lineage, which takes a taxid and looks up its Linnaean lineage in the NR "nodes.dmp" and "names.dmp" files.
+
 ### chromosome_scaffold_level.csv
 genome assembly refseq accessions, genome quality data and taxonomic info
 ### download_genomes.sh
