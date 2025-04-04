@@ -71,7 +71,7 @@ Upload the final filtered set of trees to the iTOL webserver for publication. Us
 ### updated_taxonomic_distribution_fig.ipynb
 Tabulates and plots information on the number of HGT-chimeras/genome (figure 2A), chimera distribution across taxonomic class (SI figure 4), and the taxonomic range of chimeras (SI figure 5). Data stored in supplementary tables II-IV. 
 
-## hgt_origins_analysis.ipynb
+### hgt_origins_analysis.ipynb
 Tabulate and plot information related to the taxonomic origin of HGT intervals and their putative origins in symbionts (Figure 3 and supplementary table IV). 
 
 ### within_genome_parent_v2.ipynb
@@ -90,5 +90,5 @@ Contains two notebooks to run dn/ds analyses with PAML: 1. gene_wide_partition_d
 ### plot_go_terms.ipynb
 Plots manually-curated gene functional annotations (SI Figure 8), from data in SI table XV.
 
-## cluster2_percent_identity.ipynb
+### cluster2_percent_identity.ipynb
 Plots heatmap of pairwise nucleotide identity for codon-aligned CDS sequences in HGT-chimera orthologous cluster 2 (SI Figure 6). Codon alignment is available on Dryad. 
