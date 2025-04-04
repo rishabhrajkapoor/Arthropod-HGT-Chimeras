@@ -58,3 +58,37 @@ Information on the taxonomic range of each orthologous cluster of hgt-chimeras
 Python script to generate plots visualizing the taxomic distribution of blast hits from the first round of blast (with whole protein sequences as queries). Accesses chimera interval annotations stored in "chimera_intervals_final.pickle" and DIAMOND blast results in .tsv format stored in "blast_round_one_data." Blast results are available on the Dryad repository. Used to generate Figure 1A, SI figure 2A, SI figure 3B, and supplementary pdf 1. 
 ### blastplot2.py
 Python script to generate plots visualizing the taxomic distribution of blast hits from the second round of blast (with separated HGT/metazoan intervals as queries).  Accesses chimera interval annotations stored in "chimera_intervals_final.pickle" and DIAMOND blast results in .tsv format stored in "blast_round_two_data." last results are available on the Dryad repository. Used to generate Figure 1A,SI figure 3B, and supplementary pdf 1. 
+### compile_blastplot_pdf.ipynb
+Compiles round one and round two blast plots into a single PDF.
+
+### methods_figure_panel.ipynb
+Generated figure illustrating interval demarcation algorithm. Used for SI figure 2. 
+
+### upload_final_trees_to_itol_add_legend.ipynb
+Upload the final filtered set of trees to the iTOL webserver for publication. Uses the annotation files and newick trees generated in the main inference pipeline ("HGT chimera inference pipeline scripts
+/root_annotate_upload_trees.ipynb" and adds a legend for the taxonomic color assignments. Results are available at https://itol.embl.de/shared/rkapoor 
+
+### updated_taxonomic_distribution_fig.ipynb
+Tabulates and plots information on the number of HGT-chimeras/genome (figure 2A), chimera distribution across taxonomic class (SI figure 4), and the taxonomic range of chimeras (SI figure 5). Data stored in supplementary tables II-IV. 
+
+## hgt_origins_analysis.ipynb
+Tabulate and plot information related to the taxonomic origin of HGT intervals and their putative origins in symbionts (Figure 3 and supplementary table IV). 
+
+### within_genome_parent_v2.ipynb
+Run within-genome blastp searches for parent genes and perform analysis for tandem duplicates/retroduplicates (Figure 4). Outputs in supplementary table VIII. 
+
+### codon_and_gc_content_analysis.ipynb
+Compare the GC content and codon use of HGT and metazoan regions (Figure 5A). Outputs in supplementary table IX. 
+
+### expression_support.ipynb
+
+Script to obtain information on rna-seq vs ab initio support for HGT-chimeras (supplementary table X).
+
+### dnds_analysis
+Contains two notebooks to run dn/ds analyses with PAML: 1. gene_wide_partition_dnds.ipynb runs the M0 (gene-wide model) and partition models (PAML option G); 2. genus_speicies_branch_dnds.ipynb. Both call scripts and codeml configuration files in "dnds_analysis/dnds_scripts." Generates figures 5D-G. Outputs stored in supplementary tables XII-XIV.
+
+### plot_go_terms.ipynb
+Plots manually-curated gene functional annotations (SI Figure 8), from data in SI table XV.
+
+## cluster2_percent_identity.ipynb
+Plots heatmap of pairwise nucleotide identity for codon-aligned CDS sequences in HGT-chimera orthologous cluster 2 (SI Figure 6). Codon alignment is available on Dryad. 
