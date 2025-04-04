@@ -1,8 +1,4 @@
-# Arthropod-HGT-Chimeras (in order)	
-## nr_dbs
-scripts to download nr and associated taxonomic information, and make an indexed diamond blast database
-## tax_pkg
-scripts to make a sql database for efficient lookup of taxonomic information from nr protein accessions
+# Arthropod-HGT-Chimeras 
 
 ## HGT chimera inference pipeline scripts 
 ### nr_dbs
