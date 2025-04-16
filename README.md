@@ -12,8 +12,8 @@ genome assembly refseq accessions, genome quality data and taxonomic info
 download genome from ncbi (refseq accession is the parameter). 
 ### get_cds_by_scaffold.sh 
 Filter each genome using GFF3 and fasta: throw out all scaffolds < 100 kb but add back mitochondria. Takes genome name 
-### Concat.sh
-Merge all into a single fasta, appending  assembly name to each prot accession
+### concat.sh
+Merge all protein predictions into a single fasta, appending  assembly name to each prot accession
 ### mmseq2_makedb.sh
 convert fasta into an mmseqs2 database
 ### mmseq2_cluster80.sh
